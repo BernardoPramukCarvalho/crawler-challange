@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "name": "Jameson Irish Whiskey 40% 700ml ",
+      "page": "https://www.edeka24.de/Getraenke-Whisky/Irischer-Whiskey/Jameson-Irish-Whiskey-40-700ml.html?force_sid=e6trupibd672lps3mnk8gi8eod",
+      "category": "Irischer-Whiskey"
+    },
+    {
+      "name": "Kilbeggan Blended Irish Whiskey 40% 700ml ",
+      "page": "https://www.edeka24.de/Getraenke-Whisky/Irischer-Whiskey/Kilbeggan-Blended-Irish-Whiskey-40-700ml.html?force_sid=e6trupibd672lps3mnk8gi8eod",
+      "category": "Irischer-Whiskey"
+    },
+    {
+      "name": "Tullamore Dew Irish Whiskey 40% 700ml ",
+      "page": "https://www.edeka24.de/Getraenke-Whisky/Irischer-Whiskey/Tullamore-Dew-Irish-Whiskey-40-700ml.html?force_sid=e6trupibd672lps3mnk8gi8eod",
+      "category": "Irischer-Whiskey"
+    },
+    {
+      "name": "Bushmills 10 Jahre Single Malt Irish Whiskey 40% 700ml ",
+      "page": "https://www.edeka24.de/Getraenke-Whisky/Irischer-Whiskey/Bushmills-10-Jahre-Single-Malt-Irish-Whiskey-40-700ml.html?force_sid=e6trupibd672lps3mnk8gi8eod",
+      "category": "Irischer-Whiskey"
+    },
+    {
+      "name": "Connemara Peated Single Malt Irish Whiskey 40% 700ml ",
+      "page": "https://www.edeka24.de/Getraenke-Whisky/Irischer-Whiskey/Connemara-Peated-Single-Malt-Irish-Whiskey-40-700ml.html?force_sid=e6trupibd672lps3mnk8gi8eod",
+      "category": "Irischer-Whiskey"
+    },
+    {
+      "name": "Paddy Irish Whiskey 40% 700ml ",
+      "page": "https://www.edeka24.de/Getraenke-Whisky/Irischer-Whiskey/Paddy-Irish-Whiskey-40-700ml.html?force_sid=e6trupibd672lps3mnk8gi8eod",
+      "category": "Irischer-Whiskey"
+    }
+  ]
+}

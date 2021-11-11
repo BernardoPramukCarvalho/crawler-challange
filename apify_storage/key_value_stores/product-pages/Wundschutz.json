@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "name": "Hansaplast Classic 1mx6cm 10ST ",
+      "page": "https://www.edeka24.de/Drogerie/Koerperhygiene/Wundschutz/Hansaplast-Classic-1mx6cm-10ST.html?force_sid=03oonoro2gc05bc448mqa1nibe",
+      "category": "Wundschutz"
+    },
+    {
+      "name": "SOS MicroSilber-Creme 100 ml ",
+      "page": "https://www.edeka24.de/Drogerie/Koerperhygiene/Wundschutz/SOS-MicroSilber-Creme-100-ml.html?force_sid=03oonoro2gc05bc448mqa1nibe",
+      "category": "Wundschutz"
+    },
+    {
+      "name": "Hansaplast Aqua Protect 20ST ",
+      "page": "https://www.edeka24.de/Drogerie/Koerperhygiene/Wundschutz/Hansaplast-Aqua-Protect-20ST.html?force_sid=03oonoro2gc05bc448mqa1nibe",
+      "category": "Wundschutz"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "products": [
+    {
+      "name": "Milkana Käse Vielfalt 200 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Kaese/Milkana-Kaese-Vielfalt-200-g.html?force_sid=lk5slljn4a2p1ep2ravfhuhgg3",
+      "category": "Kaese"
+    },
+    {
+      "name": "Milkana Herzhafte Käse-Brotzeit 8x 25 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Kaese/Milkana-Herzhafte-Kaese-Brotzeit-8x-25-g.html?force_sid=lk5slljn4a2p1ep2ravfhuhgg3",
+      "category": "Kaese"
+    },
+    {
+      "name": "Milkana Käseplatte 8x 25 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Kaese/Milkana-Kaeseplatte-8x-25-g.html?force_sid=lk5slljn4a2p1ep2ravfhuhgg3",
+      "category": "Kaese"
+    },
+    {
+      "name": "Milkana Schmelzkäse Cheddar 200G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Kaese/Milkana-Schmelzkaese-Cheddar-200G.html?force_sid=lk5slljn4a2p1ep2ravfhuhgg3",
+      "category": "Kaese"
+    },
+    {
+      "name": "Milkana Frischeschale Kräuter 200 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Kaese/Milkana-Frischeschale-Kraeuter-200-g.html?force_sid=lk5slljn4a2p1ep2ravfhuhgg3",
+      "category": "Kaese"
+    },
+    {
+      "name": "Milkana Schmelzkäse mit Gouda 200 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Kaese/Milkana-Schmelzkaese-mit-Gouda-200-g.html?force_sid=lk5slljn4a2p1ep2ravfhuhgg3",
+      "category": "Kaese"
+    },
+    {
+      "name": "Milkana Sahne Runddose 200 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Kaese/Milkana-Sahne-Runddose-200-g.html?force_sid=lk5slljn4a2p1ep2ravfhuhgg3",
+      "category": "Kaese"
+    },
+    {
+      "name": "Milkana Sahne Frischeschale 200 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Kaese/Milkana-Sahne-Frischeschale-200-g.html?force_sid=lk5slljn4a2p1ep2ravfhuhgg3",
+      "category": "Kaese"
+    },
+    {
+      "name": "Hochland Käse-Ecken 200 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Kaese/Hochland-Kaese-Ecken-200-g.html?force_sid=lk5slljn4a2p1ep2ravfhuhgg3",
+      "category": "Kaese"
+    },
+    {
+      "name": "ADLER Edelcreme Kräuter 2x 50 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Kaese/ADLER-Edelcreme-Kraeuter-2x-50-g.html?force_sid=lk5slljn4a2p1ep2ravfhuhgg3",
+      "category": "Kaese"
+    },
+    {
+      "name": "Milkana Frischeschale Salami 50% Fett i.Tr. 200 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Kaese/Milkana-Frischeschale-Salami-50-Fett-i-Tr-200-g.html?force_sid=lk5slljn4a2p1ep2ravfhuhgg3",
+      "category": "Kaese"
+    },
+    {
+      "name": "ADLER Edelcreme Sahne 2x 50 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Kaese/ADLER-Edelcreme-Sahne-2x-50-g.html?force_sid=lk5slljn4a2p1ep2ravfhuhgg3",
+      "category": "Kaese"
+    },
+    {
+      "name": "Milkana Frischeschale Cremig leicht 200G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Kaese/Milkana-Frischeschale-Cremig-leicht-200G.html?force_sid=lk5slljn4a2p1ep2ravfhuhgg3",
+      "category": "Kaese"
+    },
+    {
+      "name": "Milkana Der Sahnige laktosefrei 150 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Kaese/Milkana-Der-Sahnige-laktosefrei-150-g.html?force_sid=lk5slljn4a2p1ep2ravfhuhgg3",
+      "category": "Kaese"
+    },
+    {
+      "name": "ADLER Edelcreme Salami 2x 50 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Kaese/ADLER-Edelcreme-Salami-2x-50-g.html?force_sid=lk5slljn4a2p1ep2ravfhuhgg3",
+      "category": "Kaese"
+    },
+    {
+      "name": "Strähl Käse Fondue Classic 400G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Kaese/Straehl-Kaese-Fondue-Classic-400G.html?force_sid=lk5slljn4a2p1ep2ravfhuhgg3",
+      "category": "Kaese"
+    }
+  ]
+}

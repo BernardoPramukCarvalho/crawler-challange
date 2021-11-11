@@ -1,0 +1,319 @@
+{
+  "products": [
+    {
+      "name": "Duplo Pralinen 10ST 182G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Muesliriegel-Riegel/Duplo-Pralinen-10ST-182G.html?force_sid=he5v917ofv445g3lm3g0vgekck",
+      "category": "Muesliriegel-Riegel"
+    },
+    {
+      "name": "Knoppers Milch-Haselnuss-Schnitte 8er Packung ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Muesliriegel-Riegel/Knoppers-Milch-Haselnuss-Schnitte-8er-Packung.html?force_sid=he5v917ofv445g3lm3g0vgekck",
+      "category": "Muesliriegel-Riegel"
+    },
+    {
+      "name": "Kinder Country 9ST ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Muesliriegel-Riegel/Kinder-Country-9ST.html?force_sid=he5v917ofv445g3lm3g0vgekck",
+      "category": "Muesliriegel-Riegel"
+    },
+    {
+      "name": "Knoppers Minis 200G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Muesliriegel-Riegel/Knoppers-Minis-200G.html?force_sid=he5v917ofv445g3lm3g0vgekck",
+      "category": "Muesliriegel-Riegel"
+    },
+    {
+      "name": "Corny Schoko Riegel 6ST 150G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Muesliriegel-Riegel/Corny-Schoko-Riegel-6ST-150G.html?force_sid=he5v917ofv445g3lm3g0vgekck",
+      "category": "Muesliriegel-Riegel"
+    },
+    {
+      "name": "Kinder Schokolade 100g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Muesliriegel-Riegel/Kinder-Schokolade-100g.html?force_sid=he5v917ofv445g3lm3g0vgekck",
+      "category": "Muesliriegel-Riegel"
+    },
+    {
+      "name": "Corny Schoko-Banane Riegel 6ST 150G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Muesliriegel-Riegel/Corny-Schoko-Banane-Riegel-6ST-150G.html?force_sid=he5v917ofv445g3lm3g0vgekck",
+      "category": "Muesliriegel-Riegel"
+    },
+    {
+      "name": "Balisto Korn Schokoriegel 9ST 166,5G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Muesliriegel-Riegel/Balisto-Korn-Schokoriegel-9ST-166-5G.html?force_sid=he5v917ofv445g3lm3g0vgekck",
+      "category": "Muesliriegel-Riegel"
+    },
+    {
+      "name": "Alnatura Bio Marzipan Riegel Zartbitter 40G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Muesliriegel-Riegel/Alnatura-Bio-Marzipan-Riegel-Zartbitter-40G.html?force_sid=he5v917ofv445g3lm3g0vgekck",
+      "category": "Muesliriegel-Riegel"
+    },
+    {
+      "name": "Balisto Müsli Schokoriegel 9ST 166,5G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Muesliriegel-Riegel/Balisto-Muesli-Schokoriegel-9ST-166-5G.html?force_sid=he5v917ofv445g3lm3g0vgekck",
+      "category": "Muesliriegel-Riegel"
+    },
+    {
+      "name": "Alnatura Bio Müsli-Riegel Schoko 6ST 150G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Muesliriegel-Riegel/Alnatura-Bio-Muesli-Riegel-Schoko-6ST-150G.html?force_sid=he5v917ofv445g3lm3g0vgekck",
+      "category": "Muesliriegel-Riegel"
+    },
+    {
+      "name": "Balisto Yoberry Schokoriegel 9ST 166,5G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Muesliriegel-Riegel/Balisto-Yoberry-Schokoriegel-9ST-166-5G.html?force_sid=he5v917ofv445g3lm3g0vgekck",
+      "category": "Muesliriegel-Riegel"
+    },
+    {
+      "name": "Knoppers Nuss Riegel 5ST 200G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Muesliriegel-Riegel/Knoppers-Nuss-Riegel-5ST-200G.html?force_sid=he5v917ofv445g3lm3g0vgekck",
+      "category": "Muesliriegel-Riegel"
+    },
+    {
+      "name": "Milky Way 9ST 193,5G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Muesliriegel-Riegel/Milky-Way-9ST-193-5G.html?force_sid=he5v917ofv445g3lm3g0vgekck",
+      "category": "Muesliriegel-Riegel"
+    },
+    {
+      "name": "Corny Nussig Riegel 6ST 150G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Muesliriegel-Riegel/Corny-Nussig-Riegel-6ST-150G.html?force_sid=he5v917ofv445g3lm3g0vgekck",
+      "category": "Muesliriegel-Riegel"
+    },
+    {
+      "name": "Ferrero Pocket Coffee 225G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Muesliriegel-Riegel/Ferrero-Pocket-Coffee-225G.html?force_sid=he5v917ofv445g3lm3g0vgekck",
+      "category": "Muesliriegel-Riegel"
+    },
+    {
+      "name": "Alnatura Bio Marzipan Nougat Riegel Zartbitter 40G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Muesliriegel-Riegel/Alnatura-Bio-Marzipan-Nougat-Riegel-Zartbitter-40G.html?force_sid=he5v917ofv445g3lm3g0vgekck",
+      "category": "Muesliriegel-Riegel"
+    },
+    {
+      "name": "Alnatura Bio Müsli-Riegel Ahorn-Dattel 6x 25G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Muesliriegel-Riegel/Alnatura-Bio-Muesli-Riegel-Ahorn-Dattel-6x-25G.html?force_sid=he5v917ofv445g3lm3g0vgekck",
+      "category": "Muesliriegel-Riegel"
+    },
+    {
+      "name": "Wicklein Feinste Nürnberger Gold-Elisen Lebkuchen schokoliert 250G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Muesliriegel-Riegel/Wicklein-Feinste-Nuernberger-Gold-Elisen-Lebkuchen-schokoliert-250G.html?force_sid=he5v917ofv445g3lm3g0vgekck",
+      "category": "Muesliriegel-Riegel"
+    },
+    {
+      "name": "Zentis Belnuga Edel-Marzipan mit Nougat 60G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Muesliriegel-Riegel/Zentis-Belnuga-Edel-Marzipan-mit-Nougat-60G.html?force_sid=he5v917ofv445g3lm3g0vgekck",
+      "category": "Muesliriegel-Riegel"
+    },
+    {
+      "name": "Milka Nussini 5ST 157,5G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Muesliriegel-Riegel/Milka-Nussini-5ST-157-5G.html?force_sid=he5v917ofv445g3lm3g0vgekck",
+      "category": "Muesliriegel-Riegel"
+    },
+    {
+      "name": "Alnatura Bio Beere Riegel 75G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Muesliriegel-Riegel/Alnatura-Bio-Beere-Riegel-75G.html?force_sid=he5v917ofv445g3lm3g0vgekck",
+      "category": "Muesliriegel-Riegel"
+    },
+    {
+      "name": "Nature Valley Crunchy Variety Pack Riegel 10ST 210G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Muesliriegel-Riegel/Nature-Valley-Crunchy-Variety-Pack-Riegel-10ST-210G.html?force_sid=he5v917ofv445g3lm3g0vgekck",
+      "category": "Muesliriegel-Riegel"
+    },
+    {
+      "name": "Alnatura Bio Mandel Honig Riegel 40G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Muesliriegel-Riegel/Alnatura-Bio-Mandel-Honig-Riegel-40G.html?force_sid=he5v917ofv445g3lm3g0vgekck",
+      "category": "Muesliriegel-Riegel"
+    },
+    {
+      "name": "Sarotti Tiamo Feinste Trüffel dunkler Marc de Champagne 125 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Muesliriegel-Riegel/Sarotti-Tiamo-Feinste-Trueffel-dunkler-Marc-de-Champagne-125-g.html?force_sid=he5v917ofv445g3lm3g0vgekck",
+      "category": "Muesliriegel-Riegel"
+    },
+    {
+      "name": "Nestlé Nuts 5ST 150G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Muesliriegel-Riegel/Nestl-Nuts-5ST-150G.html?force_sid=he5v917ofv445g3lm3g0vgekck",
+      "category": "Muesliriegel-Riegel"
+    },
+    {
+      "name": "Alnatura Bio Sesam-Krokant-Riegel 4ST 108g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Muesliriegel-Riegel/Alnatura-Bio-Sesam-Krokant-Riegel-4ST-108g.html?force_sid=he5v917ofv445g3lm3g0vgekck",
+      "category": "Muesliriegel-Riegel"
+    },
+    {
+      "name": "Alnatura Bio Amaranth Zartbitter Riegel 25G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Muesliriegel-Riegel/Alnatura-Bio-Amaranth-Zartbitter-Riegel-25G.html?force_sid=he5v917ofv445g3lm3g0vgekck",
+      "category": "Muesliriegel-Riegel"
+    },
+    {
+      "name": "Kinder Happy Hippo Cacao 5ST ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Muesliriegel-Riegel/Kinder-Happy-Hippo-Cacao-5ST.html?force_sid=he5v917ofv445g3lm3g0vgekck",
+      "category": "Muesliriegel-Riegel"
+    },
+    {
+      "name": "Duplo Chocnut 5x 26 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Muesliriegel-Riegel/Duplo-Chocnut-5x-26-g.html?force_sid=he5v917ofv445g3lm3g0vgekck",
+      "category": "Muesliriegel-Riegel"
+    },
+    {
+      "name": "KitKat 4ST 166G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Muesliriegel-Riegel/KitKat-4ST-166G.html?force_sid=tful0d17rug3hc746v6s6sk0fr",
+      "category": "Muesliriegel-Riegel"
+    },
+    {
+      "name": "Corny Crunch Hafer & Honig Riegel 6ST 120G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Muesliriegel-Riegel/Corny-Crunch-Hafer-Honig-Riegel-6ST-120G.html?force_sid=tful0d17rug3hc746v6s6sk0fr",
+      "category": "Muesliriegel-Riegel"
+    },
+    {
+      "name": "Alnatura Bio Banane Riegel 40G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Muesliriegel-Riegel/Alnatura-Bio-Banane-Riegel-40G.html?force_sid=tful0d17rug3hc746v6s6sk0fr",
+      "category": "Muesliriegel-Riegel"
+    },
+    {
+      "name": "Alnatura Bio Kokos Riegel 75G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Muesliriegel-Riegel/Alnatura-Bio-Kokos-Riegel-75G.html?force_sid=tful0d17rug3hc746v6s6sk0fr",
+      "category": "Muesliriegel-Riegel"
+    },
+    {
+      "name": "Alnatura Bio Granatapfel-Traube Fruchtschnitte 75G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Muesliriegel-Riegel/Alnatura-Bio-Granatapfel-Traube-Fruchtschnitte-75G.html?force_sid=tful0d17rug3hc746v6s6sk0fr",
+      "category": "Muesliriegel-Riegel"
+    },
+    {
+      "name": "Alnatura Bio Cashew Krokant Riegel 30G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Muesliriegel-Riegel/Alnatura-Bio-Cashew-Krokant-Riegel-30G.html?force_sid=tful0d17rug3hc746v6s6sk0fr",
+      "category": "Muesliriegel-Riegel"
+    },
+    {
+      "name": "Nature Valley Protein Salted Caramel Nut Riegel 4ST 160G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Muesliriegel-Riegel/Nature-Valley-Protein-Salted-Caramel-Nut-Riegel-4ST-160G.html?force_sid=tful0d17rug3hc746v6s6sk0fr",
+      "category": "Muesliriegel-Riegel"
+    },
+    {
+      "name": "Knoppers Kokos Riegel 5ST 200G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Muesliriegel-Riegel/Knoppers-Kokos-Riegel-5ST-200G.html?force_sid=tful0d17rug3hc746v6s6sk0fr",
+      "category": "Muesliriegel-Riegel"
+    },
+    {
+      "name": "EDEKA Bio Haferbar Flapjack Cranberry und Haselnuss 60 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Muesliriegel-Riegel/EDEKA-Bio-Haferbar-Flapjack-Cranberry-und-Haselnuss-60-g.html?force_sid=tful0d17rug3hc746v6s6sk0fr",
+      "category": "Muesliriegel-Riegel"
+    },
+    {
+      "name": "Nature Valley Crunchy Hafer & Honig Riegel 10ST 210G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Muesliriegel-Riegel/Nature-Valley-Crunchy-Hafer-Honig-Riegel-10ST-210G.html?force_sid=tful0d17rug3hc746v6s6sk0fr",
+      "category": "Muesliriegel-Riegel"
+    },
+    {
+      "name": "Knoppers Erdnuss Riegel 5ST 200G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Muesliriegel-Riegel/Knoppers-Erdnuss-Riegel-5ST-200G.html?force_sid=tful0d17rug3hc746v6s6sk0fr",
+      "category": "Muesliriegel-Riegel"
+    },
+    {
+      "name": "Corny Free Schoko Riegel 6ST 120G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Muesliriegel-Riegel/Corny-Free-Schoko-Riegel-6ST-120G.html?force_sid=tful0d17rug3hc746v6s6sk0fr",
+      "category": "Muesliriegel-Riegel"
+    },
+    {
+      "name": "EDEKA Bio Haferbar Flapjack Team Deutschland Frucht 60G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Muesliriegel-Riegel/EDEKA-Bio-Haferbar-Flapjack-Team-Deutschland-Frucht-60G.html?force_sid=tful0d17rug3hc746v6s6sk0fr",
+      "category": "Muesliriegel-Riegel"
+    },
+    {
+      "name": "Alnatura Bio Cocos Zartbitter Riegel 40G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Muesliriegel-Riegel/Alnatura-Bio-Cocos-Zartbitter-Riegel-40G.html?force_sid=tful0d17rug3hc746v6s6sk0fr",
+      "category": "Muesliriegel-Riegel"
+    },
+    {
+      "name": "Snickers Creamy Peanut Butter Riegel 4ST 146G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Muesliriegel-Riegel/Snickers-Creamy-Peanut-Butter-Riegel-4ST-146G.html?force_sid=tful0d17rug3hc746v6s6sk0fr",
+      "category": "Muesliriegel-Riegel"
+    },
+    {
+      "name": "After Eight Fine Sticks Dark Chocolate 125 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Muesliriegel-Riegel/After-Eight-Fine-Sticks-Dark-Chocolate-125-g.html?force_sid=tful0d17rug3hc746v6s6sk0fr",
+      "category": "Muesliriegel-Riegel"
+    },
+    {
+      "name": "Alnatura Bio Mandel-Cranberry Fruchtschnitte 75G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Muesliriegel-Riegel/Alnatura-Bio-Mandel-Cranberry-Fruchtschnitte-75G.html?force_sid=tful0d17rug3hc746v6s6sk0fr",
+      "category": "Muesliriegel-Riegel"
+    },
+    {
+      "name": "Nature Valley Protein Erdnuss & Schokolade Riegel 4ST 160G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Muesliriegel-Riegel/Nature-Valley-Protein-Erdnuss-Schokolade-Riegel-4ST-160G.html?force_sid=tful0d17rug3hc746v6s6sk0fr",
+      "category": "Muesliriegel-Riegel"
+    },
+    {
+      "name": "EDEKA Lieblingsstücke ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Muesliriegel-Riegel/EDEKA-Lieblingsstuecke.html?force_sid=tful0d17rug3hc746v6s6sk0fr",
+      "category": "Muesliriegel-Riegel"
+    },
+    {
+      "name": "Alnatura Bio Vielfrucht Riegel 40G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Muesliriegel-Riegel/Alnatura-Bio-Vielfrucht-Riegel-40G.html?force_sid=tful0d17rug3hc746v6s6sk0fr",
+      "category": "Muesliriegel-Riegel"
+    },
+    {
+      "name": "Nature Valley Crunchy Hafer & Dunkle Schokolade Riegel 10ST 210G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Muesliriegel-Riegel/Nature-Valley-Crunchy-Hafer-Dunkle-Schokolade-Riegel-10ST-210G.html?force_sid=tful0d17rug3hc746v6s6sk0fr",
+      "category": "Muesliriegel-Riegel"
+    },
+    {
+      "name": "Veganz Bio Choc Bar Haselnuss vegan 40g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Muesliriegel-Riegel/Veganz-Bio-Choc-Bar-Haselnuss-vegan-40g.html?force_sid=tful0d17rug3hc746v6s6sk0fr",
+      "category": "Muesliriegel-Riegel"
+    },
+    {
+      "name": "Corny Crunch Hafer & Schoko Riegel 6ST 120G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Muesliriegel-Riegel/Corny-Crunch-Hafer-Schoko-Riegel-6ST-120G.html?force_sid=tful0d17rug3hc746v6s6sk0fr",
+      "category": "Muesliriegel-Riegel"
+    },
+    {
+      "name": "Raw Bite Bio Protein Riegel 50 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Muesliriegel-Riegel/Raw-Bite-Bio-Protein-Riegel-50-g.html?force_sid=tful0d17rug3hc746v6s6sk0fr",
+      "category": "Muesliriegel-Riegel"
+    },
+    {
+      "name": "Alnatura Bio Mandel Riegel 75G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Muesliriegel-Riegel/Alnatura-Bio-Mandel-Riegel-75G.html?force_sid=tful0d17rug3hc746v6s6sk0fr",
+      "category": "Muesliriegel-Riegel"
+    },
+    {
+      "name": "Alnatura Bio Obstsalat-Riegel 40G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Muesliriegel-Riegel/Alnatura-Bio-Obstsalat-Riegel-40G.html?force_sid=tful0d17rug3hc746v6s6sk0fr",
+      "category": "Muesliriegel-Riegel"
+    },
+    {
+      "name": "Snickers Crisp 5x 40g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Muesliriegel-Riegel/Snickers-Crisp-5x-40g.html?force_sid=tful0d17rug3hc746v6s6sk0fr",
+      "category": "Muesliriegel-Riegel"
+    },
+    {
+      "name": "Kölln Müsli-Riegel Hafer-Schoko 4ST 100G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Muesliriegel-Riegel/Koelln-Muesli-Riegel-Hafer-Schoko-4ST-100G.html?force_sid=tful0d17rug3hc746v6s6sk0fr",
+      "category": "Muesliriegel-Riegel"
+    },
+    {
+      "name": "Knoppers Nussriegel Dark 5ST 200g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Muesliriegel-Riegel/Knoppers-Nussriegel-Dark-5ST-200g.html?force_sid=tful0d17rug3hc746v6s6sk0fr",
+      "category": "Muesliriegel-Riegel"
+    },
+    {
+      "name": "Alnatura Bio Multi Riegel 75G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Muesliriegel-Riegel/Alnatura-Bio-Multi-Riegel-75G.html?force_sid=tful0d17rug3hc746v6s6sk0fr",
+      "category": "Muesliriegel-Riegel"
+    },
+    {
+      "name": "Nature Valley Crunchy Erdnussbutter 10ST 210G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Muesliriegel-Riegel/Nature-Valley-Crunchy-Erdnussbutter-10ST-210G.html?force_sid=c0eo7o7vsh1b8oqr38g4b31r9m",
+      "category": "Muesliriegel-Riegel"
+    },
+    {
+      "name": "Raw Bite Bio Apple & Cinnamon Riegel 50 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Muesliriegel-Riegel/Raw-Bite-Bio-Apple-Cinnamon-Riegel-50-g.html?force_sid=c0eo7o7vsh1b8oqr38g4b31r9m",
+      "category": "Muesliriegel-Riegel"
+    },
+    {
+      "name": "Raw Bite Bio Peanut Riegel 50 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Muesliriegel-Riegel/Raw-Bite-Bio-Peanut-Riegel-50-g.html?force_sid=c0eo7o7vsh1b8oqr38g4b31r9m",
+      "category": "Muesliriegel-Riegel"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "products": [
+    {
+      "name": "SodaStream Wassersprudler Duo titan ",
+      "page": "https://www.edeka24.de/Aktionen/Sodastream/SodaStream-Wassersprudler-Duo-titan.html?force_sid=re9u2iv3966fglhqmel9bqf8ok",
+      "category": "Sodastream"
+    },
+    {
+      "name": "Mautner Markhof Feiner Blütesirup Holunderblüte 0,7 ltr ",
+      "page": "https://www.edeka24.de/Aktionen/Sodastream/Mautner-Markhof-Feiner-Bluetesirup-Holunderbluete-0-7-ltr.html?force_sid=re9u2iv3966fglhqmel9bqf8ok",
+      "category": "Sodastream"
+    },
+    {
+      "name": "Monin Sirup Grenadine 250ml ",
+      "page": "https://www.edeka24.de/Aktionen/Sodastream/Monin-Sirup-Grenadine-250ml.html?force_sid=re9u2iv3966fglhqmel9bqf8ok",
+      "category": "Sodastream"
+    },
+    {
+      "name": "Monin Sirup Holunderblüte 250ml ",
+      "page": "https://www.edeka24.de/Aktionen/Sodastream/Monin-Sirup-Holunderbluete-250ml.html?force_sid=re9u2iv3966fglhqmel9bqf8ok",
+      "category": "Sodastream"
+    },
+    {
+      "name": "SodaStream Getränkesirup 7up free ohne Zucker 440 ml ",
+      "page": "https://www.edeka24.de/Aktionen/Sodastream/SodaStream-Getraenkesirup-7up-free-ohne-Zucker-440-ml.html?force_sid=re9u2iv3966fglhqmel9bqf8ok",
+      "category": "Sodastream"
+    },
+    {
+      "name": "SodaStream Getränkesirup Mirinda 440 ml ",
+      "page": "https://www.edeka24.de/Aktionen/Sodastream/SodaStream-Getraenkesirup-Mirinda-440-ml.html?force_sid=re9u2iv3966fglhqmel9bqf8ok",
+      "category": "Sodastream"
+    },
+    {
+      "name": "SodaStream Getränkesirup Mirinda light ohne Zucker 440 ml ",
+      "page": "https://www.edeka24.de/Aktionen/Sodastream/SodaStream-Getraenkesirup-Mirinda-light-ohne-Zucker-440-ml.html?force_sid=re9u2iv3966fglhqmel9bqf8ok",
+      "category": "Sodastream"
+    },
+    {
+      "name": "SodaStream Getränkesirup Pepsi 440 ml ",
+      "page": "https://www.edeka24.de/Aktionen/Sodastream/SodaStream-Getraenkesirup-Pepsi-440-ml.html?force_sid=re9u2iv3966fglhqmel9bqf8ok",
+      "category": "Sodastream"
+    },
+    {
+      "name": "SodaStream Getränkesirup Pepsi Max ohne Zucker 440 ml ",
+      "page": "https://www.edeka24.de/Aktionen/Sodastream/SodaStream-Getraenkesirup-Pepsi-Max-ohne-Zucker-440-ml.html?force_sid=re9u2iv3966fglhqmel9bqf8ok",
+      "category": "Sodastream"
+    }
+  ]
+}

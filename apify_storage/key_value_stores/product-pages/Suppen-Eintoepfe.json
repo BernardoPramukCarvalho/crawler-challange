@@ -1,0 +1,439 @@
+{
+  "products": [
+    {
+      "name": "Alnatura Bio Linsen Eintopf 400G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fertiggerichte/Suppen-Eintoepfe/Alnatura-Bio-Linsen-Eintopf-400G.html?force_sid=67lv0d38ea3lfi8t9q7jmkq2jo",
+      "category": "Suppen-Eintoepfe"
+    },
+    {
+      "name": "Erasco Erbsen-Eintopf mit Würstchen 800G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fertiggerichte/Suppen-Eintoepfe/Erasco-Erbsen-Eintopf-mit-Wuerstchen-800G.html?force_sid=67lv0d38ea3lfi8t9q7jmkq2jo",
+      "category": "Suppen-Eintoepfe"
+    },
+    {
+      "name": "Alnatura Bio Hühner-Nudel Eintopf 400G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fertiggerichte/Suppen-Eintoepfe/Alnatura-Bio-Huehner-Nudel-Eintopf-400G.html?force_sid=67lv0d38ea3lfi8t9q7jmkq2jo",
+      "category": "Suppen-Eintoepfe"
+    },
+    {
+      "name": "Alnatura Bio Erbseneintopf 400G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fertiggerichte/Suppen-Eintoepfe/Alnatura-Bio-Erbseneintopf-400G.html?force_sid=67lv0d38ea3lfi8t9q7jmkq2jo",
+      "category": "Suppen-Eintoepfe"
+    },
+    {
+      "name": "EDEKA Gulaschsuppe 480 ml ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fertiggerichte/Suppen-Eintoepfe/EDEKA-Gulaschsuppe-480-ml.html?force_sid=67lv0d38ea3lfi8t9q7jmkq2jo",
+      "category": "Suppen-Eintoepfe"
+    },
+    {
+      "name": "Erasco Hühner Nudel-Topf mit Hühnerbrühe 800G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fertiggerichte/Suppen-Eintoepfe/Erasco-Huehner-Nudel-Topf-mit-Huehnerbruehe-800G.html?force_sid=67lv0d38ea3lfi8t9q7jmkq2jo",
+      "category": "Suppen-Eintoepfe"
+    },
+    {
+      "name": "Erasco Linsen-Eintopf mit Würstchen 800G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fertiggerichte/Suppen-Eintoepfe/Erasco-Linsen-Eintopf-mit-Wuerstchen-800G.html?force_sid=67lv0d38ea3lfi8t9q7jmkq2jo",
+      "category": "Suppen-Eintoepfe"
+    },
+    {
+      "name": "Edeka Chili con Carne 500 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fertiggerichte/Suppen-Eintoepfe/Edeka-Chili-con-Carne-500-g.html?force_sid=67lv0d38ea3lfi8t9q7jmkq2jo",
+      "category": "Suppen-Eintoepfe"
+    },
+    {
+      "name": "Erasco Schweizer Käse-Maccaroni 800G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fertiggerichte/Suppen-Eintoepfe/Erasco-Schweizer-Kaese-Maccaroni-800G.html?force_sid=67lv0d38ea3lfi8t9q7jmkq2jo",
+      "category": "Suppen-Eintoepfe"
+    },
+    {
+      "name": "Erasco Texas-Topf 800G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fertiggerichte/Suppen-Eintoepfe/Erasco-Texas-Topf-800G.html?force_sid=67lv0d38ea3lfi8t9q7jmkq2jo",
+      "category": "Suppen-Eintoepfe"
+    },
+    {
+      "name": "Edeka Linseneintopf 500 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fertiggerichte/Suppen-Eintoepfe/Edeka-Linseneintopf-500-g.html?force_sid=67lv0d38ea3lfi8t9q7jmkq2jo",
+      "category": "Suppen-Eintoepfe"
+    },
+    {
+      "name": "Zimmermann Leberknödel-Suppe 400 ml ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fertiggerichte/Suppen-Eintoepfe/Zimmermann-Leberknoedel-Suppe-400-ml.html?force_sid=67lv0d38ea3lfi8t9q7jmkq2jo",
+      "category": "Suppen-Eintoepfe"
+    },
+    {
+      "name": "Erasco 1 Portion Kartoffel-Topf mit Würstchen 400G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fertiggerichte/Suppen-Eintoepfe/Erasco-1-Portion-Kartoffel-Topf-mit-Wuerstchen-400G.html?force_sid=67lv0d38ea3lfi8t9q7jmkq2jo",
+      "category": "Suppen-Eintoepfe"
+    },
+    {
+      "name": "Erasco Möhren-Eintopf mit Fleischbällchen 800G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fertiggerichte/Suppen-Eintoepfe/Erasco-Moehren-Eintopf-mit-Fleischbaellchen-800G.html?force_sid=67lv0d38ea3lfi8t9q7jmkq2jo",
+      "category": "Suppen-Eintoepfe"
+    },
+    {
+      "name": "Erasco Hühner Nudeltopf 1 Portion 400G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fertiggerichte/Suppen-Eintoepfe/Erasco-Huehner-Nudeltopf-1-Portion-400G.html?force_sid=67lv0d38ea3lfi8t9q7jmkq2jo",
+      "category": "Suppen-Eintoepfe"
+    },
+    {
+      "name": "Erasco Feurige Thai-Suppe 390ML ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fertiggerichte/Suppen-Eintoepfe/Erasco-Feurige-Thai-Suppe-390ML.html?force_sid=67lv0d38ea3lfi8t9q7jmkq2jo",
+      "category": "Suppen-Eintoepfe"
+    },
+    {
+      "name": "Erasco Erbsen-Eintopf mit Würstchen 1 Portion 400G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fertiggerichte/Suppen-Eintoepfe/Erasco-Erbsen-Eintopf-mit-Wuerstchen-1-Portion-400G.html?force_sid=67lv0d38ea3lfi8t9q7jmkq2jo",
+      "category": "Suppen-Eintoepfe"
+    },
+    {
+      "name": "Erasco Spätzle-Topf mit Linsen 800G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fertiggerichte/Suppen-Eintoepfe/Erasco-Spaetzle-Topf-mit-Linsen-800G.html?force_sid=67lv0d38ea3lfi8t9q7jmkq2jo",
+      "category": "Suppen-Eintoepfe"
+    },
+    {
+      "name": "Erasco Grüne Bohnen-Eintopf 800G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fertiggerichte/Suppen-Eintoepfe/Erasco-Gruene-Bohnen-Eintopf-800G.html?force_sid=67lv0d38ea3lfi8t9q7jmkq2jo",
+      "category": "Suppen-Eintoepfe"
+    },
+    {
+      "name": "Alnatura Bio Kichererbsen Kokos-Eintopf 400G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fertiggerichte/Suppen-Eintoepfe/Alnatura-Bio-Kichererbsen-Kokos-Eintopf-400G.html?force_sid=67lv0d38ea3lfi8t9q7jmkq2jo",
+      "category": "Suppen-Eintoepfe"
+    },
+    {
+      "name": "Erasco Ungarischer Gulasch-Topf mit aromatischem Pfeffer 800G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fertiggerichte/Suppen-Eintoepfe/Erasco-Ungarischer-Gulasch-Topf-mit-aromatischem-Pfeffer-800G.html?force_sid=67lv0d38ea3lfi8t9q7jmkq2jo",
+      "category": "Suppen-Eintoepfe"
+    },
+    {
+      "name": "Erasco Frischgemüse-Topf mit Fleischklößchen 800G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fertiggerichte/Suppen-Eintoepfe/Erasco-Frischgemuese-Topf-mit-Fleischkloesschen-800G.html?force_sid=67lv0d38ea3lfi8t9q7jmkq2jo",
+      "category": "Suppen-Eintoepfe"
+    },
+    {
+      "name": "Erasco Pfifferling Rahmsuppe 390ML ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fertiggerichte/Suppen-Eintoepfe/Erasco-Pfifferling-Rahmsuppe-390ML.html?force_sid=67lv0d38ea3lfi8t9q7jmkq2jo",
+      "category": "Suppen-Eintoepfe"
+    },
+    {
+      "name": "Erasco Ungarische Gulaschsuppe 390ML ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fertiggerichte/Suppen-Eintoepfe/Erasco-Ungarische-Gulaschsuppe-390ML.html?force_sid=67lv0d38ea3lfi8t9q7jmkq2jo",
+      "category": "Suppen-Eintoepfe"
+    },
+    {
+      "name": "Erasco Rindfleisch Nudel-Topf 800G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fertiggerichte/Suppen-Eintoepfe/Erasco-Rindfleisch-Nudel-Topf-800G.html?force_sid=67lv0d38ea3lfi8t9q7jmkq2jo",
+      "category": "Suppen-Eintoepfe"
+    },
+    {
+      "name": "Erasco Hühner Reis-Topf mit Hühnerbrühe 800G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fertiggerichte/Suppen-Eintoepfe/Erasco-Huehner-Reis-Topf-mit-Huehnerbruehe-800G.html?force_sid=67lv0d38ea3lfi8t9q7jmkq2jo",
+      "category": "Suppen-Eintoepfe"
+    },
+    {
+      "name": "Erasco Bunter Gemüsetopf mit Nudeln 800G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fertiggerichte/Suppen-Eintoepfe/Erasco-Bunter-Gemuesetopf-mit-Nudeln-800G.html?force_sid=67lv0d38ea3lfi8t9q7jmkq2jo",
+      "category": "Suppen-Eintoepfe"
+    },
+    {
+      "name": "Erasco Serbische Bohnensuppe 750ML ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fertiggerichte/Suppen-Eintoepfe/Erasco-Serbische-Bohnensuppe-750ML.html?force_sid=67lv0d38ea3lfi8t9q7jmkq2jo",
+      "category": "Suppen-Eintoepfe"
+    },
+    {
+      "name": "Edeka Gemüsesuppe 480 ml ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fertiggerichte/Suppen-Eintoepfe/Edeka-Gemuesesuppe-480-ml.html?force_sid=67lv0d38ea3lfi8t9q7jmkq2jo",
+      "category": "Suppen-Eintoepfe"
+    },
+    {
+      "name": "Erasco Spargel Cremesuppe 390ML ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fertiggerichte/Suppen-Eintoepfe/Erasco-Spargel-Cremesuppe-390ML.html?force_sid=67lv0d38ea3lfi8t9q7jmkq2jo",
+      "category": "Suppen-Eintoepfe"
+    },
+    {
+      "name": "Maggi Ein Teller Erbsentopf mit Speck 315G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fertiggerichte/Suppen-Eintoepfe/Maggi-Ein-Teller-Erbsentopf-mit-Speck-315G.html?force_sid=uk5292jhfnem1pnhhtv3uhuk4t",
+      "category": "Suppen-Eintoepfe"
+    },
+    {
+      "name": "Erasco 1 Portion Serbischer Bohnen-Eintopf 400G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fertiggerichte/Suppen-Eintoepfe/Erasco-1-Portion-Serbischer-Bohnen-Eintopf-400G.html?force_sid=uk5292jhfnem1pnhhtv3uhuk4t",
+      "category": "Suppen-Eintoepfe"
+    },
+    {
+      "name": "Erasco Kartoffel Cremesuppe 390ML ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fertiggerichte/Suppen-Eintoepfe/Erasco-Kartoffel-Cremesuppe-390ML.html?force_sid=uk5292jhfnem1pnhhtv3uhuk4t",
+      "category": "Suppen-Eintoepfe"
+    },
+    {
+      "name": "Sonnen Bassermann Linseneintopf mit Würstchen 800G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fertiggerichte/Suppen-Eintoepfe/Sonnen-Bassermann-Linseneintopf-mit-Wuerstchen-800G.html?force_sid=uk5292jhfnem1pnhhtv3uhuk4t",
+      "category": "Suppen-Eintoepfe"
+    },
+    {
+      "name": "Erasco Chinesischer Gemüsetopf 800G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fertiggerichte/Suppen-Eintoepfe/Erasco-Chinesischer-Gemuesetopf-800G.html?force_sid=uk5292jhfnem1pnhhtv3uhuk4t",
+      "category": "Suppen-Eintoepfe"
+    },
+    {
+      "name": "Sonnen Bassermann Gulasch Suppe Wiener Art 400ml ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fertiggerichte/Suppen-Eintoepfe/Sonnen-Bassermann-Gulasch-Suppe-Wiener-Art-400ml.html?force_sid=uk5292jhfnem1pnhhtv3uhuk4t",
+      "category": "Suppen-Eintoepfe"
+    },
+    {
+      "name": "Erasco Hühner-Nudelsuppe 390ML ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fertiggerichte/Suppen-Eintoepfe/Erasco-Huehner-Nudelsuppe-390ML.html?force_sid=uk5292jhfnem1pnhhtv3uhuk4t",
+      "category": "Suppen-Eintoepfe"
+    },
+    {
+      "name": "Erasco Vegetarischer Erbsen-Eintopf 800G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fertiggerichte/Suppen-Eintoepfe/Erasco-Vegetarischer-Erbsen-Eintopf-800G.html?force_sid=uk5292jhfnem1pnhhtv3uhuk4t",
+      "category": "Suppen-Eintoepfe"
+    },
+    {
+      "name": "Erasco Reistopf mit Fleischklößchen 800G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fertiggerichte/Suppen-Eintoepfe/Erasco-Reistopf-mit-Fleischkloesschen-800G.html?force_sid=uk5292jhfnem1pnhhtv3uhuk4t",
+      "category": "Suppen-Eintoepfe"
+    },
+    {
+      "name": "Erasco 1 Portion Westfälischer Linsen-Eintopf mit Essig 400G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fertiggerichte/Suppen-Eintoepfe/Erasco-1-Portion-Westfaelischer-Linsen-Eintopf-mit-Essig-400G.html?force_sid=uk5292jhfnem1pnhhtv3uhuk4t",
+      "category": "Suppen-Eintoepfe"
+    },
+    {
+      "name": "Alnatura Bio Rote Linsen Suppe 375ML ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fertiggerichte/Suppen-Eintoepfe/Alnatura-Bio-Rote-Linsen-Suppe-375ML.html?force_sid=uk5292jhfnem1pnhhtv3uhuk4t",
+      "category": "Suppen-Eintoepfe"
+    },
+    {
+      "name": "Erasco Lübecker Hochzeitssuppe 390ML ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fertiggerichte/Suppen-Eintoepfe/Erasco-Luebecker-Hochzeitssuppe-390ML.html?force_sid=uk5292jhfnem1pnhhtv3uhuk4t",
+      "category": "Suppen-Eintoepfe"
+    },
+    {
+      "name": "Alnatura Bio Tomatensuppe 340G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fertiggerichte/Suppen-Eintoepfe/Alnatura-Bio-Tomatensuppe-340G.html?force_sid=uk5292jhfnem1pnhhtv3uhuk4t",
+      "category": "Suppen-Eintoepfe"
+    },
+    {
+      "name": "Erasco 1 Portion Grüne Bohnen Kartoffeltopf 400G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fertiggerichte/Suppen-Eintoepfe/Erasco-1-Portion-Gruene-Bohnen-Kartoffeltopf-400G.html?force_sid=uk5292jhfnem1pnhhtv3uhuk4t",
+      "category": "Suppen-Eintoepfe"
+    },
+    {
+      "name": "Erasco 1 Portion Rindfleisch Nudel-Topf 400G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fertiggerichte/Suppen-Eintoepfe/Erasco-1-Portion-Rindfleisch-Nudel-Topf-400G.html?force_sid=uk5292jhfnem1pnhhtv3uhuk4t",
+      "category": "Suppen-Eintoepfe"
+    },
+    {
+      "name": "Erasco Kürbis Cremesuppe 390ML ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fertiggerichte/Suppen-Eintoepfe/Erasco-Kuerbis-Cremesuppe-390ML.html?force_sid=uk5292jhfnem1pnhhtv3uhuk4t",
+      "category": "Suppen-Eintoepfe"
+    },
+    {
+      "name": "Sonnen Bassermann Erbsentopf mit herzhaften Würstchen 800G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fertiggerichte/Suppen-Eintoepfe/Sonnen-Bassermann-Erbsentopf-mit-herzhaften-Wuerstchen-800G.html?force_sid=uk5292jhfnem1pnhhtv3uhuk4t",
+      "category": "Suppen-Eintoepfe"
+    },
+    {
+      "name": "Erasco Indisches Gemüse-Curry 800G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fertiggerichte/Suppen-Eintoepfe/Erasco-Indisches-Gemuese-Curry-800G.html?force_sid=uk5292jhfnem1pnhhtv3uhuk4t",
+      "category": "Suppen-Eintoepfe"
+    },
+    {
+      "name": "Erasco Westfälischer Linsen-Eintopf mit Essig 800G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fertiggerichte/Suppen-Eintoepfe/Erasco-Westfaelischer-Linsen-Eintopf-mit-Essig-800G.html?force_sid=uk5292jhfnem1pnhhtv3uhuk4t",
+      "category": "Suppen-Eintoepfe"
+    },
+    {
+      "name": "Erasco Graupen-Topf 800G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fertiggerichte/Suppen-Eintoepfe/Erasco-Graupen-Topf-800G.html?force_sid=uk5292jhfnem1pnhhtv3uhuk4t",
+      "category": "Suppen-Eintoepfe"
+    },
+    {
+      "name": "Erasco Ochsenschwanz Suppe mit Madeira Wein 385ML ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fertiggerichte/Suppen-Eintoepfe/Erasco-Ochsenschwanz-Suppe-mit-Madeira-Wein-385ML.html?force_sid=uk5292jhfnem1pnhhtv3uhuk4t",
+      "category": "Suppen-Eintoepfe"
+    },
+    {
+      "name": "Erasco Weiße Bohnen-Eintopf 800G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fertiggerichte/Suppen-Eintoepfe/Erasco-Weisse-Bohnen-Eintopf-800G.html?force_sid=uk5292jhfnem1pnhhtv3uhuk4t",
+      "category": "Suppen-Eintoepfe"
+    },
+    {
+      "name": "Edeka Rindersuppe 480 ml ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fertiggerichte/Suppen-Eintoepfe/Edeka-Rindersuppe-480-ml.html?force_sid=uk5292jhfnem1pnhhtv3uhuk4t",
+      "category": "Suppen-Eintoepfe"
+    },
+    {
+      "name": "Erasco Kartoffel-Topf mit Würstchen 800G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fertiggerichte/Suppen-Eintoepfe/Erasco-Kartoffel-Topf-mit-Wuerstchen-800G.html?force_sid=uk5292jhfnem1pnhhtv3uhuk4t",
+      "category": "Suppen-Eintoepfe"
+    },
+    {
+      "name": "Sonnen Bassermann Hühnernudeltopf mit buntem Gemüse 800G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fertiggerichte/Suppen-Eintoepfe/Sonnen-Bassermann-Huehnernudeltopf-mit-buntem-Gemuese-800G.html?force_sid=uk5292jhfnem1pnhhtv3uhuk4t",
+      "category": "Suppen-Eintoepfe"
+    },
+    {
+      "name": "Sonnen Bassermann Herzhafte Gulaschsuppe 400ml ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fertiggerichte/Suppen-Eintoepfe/Sonnen-Bassermann-Herzhafte-Gulaschsuppe-400ml.html?force_sid=uk5292jhfnem1pnhhtv3uhuk4t",
+      "category": "Suppen-Eintoepfe"
+    },
+    {
+      "name": "Erasco 1 Portion Hühner-Reistopf mit Hühnerbrühe 400G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fertiggerichte/Suppen-Eintoepfe/Erasco-1-Portion-Huehner-Reistopf-mit-Huehnerbruehe-400G.html?force_sid=uk5292jhfnem1pnhhtv3uhuk4t",
+      "category": "Suppen-Eintoepfe"
+    },
+    {
+      "name": "Maggi Topfinito Kartoffelsuppe mit Würstchen 380 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fertiggerichte/Suppen-Eintoepfe/Maggi-Topfinito-Kartoffelsuppe-mit-Wuerstchen-380-g.html?force_sid=uk5292jhfnem1pnhhtv3uhuk4t",
+      "category": "Suppen-Eintoepfe"
+    },
+    {
+      "name": "Erasco Ungarische Gulaschsuppe 770ML ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fertiggerichte/Suppen-Eintoepfe/Erasco-Ungarische-Gulaschsuppe-770ML.html?force_sid=uk5292jhfnem1pnhhtv3uhuk4t",
+      "category": "Suppen-Eintoepfe"
+    },
+    {
+      "name": "Erasco 1 Portion Erbsen-Eintopf 400G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fertiggerichte/Suppen-Eintoepfe/Erasco-1-Portion-Erbsen-Eintopf-400G.html?force_sid=uk5292jhfnem1pnhhtv3uhuk4t",
+      "category": "Suppen-Eintoepfe"
+    },
+    {
+      "name": "Erasco Pichelsteiner Topf 800G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fertiggerichte/Suppen-Eintoepfe/Erasco-Pichelsteiner-Topf-800G.html?force_sid=5igve6lmoodtpo6h6he1khip7e",
+      "category": "Suppen-Eintoepfe"
+    },
+    {
+      "name": "Little Lunch Bio Chili Sin Carne 350 ml ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fertiggerichte/Suppen-Eintoepfe/Little-Lunch-Bio-Chili-Sin-Carne-350-ml.html?force_sid=5igve6lmoodtpo6h6he1khip7e",
+      "category": "Suppen-Eintoepfe"
+    },
+    {
+      "name": "Little Lunch Bio Gulaschsuppe 350ml ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fertiggerichte/Suppen-Eintoepfe/Little-Lunch-Bio-Gulaschsuppe-350ml.html?force_sid=5igve6lmoodtpo6h6he1khip7e",
+      "category": "Suppen-Eintoepfe"
+    },
+    {
+      "name": "Erasco Mediterrane Tomatensuppe 390ML ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fertiggerichte/Suppen-Eintoepfe/Erasco-Mediterrane-Tomatensuppe-390ML.html?force_sid=5igve6lmoodtpo6h6he1khip7e",
+      "category": "Suppen-Eintoepfe"
+    },
+    {
+      "name": "Sonnen Bassermann Hühner Bouillon 400ml ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fertiggerichte/Suppen-Eintoepfe/Sonnen-Bassermann-Huehner-Bouillon-400ml.html?force_sid=5igve6lmoodtpo6h6he1khip7e",
+      "category": "Suppen-Eintoepfe"
+    },
+    {
+      "name": "Knorr Kürbis Cremesuppe 450 ml ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fertiggerichte/Suppen-Eintoepfe/Knorr-Kuerbis-Cremesuppe-450-ml.html?force_sid=5igve6lmoodtpo6h6he1khip7e",
+      "category": "Suppen-Eintoepfe"
+    },
+    {
+      "name": "Erasco Nudeltopf mit Geflügel-Klößchen 800G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fertiggerichte/Suppen-Eintoepfe/Erasco-Nudeltopf-mit-Gefluegel-Kloesschen-800G.html?force_sid=5igve6lmoodtpo6h6he1khip7e",
+      "category": "Suppen-Eintoepfe"
+    },
+    {
+      "name": "Sonnen Bassermann Frühlingstopf mit leckeren Fleischklößchen 800G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fertiggerichte/Suppen-Eintoepfe/Sonnen-Bassermann-Fruehlingstopf-mit-leckeren-Fleischkloesschen-800G.html?force_sid=5igve6lmoodtpo6h6he1khip7e",
+      "category": "Suppen-Eintoepfe"
+    },
+    {
+      "name": "Erasco Linsentopf mit Schweinefleisch 800G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fertiggerichte/Suppen-Eintoepfe/Erasco-Linsentopf-mit-Schweinefleisch-800G.html?force_sid=5igve6lmoodtpo6h6he1khip7e",
+      "category": "Suppen-Eintoepfe"
+    },
+    {
+      "name": "Little Lunch Bio Kartoffelsuppe 350 ml ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fertiggerichte/Suppen-Eintoepfe/Little-Lunch-Bio-Kartoffelsuppe-350-ml.html?force_sid=5igve6lmoodtpo6h6he1khip7e",
+      "category": "Suppen-Eintoepfe"
+    },
+    {
+      "name": "Erasco Vegetarischer Linsen-Eintopf 800G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fertiggerichte/Suppen-Eintoepfe/Erasco-Vegetarischer-Linsen-Eintopf-800G.html?force_sid=5igve6lmoodtpo6h6he1khip7e",
+      "category": "Suppen-Eintoepfe"
+    },
+    {
+      "name": "Alnatura Bio Karotten Kokos Suppe 375ML ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fertiggerichte/Suppen-Eintoepfe/Alnatura-Bio-Karotten-Kokos-Suppe-375ML.html?force_sid=5igve6lmoodtpo6h6he1khip7e",
+      "category": "Suppen-Eintoepfe"
+    },
+    {
+      "name": "Bio Rettergut Kürbissuppe mit Kokos 375ml ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fertiggerichte/Suppen-Eintoepfe/Bio-Rettergut-Kuerbissuppe-mit-Kokos-375ml.html?force_sid=5igve6lmoodtpo6h6he1khip7e",
+      "category": "Suppen-Eintoepfe"
+    },
+    {
+      "name": "Erasco Erbsen-Eintopf Hubertus 800G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fertiggerichte/Suppen-Eintoepfe/Erasco-Erbsen-Eintopf-Hubertus-800G.html?force_sid=5igve6lmoodtpo6h6he1khip7e",
+      "category": "Suppen-Eintoepfe"
+    },
+    {
+      "name": "Erasco Leberknödel Suppe 395ML ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fertiggerichte/Suppen-Eintoepfe/Erasco-Leberknoedel-Suppe-395ML.html?force_sid=5igve6lmoodtpo6h6he1khip7e",
+      "category": "Suppen-Eintoepfe"
+    },
+    {
+      "name": "Little Lunch Bio Karotte Orange-Suppe 350 ml ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fertiggerichte/Suppen-Eintoepfe/Little-Lunch-Bio-Karotte-Orange-Suppe-350-ml.html?force_sid=5igve6lmoodtpo6h6he1khip7e",
+      "category": "Suppen-Eintoepfe"
+    },
+    {
+      "name": "Erasco Chili con Carne 400G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fertiggerichte/Suppen-Eintoepfe/Erasco-Chili-con-Carne-400G.html?force_sid=5igve6lmoodtpo6h6he1khip7e",
+      "category": "Suppen-Eintoepfe"
+    },
+    {
+      "name": "Erasco 1 Portion Graupen-Topf 400G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fertiggerichte/Suppen-Eintoepfe/Erasco-1-Portion-Graupen-Topf-400G.html?force_sid=5igve6lmoodtpo6h6he1khip7e",
+      "category": "Suppen-Eintoepfe"
+    },
+    {
+      "name": "Knorr Tomaten Cremesuppe 450 ml ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fertiggerichte/Suppen-Eintoepfe/Knorr-Tomaten-Cremesuppe-450-ml.html?force_sid=5igve6lmoodtpo6h6he1khip7e",
+      "category": "Suppen-Eintoepfe"
+    },
+    {
+      "name": "Erasco Markklößchen Topf 800G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fertiggerichte/Suppen-Eintoepfe/Erasco-Markkloesschen-Topf-800G.html?force_sid=5igve6lmoodtpo6h6he1khip7e",
+      "category": "Suppen-Eintoepfe"
+    },
+    {
+      "name": "Erasco Tomaten Cremesuppe 390ML ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fertiggerichte/Suppen-Eintoepfe/Erasco-Tomaten-Cremesuppe-390ML.html?force_sid=5igve6lmoodtpo6h6he1khip7e",
+      "category": "Suppen-Eintoepfe"
+    },
+    {
+      "name": "Sonnen Bassermann Reis-Eintopf mit Fleischbällchen 800G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fertiggerichte/Suppen-Eintoepfe/Sonnen-Bassermann-Reis-Eintopf-mit-Fleischbaellchen-800G.html?force_sid=5igve6lmoodtpo6h6he1khip7e",
+      "category": "Suppen-Eintoepfe"
+    },
+    {
+      "name": "Bio Rettergut Kartoffelsuppe mit Lauch 375ml ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fertiggerichte/Suppen-Eintoepfe/Bio-Rettergut-Kartoffelsuppe-mit-Lauch-375ml.html?force_sid=5igve6lmoodtpo6h6he1khip7e",
+      "category": "Suppen-Eintoepfe"
+    },
+    {
+      "name": "Erasco Kartoffel-Topf mit Waldpilzen 800G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fertiggerichte/Suppen-Eintoepfe/Erasco-Kartoffel-Topf-mit-Waldpilzen-800G.html?force_sid=5igve6lmoodtpo6h6he1khip7e",
+      "category": "Suppen-Eintoepfe"
+    },
+    {
+      "name": "Little Lunch Bio Tomatensuppe 350 ml ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fertiggerichte/Suppen-Eintoepfe/Little-Lunch-Bio-Tomatensuppe-350-ml.html?force_sid=5igve6lmoodtpo6h6he1khip7e",
+      "category": "Suppen-Eintoepfe"
+    },
+    {
+      "name": "Erasco Vegetarischer Gemüse Nudel-Topf 800G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fertiggerichte/Suppen-Eintoepfe/Erasco-Vegetarischer-Gemuese-Nudel-Topf-800G.html?force_sid=5igve6lmoodtpo6h6he1khip7e",
+      "category": "Suppen-Eintoepfe"
+    },
+    {
+      "name": "Bio Rettergut Karottensuppe mit Ingwer 375ml ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fertiggerichte/Suppen-Eintoepfe/Bio-Rettergut-Karottensuppe-mit-Ingwer-375ml.html?force_sid=5igve6lmoodtpo6h6he1khip7e",
+      "category": "Suppen-Eintoepfe"
+    }
+  ]
+}

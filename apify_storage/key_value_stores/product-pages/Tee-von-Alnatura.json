@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "name": "Alnatura Bio Bergkräuter Tee 20x 1,75G ",
+      "page": "https://www.edeka24.de/Alnatura-Produkte/Getraenke-von-Alnatura/Tee-von-Alnatura/Alnatura-Bio-Bergkraeuter-Tee-20x-1-75G.html?force_sid=2lptnmb67enfq6ku57q17k6hc5",
+      "category": "Tee-von-Alnatura"
+    },
+    {
+      "name": "Alnatura Bio Earl Grey 20ST 35G ",
+      "page": "https://www.edeka24.de/Alnatura-Produkte/Getraenke-von-Alnatura/Tee-von-Alnatura/Alnatura-Bio-Earl-Grey-20ST-35G.html?force_sid=2lptnmb67enfq6ku57q17k6hc5",
+      "category": "Tee-von-Alnatura"
+    },
+    {
+      "name": "Alnatura Bio Grüner Tee Sencha 20x 1,5G ",
+      "page": "https://www.edeka24.de/Alnatura-Produkte/Getraenke-von-Alnatura/Tee-von-Alnatura/Alnatura-Bio-Gruener-Tee-Sencha-20x-1-5G.html?force_sid=2lptnmb67enfq6ku57q17k6hc5",
+      "category": "Tee-von-Alnatura"
+    },
+    {
+      "name": "Alnatura Bio Ingwer Kurkuma Tee mit Koriandersamen 20x 2G ",
+      "page": "https://www.edeka24.de/Alnatura-Produkte/Getraenke-von-Alnatura/Tee-von-Alnatura/Alnatura-Bio-Ingwer-Kurkuma-Tee-mit-Koriandersamen-20x-2G.html?force_sid=2lptnmb67enfq6ku57q17k6hc5",
+      "category": "Tee-von-Alnatura"
+    },
+    {
+      "name": "Alnatura Bio Matcha Grüntee 30G ",
+      "page": "https://www.edeka24.de/Alnatura-Produkte/Getraenke-von-Alnatura/Tee-von-Alnatura/Alnatura-Bio-Matcha-Gruentee-30G.html?force_sid=2lptnmb67enfq6ku57q17k6hc5",
+      "category": "Tee-von-Alnatura"
+    },
+    {
+      "name": "Alnatura Bio Schwarzer Tee 20x 1,75G ",
+      "page": "https://www.edeka24.de/Alnatura-Produkte/Getraenke-von-Alnatura/Tee-von-Alnatura/Alnatura-Bio-Schwarzer-Tee-20x-1-75G.html?force_sid=2lptnmb67enfq6ku57q17k6hc5",
+      "category": "Tee-von-Alnatura"
+    },
+    {
+      "name": "Alnatura Bio Trink Kakao 400G ",
+      "page": "https://www.edeka24.de/Alnatura-Produkte/Getraenke-von-Alnatura/Tee-von-Alnatura/Alnatura-Bio-Trink-Kakao-400G.html?force_sid=2lptnmb67enfq6ku57q17k6hc5",
+      "category": "Tee-von-Alnatura"
+    }
+  ]
+}

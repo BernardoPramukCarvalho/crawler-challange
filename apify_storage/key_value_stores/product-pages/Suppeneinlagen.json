@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "name": "Leimer Backerbsen 200 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Gewuerze-Bruehen/Suppeneinlagen/Leimer-Backerbsen-200-g.html?force_sid=8t4svcnuv9edjog9ctg16cb01o",
+      "category": "Suppeneinlagen"
+    },
+    {
+      "name": "Alnatura Bio Dinkel Backerbsen 125 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Gewuerze-Bruehen/Suppeneinlagen/Alnatura-Bio-Dinkel-Backerbsen-125-g.html?force_sid=8t4svcnuv9edjog9ctg16cb01o",
+      "category": "Suppeneinlagen"
+    },
+    {
+      "name": "Leimer Markklößchen 100 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Gewuerze-Bruehen/Suppeneinlagen/Leimer-Markkloesschen-100-g.html?force_sid=8t4svcnuv9edjog9ctg16cb01o",
+      "category": "Suppeneinlagen"
+    },
+    {
+      "name": "Leimer Grießnockerl 100 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Gewuerze-Bruehen/Suppeneinlagen/Leimer-Griessnockerl-100-g.html?force_sid=8t4svcnuv9edjog9ctg16cb01o",
+      "category": "Suppeneinlagen"
+    },
+    {
+      "name": "Leimer Eier-Schöberl Suppeneinlage 50 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Gewuerze-Bruehen/Suppeneinlagen/Leimer-Eier-Schoeberl-Suppeneinlage-50-g.html?force_sid=8t4svcnuv9edjog9ctg16cb01o",
+      "category": "Suppeneinlagen"
+    },
+    {
+      "name": "Leimer Eierstich 100 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Gewuerze-Bruehen/Suppeneinlagen/Leimer-Eierstich-100-g.html?force_sid=8t4svcnuv9edjog9ctg16cb01o",
+      "category": "Suppeneinlagen"
+    }
+  ]
+}

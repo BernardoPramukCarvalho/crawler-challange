@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "name": "Fraix Getränkepulver Typ Orange 100 g ",
+      "page": "https://www.edeka24.de/Getraenke/Alkoholfreie-Getraenke/Instant-Getraenke/Fraix-Getraenkepulver-Typ-Orange-100-g.html?force_sid=kopt5ohlpudmudegh72ibma9je",
+      "category": "Instant-Getraenke"
+    },
+    {
+      "name": "Fraix Getränkepulver Typ Zitrone 100 g ",
+      "page": "https://www.edeka24.de/Getraenke/Alkoholfreie-Getraenke/Instant-Getraenke/Fraix-Getraenkepulver-Typ-Zitrone-100-g.html?force_sid=kopt5ohlpudmudegh72ibma9je",
+      "category": "Instant-Getraenke"
+    },
+    {
+      "name": "Fraix Getränkepulver Typ Himbeere 100 g ",
+      "page": "https://www.edeka24.de/Getraenke/Alkoholfreie-Getraenke/Instant-Getraenke/Fraix-Getraenkepulver-Typ-Himbeere-100-g.html?force_sid=kopt5ohlpudmudegh72ibma9je",
+      "category": "Instant-Getraenke"
+    }
+  ]
+}

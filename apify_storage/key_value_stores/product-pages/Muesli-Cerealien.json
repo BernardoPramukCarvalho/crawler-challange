@@ -1,0 +1,729 @@
+{
+  "products": [
+    {
+      "name": "Alnatura Bio Haferflocken Feinblatt 1KG ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/Alnatura-Bio-Haferflocken-Feinblatt-1KG.html?force_sid=u7cirm0sv93rhtrubvmlatplhi",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "Alnatura Bio Dinkel Crunchy 750G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/Alnatura-Bio-Dinkel-Crunchy-750G.html?force_sid=u7cirm0sv93rhtrubvmlatplhi",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "Alnatura Bio Haferflocken Feinblatt klein 500 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/Alnatura-Bio-Haferflocken-Feinblatt-klein-500-g.html?force_sid=u7cirm0sv93rhtrubvmlatplhi",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "Oreo O's Cereal 350G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/Oreo-O-s-Cereal-350G.html?force_sid=u7cirm0sv93rhtrubvmlatplhi",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "Kölln Mühlenklassiker mit vielen ganzen Nüssen 750G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/Koelln-Muehlenklassiker-mit-vielen-ganzen-Nuessen-750G.html?force_sid=u7cirm0sv93rhtrubvmlatplhi",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "Kölln Echte Kernige Haferflocken 500G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/Koelln-Echte-Kernige-Haferflocken-500G.html?force_sid=u7cirm0sv93rhtrubvmlatplhi",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "Alnatura Bio Waldbeere Hafer Crunchy 375G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/Alnatura-Bio-Waldbeere-Hafer-Crunchy-375G.html?force_sid=u7cirm0sv93rhtrubvmlatplhi",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "Alnatura Bio Zartbitter Hafer Crunchy 375G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/Alnatura-Bio-Zartbitter-Hafer-Crunchy-375G.html?force_sid=u7cirm0sv93rhtrubvmlatplhi",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "Kelloggs Corn Flakes 360G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/Kelloggs-Corn-Flakes-360G.html?force_sid=u7cirm0sv93rhtrubvmlatplhi",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "Kelloggs Choco Krispies Chocos 330G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/Kelloggs-Choco-Krispies-Chocos-330G.html?force_sid=u7cirm0sv93rhtrubvmlatplhi",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "Alnatura Bio Haferflocken Großblatt 500 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/Alnatura-Bio-Haferflocken-Grossblatt-500-g.html?force_sid=u7cirm0sv93rhtrubvmlatplhi",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "Kölln Müsli Knusper Schoko-Minze 500G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/Koelln-Muesli-Knusper-Schoko-Minze-500G.html?force_sid=u7cirm0sv93rhtrubvmlatplhi",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "EDEKA Knusper Müsli Multi Frucht 500G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/EDEKA-Knusper-Muesli-Multi-Frucht-500G.html?force_sid=u7cirm0sv93rhtrubvmlatplhi",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "Manner Knusper Müsli 500 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/Manner-Knusper-Muesli-500-g.html?force_sid=u7cirm0sv93rhtrubvmlatplhi",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "Kelloggs Froot Loops 375G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/Kelloggs-Froot-Loops-375G.html?force_sid=u7cirm0sv93rhtrubvmlatplhi",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "Alnatura Bio Amaranth gepufft 125G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/Alnatura-Bio-Amaranth-gepufft-125G.html?force_sid=u7cirm0sv93rhtrubvmlatplhi",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "Weetabix Minis Choco 450G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/Weetabix-Minis-Choco-450G.html?force_sid=u7cirm0sv93rhtrubvmlatplhi",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "Kelloggs Special K Classic Cerealien 300G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/Kelloggs-Special-K-Classic-Cerealien-300G.html?force_sid=u7cirm0sv93rhtrubvmlatplhi",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "Kelloggs Crunchy Nut 330G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/Kelloggs-Crunchy-Nut-330G.html?force_sid=u7cirm0sv93rhtrubvmlatplhi",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "Nestle Lion Cereals 400 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/Nestle-Lion-Cereals-400-g.html?force_sid=u7cirm0sv93rhtrubvmlatplhi",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "Alnatura Bio Hafer Crunchy 750G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/Alnatura-Bio-Hafer-Crunchy-750G.html?force_sid=u7cirm0sv93rhtrubvmlatplhi",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "Alnatura Bio Dinkel Hafer Crunchy 375G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/Alnatura-Bio-Dinkel-Hafer-Crunchy-375G.html?force_sid=u7cirm0sv93rhtrubvmlatplhi",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "Kölln Balance Haferkleie Fleks 250 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/Koelln-Balance-Haferkleie-Fleks-250-g.html?force_sid=u7cirm0sv93rhtrubvmlatplhi",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "Kölln Müsli Knusper Schoko & Keks 500G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/Koelln-Muesli-Knusper-Schoko-Keks-500G.html?force_sid=u7cirm0sv93rhtrubvmlatplhi",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "Kelloggs Tresor Milk Choco 375G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/Kelloggs-Tresor-Milk-Choco-375G.html?force_sid=u7cirm0sv93rhtrubvmlatplhi",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "Alnatura Bio Schoko Müsli mit Vollmilch Schokolade 750G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/Alnatura-Bio-Schoko-Muesli-mit-Vollmilch-Schokolade-750G.html?force_sid=u7cirm0sv93rhtrubvmlatplhi",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "EDEKA Knusper Müsli Triple Choc 500G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/EDEKA-Knusper-Muesli-Triple-Choc-500G.html?force_sid=u7cirm0sv93rhtrubvmlatplhi",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "Alnatura Bio Bircher Müsli 500G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/Alnatura-Bio-Bircher-Muesli-500G.html?force_sid=u7cirm0sv93rhtrubvmlatplhi",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "Alnatura Bio Reis Flocken 500 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/Alnatura-Bio-Reis-Flocken-500-g.html?force_sid=u7cirm0sv93rhtrubvmlatplhi",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "Alnatura Bio Knusper Hafer 250G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/Alnatura-Bio-Knusper-Hafer-250G.html?force_sid=u7cirm0sv93rhtrubvmlatplhi",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "Alnatura Bio Haferkleie mit Keim 500 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/Alnatura-Bio-Haferkleie-mit-Keim-500-g.html?force_sid=2llgfq1e8bngcotlb8dgiu53os",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "Alnatura Bio Schoko Hafer Crunchy 750G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/Alnatura-Bio-Schoko-Hafer-Crunchy-750G.html?force_sid=2llgfq1e8bngcotlb8dgiu53os",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "Kölln Müsli Schoko 30% weniger Zucker 600G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/Koelln-Muesli-Schoko-30-weniger-Zucker-600G.html?force_sid=2llgfq1e8bngcotlb8dgiu53os",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "Alnatura Bio Dinkel Flakes 200g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/Alnatura-Bio-Dinkel-Flakes-200g.html?force_sid=2llgfq1e8bngcotlb8dgiu53os",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "Alnatura Bio Protein Brei Dattel & Kakao 400 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/Alnatura-Bio-Protein-Brei-Dattel-Kakao-400-g.html?force_sid=2llgfq1e8bngcotlb8dgiu53os",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "Kölln Balance Zartes Hafer-Müsli Schoko glutenfrei 400G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/Koelln-Balance-Zartes-Hafer-Muesli-Schoko-glutenfrei-400G.html?force_sid=2llgfq1e8bngcotlb8dgiu53os",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "Dr.Oetker Vitalis Schoko Müsli klassisch 600 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/Dr-Oetker-Vitalis-Schoko-Muesli-klassisch-600-g.html?force_sid=2llgfq1e8bngcotlb8dgiu53os",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "Alnatura Bio Hirseflocken 500 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/Alnatura-Bio-Hirseflocken-500-g.html?force_sid=2llgfq1e8bngcotlb8dgiu53os",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "Kölln Müsli Knusper Mango-Kurkuma 450G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/Koelln-Muesli-Knusper-Mango-Kurkuma-450G.html?force_sid=2llgfq1e8bngcotlb8dgiu53os",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "Bauckhof Demeter Bio Haferflocken Großblatt 500g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/Bauckhof-Demeter-Bio-Haferflocken-Grossblatt-500g.html?force_sid=2llgfq1e8bngcotlb8dgiu53os",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "Nestle Cookie Crisp 375 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/Nestle-Cookie-Crisp-375-g.html?force_sid=2llgfq1e8bngcotlb8dgiu53os",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "Alnatura Bio Dinkelflocken Großblatt 500 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/Alnatura-Bio-Dinkelflocken-Grossblatt-500-g.html?force_sid=2llgfq1e8bngcotlb8dgiu53os",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "Kelloggs Frosties 330G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/Kelloggs-Frosties-330G.html?force_sid=2llgfq1e8bngcotlb8dgiu53os",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "Alnatura Bio Dinkel gepufft 200G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/Alnatura-Bio-Dinkel-gepufft-200G.html?force_sid=2llgfq1e8bngcotlb8dgiu53os",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "Kelloggs Smacks 330G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/Kelloggs-Smacks-330G.html?force_sid=2llgfq1e8bngcotlb8dgiu53os",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "Kölln Balance Zarte Kölln Flocken glutenfrei 500G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/Koelln-Balance-Zarte-Koelln-Flocken-glutenfrei-500G.html?force_sid=2llgfq1e8bngcotlb8dgiu53os",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "Alnatura Bio Maxi Müsli 1KG ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/Alnatura-Bio-Maxi-Muesli-1KG.html?force_sid=2llgfq1e8bngcotlb8dgiu53os",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "Dr.Oetker Vitalis Knusper Honeys 600 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/Dr-Oetker-Vitalis-Knusper-Honeys-600-g.html?force_sid=2llgfq1e8bngcotlb8dgiu53os",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "Kölln Müsli Schoko-Banane 500G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/Koelln-Muesli-Schoko-Banane-500G.html?force_sid=2llgfq1e8bngcotlb8dgiu53os",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "Bauckhof Demeter Bio Haferflocken Kleinblatt 500g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/Bauckhof-Demeter-Bio-Haferflocken-Kleinblatt-500g.html?force_sid=2llgfq1e8bngcotlb8dgiu53os",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "Alnatura Bio Sojaflocken 500 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/Alnatura-Bio-Sojaflocken-500-g.html?force_sid=2llgfq1e8bngcotlb8dgiu53os",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "Alnatura Bio Nuss Hafer Crunchy 375G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/Alnatura-Bio-Nuss-Hafer-Crunchy-375G.html?force_sid=2llgfq1e8bngcotlb8dgiu53os",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "Dr.Oetker Vitalis Knusper Flakes 600 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/Dr-Oetker-Vitalis-Knusper-Flakes-600-g.html?force_sid=2llgfq1e8bngcotlb8dgiu53os",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "Alnatura Bio Beeren Müsli 750G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/Alnatura-Bio-Beeren-Muesli-750G.html?force_sid=2llgfq1e8bngcotlb8dgiu53os",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "EDEKA Knusper Müsli Popcorn Salted Caramel 500G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/EDEKA-Knusper-Muesli-Popcorn-Salted-Caramel-500G.html?force_sid=2llgfq1e8bngcotlb8dgiu53os",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "Alnatura Bio Haferflocken zartschmelzend 250 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/Alnatura-Bio-Haferflocken-zartschmelzend-250-g.html?force_sid=2llgfq1e8bngcotlb8dgiu53os",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "Alnatura Bio Urkorn Müsli 500G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/Alnatura-Bio-Urkorn-Muesli-500G.html?force_sid=2llgfq1e8bngcotlb8dgiu53os",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "Alnatura Bio Basis Müsli 750G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/Alnatura-Bio-Basis-Muesli-750G.html?force_sid=2llgfq1e8bngcotlb8dgiu53os",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "Alnatura Bio Frühstücksbrei Haferbrei Basis 500 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/Alnatura-Bio-Fruehstuecksbrei-Haferbrei-Basis-500-g.html?force_sid=2llgfq1e8bngcotlb8dgiu53os",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "Nestle Cini Minis Zimt 375 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/Nestle-Cini-Minis-Zimt-375-g.html?force_sid=2llgfq1e8bngcotlb8dgiu53os",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "Kelloggs Honey Bsss Pops 375G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/Kelloggs-Honey-Bsss-Pops-375G.html?force_sid=fob9n1a0iml9tulg4jgnf32sb5",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "Weetabix Protein 440G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/Weetabix-Protein-440G.html?force_sid=fob9n1a0iml9tulg4jgnf32sb5",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "Alnatura Bio Protein Müsli 350G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/Alnatura-Bio-Protein-Muesli-350G.html?force_sid=fob9n1a0iml9tulg4jgnf32sb5",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "Kölln Cremig-zartes Hafer-Porridge Schoko 375G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/Koelln-Cremig-zartes-Hafer-Porridge-Schoko-375G.html?force_sid=fob9n1a0iml9tulg4jgnf32sb5",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "Kölln Balance Haferkleie Flocken 250G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/Koelln-Balance-Haferkleie-Flocken-250G.html?force_sid=fob9n1a0iml9tulg4jgnf32sb5",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "Kölln Müsli Knusper Klassik 600G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/Koelln-Muesli-Knusper-Klassik-600G.html?force_sid=fob9n1a0iml9tulg4jgnf32sb5",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "Bauckhof Demeter Bio Haferflocken Zartblatt 425g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/Bauckhof-Demeter-Bio-Haferflocken-Zartblatt-425g.html?force_sid=fob9n1a0iml9tulg4jgnf32sb5",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "Alnatura Bio Quinoa gepufft 125G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/Alnatura-Bio-Quinoa-gepufft-125G.html?force_sid=fob9n1a0iml9tulg4jgnf32sb5",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "Nestle Gluten Free Cornflakes 375 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/Nestle-Gluten-Free-Cornflakes-375-g.html?force_sid=fob9n1a0iml9tulg4jgnf32sb5",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "Alnatura Bio Knusper Bär 375G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/Alnatura-Bio-Knusper-Baer-375G.html?force_sid=fob9n1a0iml9tulg4jgnf32sb5",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "Kelloggs Choco Krispies 330G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/Kelloggs-Choco-Krispies-330G.html?force_sid=fob9n1a0iml9tulg4jgnf32sb5",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "Kölln Zartes Bircher Nussiges Hafer-Müsli 500G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/Koelln-Zartes-Bircher-Nussiges-Hafer-Muesli-500G.html?force_sid=fob9n1a0iml9tulg4jgnf32sb5",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "Dr.Oetker Vitalis Knusper Müsli mit Honig 600 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/Dr-Oetker-Vitalis-Knusper-Muesli-mit-Honig-600-g.html?force_sid=fob9n1a0iml9tulg4jgnf32sb5",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "Kölln Mühlenklassiker mit vielen sonnigen Früchten 750G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/Koelln-Muehlenklassiker-mit-vielen-sonnigen-Fruechten-750G.html?force_sid=fob9n1a0iml9tulg4jgnf32sb5",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "Dr.Oetker Vitalis Knusper Plus Double Chocolate 450 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/Dr-Oetker-Vitalis-Knusper-Plus-Double-Chocolate-450-g.html?force_sid=fob9n1a0iml9tulg4jgnf32sb5",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "Kölln Müsli Schoko 600G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/Koelln-Muesli-Schoko-600G.html?force_sid=fob9n1a0iml9tulg4jgnf32sb5",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "Weetabix Original 430G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/Weetabix-Original-430G.html?force_sid=fob9n1a0iml9tulg4jgnf32sb5",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "Dr.Oetker Vitalis Kraftfutter mit Protein Schoko 45g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/Dr-Oetker-Vitalis-Kraftfutter-mit-Protein-Schoko-45g.html?force_sid=fob9n1a0iml9tulg4jgnf32sb5",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "Alnatura Bio Kinder Früchte Müsli 500G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/Alnatura-Bio-Kinder-Fruechte-Muesli-500G.html?force_sid=fob9n1a0iml9tulg4jgnf32sb5",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "Kölln Müsli Knusper Schoko & Keks Kakao 500G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/Koelln-Muesli-Knusper-Schoko-Keks-Kakao-500G.html?force_sid=fob9n1a0iml9tulg4jgnf32sb5",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "Alnatura Bio Kokos Crunchy 375G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/Alnatura-Bio-Kokos-Crunchy-375G.html?force_sid=fob9n1a0iml9tulg4jgnf32sb5",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "EDEKA Haferhimmel Porridge Mehrkorn 350G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/EDEKA-Haferhimmel-Porridge-Mehrkorn-350G.html?force_sid=fob9n1a0iml9tulg4jgnf32sb5",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "Kölln Müsli Früchte ohne Zuckerzusatz 500G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/Koelln-Muesli-Fruechte-ohne-Zuckerzusatz-500G.html?force_sid=fob9n1a0iml9tulg4jgnf32sb5",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "Kölln Müsli Cranberry 500G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/Koelln-Muesli-Cranberry-500G.html?force_sid=fob9n1a0iml9tulg4jgnf32sb5",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "Alnatura Bio Mini Dinkel Flakes ungesüßt 175G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/Alnatura-Bio-Mini-Dinkel-Flakes-ungesuesst-175G.html?force_sid=fob9n1a0iml9tulg4jgnf32sb5",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "Dr.Oetker Vitalis Schoko Duo Müsli 500 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/Dr-Oetker-Vitalis-Schoko-Duo-Muesli-500-g.html?force_sid=fob9n1a0iml9tulg4jgnf32sb5",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "Alnatura Bio Früchte-Müsli 750G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/Alnatura-Bio-Fruechte-Muesli-750G.html?force_sid=fob9n1a0iml9tulg4jgnf32sb5",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "Kölln Müsli Knusper Honig-Nuss 500G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/Koelln-Muesli-Knusper-Honig-Nuss-500G.html?force_sid=fob9n1a0iml9tulg4jgnf32sb5",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "Kölln Müsli Schoko Kirsch 500G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/Koelln-Muesli-Schoko-Kirsch-500G.html?force_sid=fob9n1a0iml9tulg4jgnf32sb5",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "Dr.Oetker Paula Müslispaß Schoko 330G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/Dr-Oetker-Paula-Mueslispass-Schoko-330G.html?force_sid=fob9n1a0iml9tulg4jgnf32sb5",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "Alnatura Bio 5-Kornflocken 500G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/Alnatura-Bio-5-Kornflocken-500G.html?force_sid=uphvdvbf8qj4qvujimrsre0t1r",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "Kelloggs Crunchy Müsli Classic 500G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/Kelloggs-Crunchy-Muesli-Classic-500G.html?force_sid=uphvdvbf8qj4qvujimrsre0t1r",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "3 Bears Porridge Zimtiger Apfel 400 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/3-Bears-Porridge-Zimtiger-Apfel-400-g.html?force_sid=uphvdvbf8qj4qvujimrsre0t1r",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "mymuesli Bio Blaubeer Müsli 575 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/mymuesli-Bio-Blaubeer-Muesli-575-g.html?force_sid=uphvdvbf8qj4qvujimrsre0t1r",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "Dr.Oetker Vitalis Knusper pur 30% weniger Zucker 600 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/Dr-Oetker-Vitalis-Knusper-pur-30-weniger-Zucker-600-g.html?force_sid=uphvdvbf8qj4qvujimrsre0t1r",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "Dr.Oetker Vitalis Schoko Müsli weniger süß 600 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/Dr-Oetker-Vitalis-Schoko-Muesli-weniger-suess-600-g.html?force_sid=uphvdvbf8qj4qvujimrsre0t1r",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "Bauckhof Demeter Bio Müzli Früchtetraum Hafer ungesüßt 425 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/Bauckhof-Demeter-Bio-Muezli-Fruechtetraum-Hafer-ungesuesst-425-g.html?force_sid=uphvdvbf8qj4qvujimrsre0t1r",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "Kölln Müsli Knusper Schoko Feinherb 30% weniger Fett 500G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/Koelln-Muesli-Knusper-Schoko-Feinherb-30-weniger-Fett-500G.html?force_sid=uphvdvbf8qj4qvujimrsre0t1r",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "Kölln Müsli Knusper Joghurt Himbeer 30% weniger Fett 500G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/Koelln-Muesli-Knusper-Joghurt-Himbeer-30-weniger-Fett-500G.html?force_sid=uphvdvbf8qj4qvujimrsre0t1r",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "Kölln Müsli Joghurt Erdbeer 500G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/Koelln-Muesli-Joghurt-Erdbeer-500G.html?force_sid=uphvdvbf8qj4qvujimrsre0t1r",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "3 Bears Porridge Mohnige Banane 400 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/3-Bears-Porridge-Mohnige-Banane-400-g.html?force_sid=uphvdvbf8qj4qvujimrsre0t1r",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "Kölln Knusprige Haferfleks Schoko 375G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/Koelln-Knusprige-Haferfleks-Schoko-375G.html?force_sid=uphvdvbf8qj4qvujimrsre0t1r",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "Kölln Cremig-zartes Hafer-Porridge Früchte 375G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/Koelln-Cremig-zartes-Hafer-Porridge-Fruechte-375G.html?force_sid=uphvdvbf8qj4qvujimrsre0t1r",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "Dr.Oetker Vitalis Roasted Müsli Cranberry-Kürbiskern 450G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/Dr-Oetker-Vitalis-Roasted-Muesli-Cranberry-Kuerbiskern-450G.html?force_sid=uphvdvbf8qj4qvujimrsre0t1r",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "Dr.Oetker Vitalis Knusper Müsli Schoko 600 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/Dr-Oetker-Vitalis-Knusper-Muesli-Schoko-600-g.html?force_sid=uphvdvbf8qj4qvujimrsre0t1r",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "Dr.Oetker Vitalis Früchtemüsli 500 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/Dr-Oetker-Vitalis-Fruechtemuesli-500-g.html?force_sid=uphvdvbf8qj4qvujimrsre0t1r",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "Alnatura Bio Frühstücksbrei Rote Beeren 500 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/Alnatura-Bio-Fruehstuecksbrei-Rote-Beeren-500-g.html?force_sid=uphvdvbf8qj4qvujimrsre0t1r",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "Bauckhof Demeter Bio Haferbrei Hot Hafer Basis ungesüßt glutenfrei 400 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/Bauckhof-Demeter-Bio-Haferbrei-Hot-Hafer-Basis-ungesuesst-glutenfrei-400-g.html?force_sid=uphvdvbf8qj4qvujimrsre0t1r",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "Alnatura Bio Dinkelkleie 250 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/Alnatura-Bio-Dinkelkleie-250-g.html?force_sid=uphvdvbf8qj4qvujimrsre0t1r",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "EDEKA Haferhimmel Porridge Beeren 350G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/EDEKA-Haferhimmel-Porridge-Beeren-350G.html?force_sid=uphvdvbf8qj4qvujimrsre0t1r",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "Kölln Bio Schmelzflocken Dinkel-Hafer Nach dem 4.Monat 225G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/Koelln-Bio-Schmelzflocken-Dinkel-Hafer-Nach-dem-4-Monat-225G.html?force_sid=uphvdvbf8qj4qvujimrsre0t1r",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "Kölln Bio Multikorn Flocken zart 500G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/Koelln-Bio-Multikorn-Flocken-zart-500G.html?force_sid=uphvdvbf8qj4qvujimrsre0t1r",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "Dr.Oetker Vitalis Joghurt Müsli 600 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/Dr-Oetker-Vitalis-Joghurt-Muesli-600-g.html?force_sid=uphvdvbf8qj4qvujimrsre0t1r",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "Bauckhof Demeter Bio Haferbrei Hot Hafer Beere ungesüßt 400 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/Bauckhof-Demeter-Bio-Haferbrei-Hot-Hafer-Beere-ungesuesst-400-g.html?force_sid=uphvdvbf8qj4qvujimrsre0t1r",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "Dr.Oetker Vitalis Knusper Schoko Müsli weniger süß 500 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/Dr-Oetker-Vitalis-Knusper-Schoko-Muesli-weniger-suess-500-g.html?force_sid=uphvdvbf8qj4qvujimrsre0t1r",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "Kölln Bio Dinkelkorn Flocken zart 450G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/Koelln-Bio-Dinkelkorn-Flocken-zart-450G.html?force_sid=uphvdvbf8qj4qvujimrsre0t1r",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "3 Bears Porridge Feiner Kakao 400 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/3-Bears-Porridge-Feiner-Kakao-400-g.html?force_sid=uphvdvbf8qj4qvujimrsre0t1r",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "Schär Choco Müsli glutenfrei 375g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/Schaer-Choco-Muesli-glutenfrei-375g.html?force_sid=uphvdvbf8qj4qvujimrsre0t1r",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "Dr.Oetker Vitalis Knusper Schoko-Banane 600 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/Dr-Oetker-Vitalis-Knusper-Schoko-Banane-600-g.html?force_sid=uphvdvbf8qj4qvujimrsre0t1r",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "Alnatura Bio Dinkelflocken Feinbaltt 500 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/Alnatura-Bio-Dinkelflocken-Feinbaltt-500-g.html?force_sid=uphvdvbf8qj4qvujimrsre0t1r",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "3 Bears Dreierlei Beere Porridge 400 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/3-Bears-Dreierlei-Beere-Porridge-400-g.html?force_sid=mmm7nl1tpjfr201ptmdmi13kv7",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "Alnatura Bio 3-Korn-Flocken 500 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/Alnatura-Bio-3-Korn-Flocken-500-g.html?force_sid=mmm7nl1tpjfr201ptmdmi13kv7",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "Kölln Müsli Knusper Schoko-Karamell 500G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/Koelln-Muesli-Knusper-Schoko-Karamell-500G.html?force_sid=mmm7nl1tpjfr201ptmdmi13kv7",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "Kölln Bio 5-Korn Schmelzflocken 225g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/Koelln-Bio-5-Korn-Schmelzflocken-225g.html?force_sid=mmm7nl1tpjfr201ptmdmi13kv7",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "Ovomaltine Crisp Müsli 500 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/Ovomaltine-Crisp-Muesli-500-g.html?force_sid=mmm7nl1tpjfr201ptmdmi13kv7",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "3 Bears Porridge Fruchtige Kokosnuss 400 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/3-Bears-Porridge-Fruchtige-Kokosnuss-400-g.html?force_sid=mmm7nl1tpjfr201ptmdmi13kv7",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "Dr.Oetker Vitalis Roasted Müsli Schoko-Nuss 450 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/Dr-Oetker-Vitalis-Roasted-Muesli-Schoko-Nuss-450-g.html?force_sid=mmm7nl1tpjfr201ptmdmi13kv7",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "Dr.Oetker Vitalis Knusper Schoko + Keks Müsli 450 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/Dr-Oetker-Vitalis-Knusper-Schoko-Keks-Muesli-450-g.html?force_sid=mmm7nl1tpjfr201ptmdmi13kv7",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "Kölln Müsli Nuss & Krokant 500G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/Koelln-Muesli-Nuss-Krokant-500G.html?force_sid=mmm7nl1tpjfr201ptmdmi13kv7",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "Kölln Knusprige Haferfleks Klassik 375G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/Koelln-Knusprige-Haferfleks-Klassik-375G.html?force_sid=mmm7nl1tpjfr201ptmdmi13kv7",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "Alnatura Bio Fühstücksbrei Früchte 500 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/Alnatura-Bio-Fuehstuecksbrei-Fruechte-500-g.html?force_sid=mmm7nl1tpjfr201ptmdmi13kv7",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "Kelloggs Crunchy Müsli Choco & Pistachio 425G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/Kelloggs-Crunchy-Muesli-Choco-Pistachio-425G.html?force_sid=mmm7nl1tpjfr201ptmdmi13kv7",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "Bauckhof Bio glutenfreies Hafermüsli Sport ungesüßt 425 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/Bauckhof-Bio-glutenfreies-Hafermuesli-Sport-ungesuesst-425-g.html?force_sid=mmm7nl1tpjfr201ptmdmi13kv7",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "Dr.Oetker Vitalis Kraftfutter mit Protein Pur 45g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/Dr-Oetker-Vitalis-Kraftfutter-mit-Protein-Pur-45g.html?force_sid=mmm7nl1tpjfr201ptmdmi13kv7",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "Kelloggs Tresor Dark Choco 375G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/Kelloggs-Tresor-Dark-Choco-375G.html?force_sid=mmm7nl1tpjfr201ptmdmi13kv7",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "mymuesli Bio Honig-Nuss Müsli 575 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/mymuesli-Bio-Honig-Nuss-Muesli-575-g.html?force_sid=mmm7nl1tpjfr201ptmdmi13kv7",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "Kölln Cremig-zartes Hafer-Porridge Nuss 375G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/Koelln-Cremig-zartes-Hafer-Porridge-Nuss-375G.html?force_sid=mmm7nl1tpjfr201ptmdmi13kv7",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "Kölln Bio Schmelzflocken Nach dem 4.Monat 250G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/Koelln-Bio-Schmelzflocken-Nach-dem-4-Monat-250G.html?force_sid=mmm7nl1tpjfr201ptmdmi13kv7",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "Bauckhof Demeter Bio Müzli Knusperzart Hafer 425 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/Bauckhof-Demeter-Bio-Muezli-Knusperzart-Hafer-425-g.html?force_sid=mmm7nl1tpjfr201ptmdmi13kv7",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "Kelloggs Knusper Müsli Choco & Nuts 500G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/Kelloggs-Knusper-Muesli-Choco-Nuts-500G.html?force_sid=mmm7nl1tpjfr201ptmdmi13kv7",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "Bauckhof Bio glutenfreies Beerenmüsli Hafer 425 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/Bauckhof-Bio-glutenfreies-Beerenmuesli-Hafer-425-g.html?force_sid=mmm7nl1tpjfr201ptmdmi13kv7",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "Bauckhof Demeter Bio Müzli Schokoknusper Hafer 425 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/Bauckhof-Demeter-Bio-Muezli-Schokoknusper-Hafer-425-g.html?force_sid=mmm7nl1tpjfr201ptmdmi13kv7",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "Alnatura Bio Dinkel Basis Müsli 500G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/Alnatura-Bio-Dinkel-Basis-Muesli-500G.html?force_sid=mmm7nl1tpjfr201ptmdmi13kv7",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "Dr.Oetker Vitalis Müsli Schoko feinherb 600G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/Dr-Oetker-Vitalis-Muesli-Schoko-feinherb-600G.html?force_sid=mmm7nl1tpjfr201ptmdmi13kv7",
+      "category": "Muesli-Cerealien"
+    },
+    {
+      "name": "Kelloggs Tresor Choco Nougat 375G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fruehstueck/Muesli-Cerealien/Kelloggs-Tresor-Choco-Nougat-375G.html?force_sid=mmm7nl1tpjfr201ptmdmi13kv7",
+      "category": "Muesli-Cerealien"
+    }
+  ]
+}

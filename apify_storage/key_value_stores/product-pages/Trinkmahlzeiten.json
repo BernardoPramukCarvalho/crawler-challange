@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "name": "YFood Classic Chocolate Trinkmahlzeit 500ml ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fertiggerichte/Trinkmahlzeiten/YFood-Classic-Chocolate-Trinkmahlzeit-500ml.html?force_sid=bjqcpfm0kce0g2nv3a5aa0sh8m",
+      "category": "Trinkmahlzeiten"
+    },
+    {
+      "name": "YFood Cold Brew Coffee Trinkmahlzeit 500ml ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fertiggerichte/Trinkmahlzeiten/YFood-Cold-Brew-Coffee-Trinkmahlzeit-500ml.html?force_sid=bjqcpfm0kce0g2nv3a5aa0sh8m",
+      "category": "Trinkmahlzeiten"
+    },
+    {
+      "name": "YFood Crazy Coconut Trinkmahlzeit 500ml ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fertiggerichte/Trinkmahlzeiten/YFood-Crazy-Coconut-Trinkmahlzeit-500ml.html?force_sid=bjqcpfm0kce0g2nv3a5aa0sh8m",
+      "category": "Trinkmahlzeiten"
+    },
+    {
+      "name": "YFood Fresh Berry Trinkmahlzeit 500ml ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fertiggerichte/Trinkmahlzeiten/YFood-Fresh-Berry-Trinkmahlzeit-500ml.html?force_sid=bjqcpfm0kce0g2nv3a5aa0sh8m",
+      "category": "Trinkmahlzeiten"
+    },
+    {
+      "name": "YFood Happy Banana Trinkmahlzeit 500ml ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fertiggerichte/Trinkmahlzeiten/YFood-Happy-Banana-Trinkmahlzeit-500ml.html?force_sid=bjqcpfm0kce0g2nv3a5aa0sh8m",
+      "category": "Trinkmahlzeiten"
+    },
+    {
+      "name": "YFood Smooth Vanilla Trinkmahlzeit 500ml ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fertiggerichte/Trinkmahlzeiten/YFood-Smooth-Vanilla-Trinkmahlzeit-500ml.html?force_sid=bjqcpfm0kce0g2nv3a5aa0sh8m",
+      "category": "Trinkmahlzeiten"
+    },
+    {
+      "name": "Yokebe Classic 500G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Fertiggerichte/Trinkmahlzeiten/Yokebe-Classic-500G.html?force_sid=bjqcpfm0kce0g2nv3a5aa0sh8m",
+      "category": "Trinkmahlzeiten"
+    }
+  ]
+}

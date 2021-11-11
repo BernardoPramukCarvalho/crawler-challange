@@ -1,0 +1,539 @@
+{
+  "products": [
+    {
+      "name": "Kessler Sekt Hochgewächs Chardonnay Brut 0,75L ",
+      "page": "https://www.edeka24.de/Wein/Sekt-Prosecco/Kessler-Sekt-Hochgewaechs-Chardonnay-Brut-0-75L.html?force_sid=feppfd1rkd04pr45huduu1q6mi",
+      "category": "Sekt-Prosecco"
+    },
+    {
+      "name": "Durbacher Edelfrau Sekt trocken 0,75 ltr ",
+      "page": "https://www.edeka24.de/Wein/Sekt-Prosecco/Durbacher-Edelfrau-Sekt-trocken-0-75-ltr.html?force_sid=dhe4udps4erbqlteu8j62q7n9p",
+      "category": "Sekt-Prosecco"
+    },
+    {
+      "name": "Bionisys Der Rhabizz Bio Frizzante 0,75 ltr ",
+      "page": "https://www.edeka24.de/Wein/Sekt-Prosecco/Bionisys-Der-Rhabizz-Bio-Frizzante-0-75-ltr.html?force_sid=dhe4udps4erbqlteu8j62q7n9p",
+      "category": "Sekt-Prosecco"
+    },
+    {
+      "name": "Freixenet Cava Carta Nevada Semi Seco 0,75 ltr ",
+      "page": "https://www.edeka24.de/Wein/Sekt-Prosecco/Freixenet-Cava-Carta-Nevada-Semi-Seco-0-75-ltr.html?force_sid=dhe4udps4erbqlteu8j62q7n9p",
+      "category": "Sekt-Prosecco"
+    },
+    {
+      "name": "Villa Nau Riesling Sekt extra trocken 0,75 ltr ",
+      "page": "https://www.edeka24.de/Wein/Sekt-Prosecco/Villa-Nau-Riesling-Sekt-extra-trocken-0-75-ltr.html?force_sid=dhe4udps4erbqlteu8j62q7n9p",
+      "category": "Sekt-Prosecco"
+    },
+    {
+      "name": "Villa Maria Carla Bio Rosé Frizzante 0,75 ltr ",
+      "page": "https://www.edeka24.de/Wein/Sekt-Prosecco/Villa-Maria-Carla-Bio-Ros-Frizzante-0-75-ltr.html?force_sid=dhe4udps4erbqlteu8j62q7n9p",
+      "category": "Sekt-Prosecco"
+    },
+    {
+      "name": "Bio Alnatura Sekt brut Piccolo 0,2L ",
+      "page": "https://www.edeka24.de/Wein/Sekt-Prosecco/Bio-Alnatura-Sekt-brut-Piccolo-0-2L.html?force_sid=dhe4udps4erbqlteu8j62q7n9p",
+      "category": "Sekt-Prosecco"
+    },
+    {
+      "name": "Durbacher Edelmann Rosé Sekt 0,75 ltr ",
+      "page": "https://www.edeka24.de/Wein/Sekt-Prosecco/Durbacher-Edelmann-Ros-Sekt-0-75-ltr.html?force_sid=dhe4udps4erbqlteu8j62q7n9p",
+      "category": "Sekt-Prosecco"
+    },
+    {
+      "name": "Mionetto Prosecco Rosé Millesimato DOC 0,75L ",
+      "page": "https://www.edeka24.de/Wein/Sekt-Prosecco/Mionetto-Prosecco-Ros-Millesimato-DOC-0-75L.html?force_sid=dhe4udps4erbqlteu8j62q7n9p",
+      "category": "Sekt-Prosecco"
+    },
+    {
+      "name": "Fürst von Metternich Riesling Sekt trocken 0,75 ltr ",
+      "page": "https://www.edeka24.de/Wein/Sekt-Prosecco/Fuerst-von-Metternich-Riesling-Sekt-trocken-0-75-ltr.html?force_sid=dhe4udps4erbqlteu8j62q7n9p",
+      "category": "Sekt-Prosecco"
+    },
+    {
+      "name": "Today My Name Is Queen Roter Perlwein 0,75L ",
+      "page": "https://www.edeka24.de/Wein/Sekt-Prosecco/Today-My-Name-Is-Queen-Roter-Perlwein-0-75L.html?force_sid=dhe4udps4erbqlteu8j62q7n9p",
+      "category": "Sekt-Prosecco"
+    },
+    {
+      "name": "Brut Dargent Ice Demi Sec Chardonnay 0,75 ltr ",
+      "page": "https://www.edeka24.de/Wein/Sekt-Prosecco/Brut-Dargent-Ice-Demi-Sec-Chardonnay-0-75-ltr.html?force_sid=dhe4udps4erbqlteu8j62q7n9p",
+      "category": "Sekt-Prosecco"
+    },
+    {
+      "name": "Schloss Wachenheim Light Live Sprizz alkoholfrei 0,75 ltr ",
+      "page": "https://www.edeka24.de/Wein/Sekt-Prosecco/Schloss-Wachenheim-Light-Live-Sprizz-alkoholfrei-0-75-ltr.html?force_sid=dhe4udps4erbqlteu8j62q7n9p",
+      "category": "Sekt-Prosecco"
+    },
+    {
+      "name": "Brut Dargent Chardonnay Sekt ",
+      "page": "https://www.edeka24.de/Wein/Sekt-Prosecco/Brut-Dargent-Chardonnay-Sekt.html?force_sid=dhe4udps4erbqlteu8j62q7n9p",
+      "category": "Sekt-Prosecco"
+    },
+    {
+      "name": "Moët & Chandon Champagne Brut Imperial 0,75l ",
+      "page": "https://www.edeka24.de/Wein/Sekt-Prosecco/Mo-t-Chandon-Champagne-Brut-Imperial-0-75l.html?force_sid=dhe4udps4erbqlteu8j62q7n9p",
+      "category": "Sekt-Prosecco"
+    },
+    {
+      "name": "Henkell Rosé Sekt trocken 0,75 ltr ",
+      "page": "https://www.edeka24.de/Wein/Sekt-Prosecco/Henkell-Ros-Sekt-trocken-0-75-ltr.html?force_sid=dhe4udps4erbqlteu8j62q7n9p",
+      "category": "Sekt-Prosecco"
+    },
+    {
+      "name": "Schloss Wachenheim Light Live Sparkling Rosé alkoholfrei 0,75 ltr ",
+      "page": "https://www.edeka24.de/Wein/Sekt-Prosecco/Schloss-Wachenheim-Light-Live-Sparkling-Ros-alkoholfrei-0-75-ltr.html?force_sid=dhe4udps4erbqlteu8j62q7n9p",
+      "category": "Sekt-Prosecco"
+    },
+    {
+      "name": "Söhnlein Brillant Sekt trocken 0,75 ltr ",
+      "page": "https://www.edeka24.de/Wein/Sekt-Prosecco/Soehnlein-Brillant-Sekt-trocken-0-75-ltr.html?force_sid=dhe4udps4erbqlteu8j62q7n9p",
+      "category": "Sekt-Prosecco"
+    },
+    {
+      "name": "Valdo Valdobbiadene Prosecco Superiore 0,75L ",
+      "page": "https://www.edeka24.de/Wein/Sekt-Prosecco/Valdo-Valdobbiadene-Prosecco-Superiore-0-75L.html?force_sid=dhe4udps4erbqlteu8j62q7n9p",
+      "category": "Sekt-Prosecco"
+    },
+    {
+      "name": "Villa Maria Carla Bio Prosecco DOC 0,75 ltr ",
+      "page": "https://www.edeka24.de/Wein/Sekt-Prosecco/Villa-Maria-Carla-Bio-Prosecco-DOC-0-75-ltr.html?force_sid=dhe4udps4erbqlteu8j62q7n9p",
+      "category": "Sekt-Prosecco"
+    },
+    {
+      "name": "Veuve Clicquot Champagner Brut mit Geschenkverpackung 0,75L ",
+      "page": "https://www.edeka24.de/Wein/Sekt-Prosecco/Veuve-Clicquot-Champagner-Brut-mit-Geschenkverpackung-0-75L.html?force_sid=dhe4udps4erbqlteu8j62q7n9p",
+      "category": "Sekt-Prosecco"
+    },
+    {
+      "name": "Rotkäppchen Sekt Rosé trocken 0,75 ltr ",
+      "page": "https://www.edeka24.de/Wein/Sekt-Prosecco/Rotkaeppchen-Sekt-Ros-trocken-0-75-ltr.html?force_sid=dhe4udps4erbqlteu8j62q7n9p",
+      "category": "Sekt-Prosecco"
+    },
+    {
+      "name": "Freixenet Cava Carta Rosado Seco 0,75 ltr ",
+      "page": "https://www.edeka24.de/Wein/Sekt-Prosecco/Freixenet-Cava-Carta-Rosado-Seco-0-75-ltr.html?force_sid=dhe4udps4erbqlteu8j62q7n9p",
+      "category": "Sekt-Prosecco"
+    },
+    {
+      "name": "Henkell Blanc de Blancs Sekt trocken 0,75 ltr ",
+      "page": "https://www.edeka24.de/Wein/Sekt-Prosecco/Henkell-Blanc-de-Blancs-Sekt-trocken-0-75-ltr.html?force_sid=dhe4udps4erbqlteu8j62q7n9p",
+      "category": "Sekt-Prosecco"
+    },
+    {
+      "name": "Söhnlein Brillant Sekt weiß halbtrocken 0,75 ltr ",
+      "page": "https://www.edeka24.de/Wein/Sekt-Prosecco/Soehnlein-Brillant-Sekt-weiss-halbtrocken-0-75-ltr.html?force_sid=dhe4udps4erbqlteu8j62q7n9p",
+      "category": "Sekt-Prosecco"
+    },
+    {
+      "name": "Rotkäppchen Riesling Sekt trocken Flaschengärung 0,75 ltr ",
+      "page": "https://www.edeka24.de/Wein/Sekt-Prosecco/Rotkaeppchen-Riesling-Sekt-trocken-Flaschengaerung-0-75-ltr.html?force_sid=dhe4udps4erbqlteu8j62q7n9p",
+      "category": "Sekt-Prosecco"
+    },
+    {
+      "name": "Freixenet Mia Moscato fruchtig-süß 0,75l ",
+      "page": "https://www.edeka24.de/Wein/Sekt-Prosecco/Freixenet-Mia-Moscato-fruchtig-suess-0-75l.html?force_sid=dhe4udps4erbqlteu8j62q7n9p",
+      "category": "Sekt-Prosecco"
+    },
+    {
+      "name": "Mumm Dry Jahrgang alkoholfrei trocken 0,75 ltr ",
+      "page": "https://www.edeka24.de/Wein/Sekt-Prosecco/Mumm-Dry-Jahrgang-alkoholfrei-trocken-0-75-ltr.html?force_sid=dhe4udps4erbqlteu8j62q7n9p",
+      "category": "Sekt-Prosecco"
+    },
+    {
+      "name": "Brut Dargent Ice Rosé Pinot Noir Demi Sec 0,75 ltr ",
+      "page": "https://www.edeka24.de/Wein/Sekt-Prosecco/Brut-Dargent-Ice-Ros-Pinot-Noir-Demi-Sec-0-75-ltr.html?force_sid=dhe4udps4erbqlteu8j62q7n9p",
+      "category": "Sekt-Prosecco"
+    },
+    {
+      "name": "Mumm Rosé Dry Jahrgangssekt Trocken ",
+      "page": "https://www.edeka24.de/Wein/Sekt-Prosecco/Mumm-Ros-Dry-Jahrgangssekt-Trocken.html?force_sid=dhe4udps4erbqlteu8j62q7n9p",
+      "category": "Sekt-Prosecco"
+    },
+    {
+      "name": "Fürst von Metternich Chardonnay Sekt trocken 0,75 ltr ",
+      "page": "https://www.edeka24.de/Wein/Sekt-Prosecco/Fuerst-von-Metternich-Chardonnay-Sekt-trocken-0-75-ltr.html?force_sid=dhe4udps4erbqlteu8j62q7n9p",
+      "category": "Sekt-Prosecco"
+    },
+    {
+      "name": "Geldermann Sekt Rosé trocken 0,75 ltr ",
+      "page": "https://www.edeka24.de/Wein/Sekt-Prosecco/Geldermann-Sekt-Ros-trocken-0-75-ltr.html?force_sid=hgr4ekrlhftpdvio7fndi1bjcu",
+      "category": "Sekt-Prosecco"
+    },
+    {
+      "name": "Ortenauer Weinkeller Friesenheimer Weißburgunder Sekt trocken 0,75L ",
+      "page": "https://www.edeka24.de/Wein/Sekt-Prosecco/Ortenauer-Weinkeller-Friesenheimer-Weissburgunder-Sekt-trocken-0-75L.html?force_sid=hgr4ekrlhftpdvio7fndi1bjcu",
+      "category": "Sekt-Prosecco"
+    },
+    {
+      "name": "Söhnlein Brillant Sekt Rosé trocken 0,75 ltr ",
+      "page": "https://www.edeka24.de/Wein/Sekt-Prosecco/Soehnlein-Brillant-Sekt-Ros-trocken-0-75-ltr.html?force_sid=hgr4ekrlhftpdvio7fndi1bjcu",
+      "category": "Sekt-Prosecco"
+    },
+    {
+      "name": "Jive Alkoholfrei mit Holunderblüte 0,75 ltr ",
+      "page": "https://www.edeka24.de/Wein/Sekt-Prosecco/Jive-Alkoholfrei-mit-Holunderbluete-0-75-ltr.html?force_sid=hgr4ekrlhftpdvio7fndi1bjcu",
+      "category": "Sekt-Prosecco"
+    },
+    {
+      "name": "Campari Soda 5x98ml ",
+      "page": "https://www.edeka24.de/Wein/Sekt-Prosecco/Campari-Soda-5x98ml.html?force_sid=hgr4ekrlhftpdvio7fndi1bjcu",
+      "category": "Sekt-Prosecco"
+    },
+    {
+      "name": "Mionetto Prosecco Spumante DOC Treviso Brut 0,75 ltr ",
+      "page": "https://www.edeka24.de/Wein/Sekt-Prosecco/Mionetto-Prosecco-Spumante-DOC-Treviso-Brut-0-75-ltr.html?force_sid=hgr4ekrlhftpdvio7fndi1bjcu",
+      "category": "Sekt-Prosecco"
+    },
+    {
+      "name": "Schloss Munzingen Sekt Trocken 0,75 ltr ",
+      "page": "https://www.edeka24.de/Wein/Sekt-Prosecco/Schloss-Munzingen-Sekt-Trocken-0-75-ltr.html?force_sid=hgr4ekrlhftpdvio7fndi1bjcu",
+      "category": "Sekt-Prosecco"
+    },
+    {
+      "name": "Jive Cassis 0,75L ",
+      "page": "https://www.edeka24.de/Wein/Sekt-Prosecco/Jive-Cassis-0-75L.html?force_sid=hgr4ekrlhftpdvio7fndi1bjcu",
+      "category": "Sekt-Prosecco"
+    },
+    {
+      "name": "Jules Mumm Fruity & Sweet Sekt 0,75 ltr ",
+      "page": "https://www.edeka24.de/Wein/Sekt-Prosecco/Jules-Mumm-Fruity-Sweet-Sekt-0-75-ltr.html?force_sid=hgr4ekrlhftpdvio7fndi1bjcu",
+      "category": "Sekt-Prosecco"
+    },
+    {
+      "name": "Freixenet Cava Cordon Negro Brut 0,75L ",
+      "page": "https://www.edeka24.de/Wein/Sekt-Prosecco/Freixenet-Cava-Cordon-Negro-Brut-0-75L.html?force_sid=hgr4ekrlhftpdvio7fndi1bjcu",
+      "category": "Sekt-Prosecco"
+    },
+    {
+      "name": "Rotkäppchen Rosé alkoholfrei 0,75 ltr ",
+      "page": "https://www.edeka24.de/Wein/Sekt-Prosecco/Rotkaeppchen-Ros-alkoholfrei-0-75-ltr.html?force_sid=hgr4ekrlhftpdvio7fndi1bjcu",
+      "category": "Sekt-Prosecco"
+    },
+    {
+      "name": "Laessiger Secco Rose extra trocken 0,75L ",
+      "page": "https://www.edeka24.de/Wein/Sekt-Prosecco/Laessiger-Secco-Rose-extra-trocken-0-75L.html?force_sid=hgr4ekrlhftpdvio7fndi1bjcu",
+      "category": "Sekt-Prosecco"
+    },
+    {
+      "name": "Ortenauer Weinkeller Pinot Noir Rosé Sekt trocken 0,75L ",
+      "page": "https://www.edeka24.de/Wein/Sekt-Prosecco/Ortenauer-Weinkeller-Pinot-Noir-Ros-Sekt-trocken-0-75L.html?force_sid=hgr4ekrlhftpdvio7fndi1bjcu",
+      "category": "Sekt-Prosecco"
+    },
+    {
+      "name": "Fürst von Metternich Riesling Sekt Brut 0,75 ltr ",
+      "page": "https://www.edeka24.de/Wein/Sekt-Prosecco/Fuerst-von-Metternich-Riesling-Sekt-Brut-0-75-ltr.html?force_sid=hgr4ekrlhftpdvio7fndi1bjcu",
+      "category": "Sekt-Prosecco"
+    },
+    {
+      "name": "Bernard Massard Riesling Sekt Brut 0,75L ",
+      "page": "https://www.edeka24.de/Wein/Sekt-Prosecco/Bernard-Massard-Riesling-Sekt-Brut-0-75L.html?force_sid=hgr4ekrlhftpdvio7fndi1bjcu",
+      "category": "Sekt-Prosecco"
+    },
+    {
+      "name": "Henkell Sekt trocken 0,75 ltr ",
+      "page": "https://www.edeka24.de/Wein/Sekt-Prosecco/Henkell-Sekt-trocken-0-75-ltr.html?force_sid=hgr4ekrlhftpdvio7fndi1bjcu",
+      "category": "Sekt-Prosecco"
+    },
+    {
+      "name": "Montalto Nero D'Avola IGT 0,75L ",
+      "page": "https://www.edeka24.de/Wein/Sekt-Prosecco/Montalto-Nero-D-Avola-IGT-0-75L.html?force_sid=hgr4ekrlhftpdvio7fndi1bjcu",
+      "category": "Sekt-Prosecco"
+    },
+    {
+      "name": "Durbacher Plauelrain Riesling Sekt extra trocken 0,75 ltr ",
+      "page": "https://www.edeka24.de/Wein/Sekt-Prosecco/Durbacher-Plauelrain-Riesling-Sekt-extra-trocken-0-75-ltr.html?force_sid=hgr4ekrlhftpdvio7fndi1bjcu",
+      "category": "Sekt-Prosecco"
+    },
+    {
+      "name": "Rotkäppchen Sekt trocken 0,75 ltr ",
+      "page": "https://www.edeka24.de/Wein/Sekt-Prosecco/Rotkaeppchen-Sekt-trocken-0-75-ltr.html?force_sid=hgr4ekrlhftpdvio7fndi1bjcu",
+      "category": "Sekt-Prosecco"
+    },
+    {
+      "name": "Freixenet Cava Carta Seco 0,75L ",
+      "page": "https://www.edeka24.de/Wein/Sekt-Prosecco/Freixenet-Cava-Carta-Seco-0-75L.html?force_sid=hgr4ekrlhftpdvio7fndi1bjcu",
+      "category": "Sekt-Prosecco"
+    },
+    {
+      "name": "Durbacher Dursecco trocken 0,75l ",
+      "page": "https://www.edeka24.de/Wein/Sekt-Prosecco/Durbacher-Dursecco-trocken-0-75l.html?force_sid=hgr4ekrlhftpdvio7fndi1bjcu",
+      "category": "Sekt-Prosecco"
+    },
+    {
+      "name": "Bellini di Canella weinhaltiger Aperitif 0,75l ",
+      "page": "https://www.edeka24.de/Wein/Sekt-Prosecco/Bellini-di-Canella-weinhaltiger-Aperitif-0-75l.html?force_sid=hgr4ekrlhftpdvio7fndi1bjcu",
+      "category": "Sekt-Prosecco"
+    },
+    {
+      "name": "Valdo Marca Oro Rosé Brut 0,75L ",
+      "page": "https://www.edeka24.de/Wein/Sekt-Prosecco/Valdo-Marca-Oro-Ros-Brut-0-75L.html?force_sid=hgr4ekrlhftpdvio7fndi1bjcu",
+      "category": "Sekt-Prosecco"
+    },
+    {
+      "name": "Freixenet Ice Semi Seco 0,75 ltr ",
+      "page": "https://www.edeka24.de/Wein/Sekt-Prosecco/Freixenet-Ice-Semi-Seco-0-75-ltr.html?force_sid=hgr4ekrlhftpdvio7fndi1bjcu",
+      "category": "Sekt-Prosecco"
+    },
+    {
+      "name": "Henkell Alkoholfrei 0,75 ltr ",
+      "page": "https://www.edeka24.de/Wein/Sekt-Prosecco/Henkell-Alkoholfrei-0-75-ltr.html?force_sid=hgr4ekrlhftpdvio7fndi1bjcu",
+      "category": "Sekt-Prosecco"
+    },
+    {
+      "name": "Superb Rose 0,75l ",
+      "page": "https://www.edeka24.de/Wein/Sekt-Prosecco/Superb-Rose-0-75l.html?force_sid=hgr4ekrlhftpdvio7fndi1bjcu",
+      "category": "Sekt-Prosecco"
+    },
+    {
+      "name": "Rotkäppchen Fruchtsecco Holunderblüte 0,75L ",
+      "page": "https://www.edeka24.de/Wein/Sekt-Prosecco/Rotkaeppchen-Fruchtsecco-Holunderbluete-0-75L.html?force_sid=hgr4ekrlhftpdvio7fndi1bjcu",
+      "category": "Sekt-Prosecco"
+    },
+    {
+      "name": "Freixenet Cava Rotina Semi Seco 0,75 ltr ",
+      "page": "https://www.edeka24.de/Wein/Sekt-Prosecco/Freixenet-Cava-Rotina-Semi-Seco-0-75-ltr.html?force_sid=hgr4ekrlhftpdvio7fndi1bjcu",
+      "category": "Sekt-Prosecco"
+    },
+    {
+      "name": "Zonin Prosecco Spumante DOC Brut 0,75 ltr ",
+      "page": "https://www.edeka24.de/Wein/Sekt-Prosecco/Zonin-Prosecco-Spumante-DOC-Brut-0-75-ltr.html?force_sid=hgr4ekrlhftpdvio7fndi1bjcu",
+      "category": "Sekt-Prosecco"
+    },
+    {
+      "name": "Jules Mumm Medium Dry Sekt 0,75L ",
+      "page": "https://www.edeka24.de/Wein/Sekt-Prosecco/Jules-Mumm-Medium-Dry-Sekt-0-75L.html?force_sid=hgr4ekrlhftpdvio7fndi1bjcu",
+      "category": "Sekt-Prosecco"
+    },
+    {
+      "name": "Geldermann Sekt Classique trocken 0,75 ltr ",
+      "page": "https://www.edeka24.de/Wein/Sekt-Prosecco/Geldermann-Sekt-Classique-trocken-0-75-ltr.html?force_sid=n71r62s9km0nkb8djqah6vvc2f",
+      "category": "Sekt-Prosecco"
+    },
+    {
+      "name": "Riunite Moscato Peach Frizzante 0,75L ",
+      "page": "https://www.edeka24.de/Wein/Sekt-Prosecco/Riunite-Moscato-Peach-Frizzante-0-75L.html?force_sid=n71r62s9km0nkb8djqah6vvc2f",
+      "category": "Sekt-Prosecco"
+    },
+    {
+      "name": "Fürst von Metternich Riesling Sekt extra trocken 0,75 ltr ",
+      "page": "https://www.edeka24.de/Wein/Sekt-Prosecco/Fuerst-von-Metternich-Riesling-Sekt-extra-trocken-0-75-ltr.html?force_sid=n71r62s9km0nkb8djqah6vvc2f",
+      "category": "Sekt-Prosecco"
+    },
+    {
+      "name": "Freixenet Legero Alkoholfrei 0,75 ltr ",
+      "page": "https://www.edeka24.de/Wein/Sekt-Prosecco/Freixenet-Legero-Alkoholfrei-0-75-ltr.html?force_sid=n71r62s9km0nkb8djqah6vvc2f",
+      "category": "Sekt-Prosecco"
+    },
+    {
+      "name": "Freixenet Ice Rose Semi Seco 0,75 ltr ",
+      "page": "https://www.edeka24.de/Wein/Sekt-Prosecco/Freixenet-Ice-Rose-Semi-Seco-0-75-ltr.html?force_sid=n71r62s9km0nkb8djqah6vvc2f",
+      "category": "Sekt-Prosecco"
+    },
+    {
+      "name": "Brut Dargent Rose Pinot Noir 0,75 ltr ",
+      "page": "https://www.edeka24.de/Wein/Sekt-Prosecco/Brut-Dargent-Rose-Pinot-Noir-0-75-ltr.html?force_sid=n71r62s9km0nkb8djqah6vvc2f",
+      "category": "Sekt-Prosecco"
+    },
+    {
+      "name": "Freixenet Cava Carta Nevada Extra Dry 0,75 ltr ",
+      "page": "https://www.edeka24.de/Wein/Sekt-Prosecco/Freixenet-Cava-Carta-Nevada-Extra-Dry-0-75-ltr.html?force_sid=n71r62s9km0nkb8djqah6vvc2f",
+      "category": "Sekt-Prosecco"
+    },
+    {
+      "name": "Heidsieck Monopole Blue Top Champagner Brut 0,75 ltr ",
+      "page": "https://www.edeka24.de/Wein/Sekt-Prosecco/Heidsieck-Monopole-Blue-Top-Champagner-Brut-0-75-ltr.html?force_sid=n71r62s9km0nkb8djqah6vvc2f",
+      "category": "Sekt-Prosecco"
+    },
+    {
+      "name": "Taittinger Champagner Prestige Brut Rosé Geschenkpackung 0,75L ",
+      "page": "https://www.edeka24.de/Wein/Sekt-Prosecco/Taittinger-Champagner-Prestige-Brut-Ros-Geschenkpackung-0-75L.html?force_sid=n71r62s9km0nkb8djqah6vvc2f",
+      "category": "Sekt-Prosecco"
+    },
+    {
+      "name": "Moët & Chandon Champagner Brut Imperial Rosé 0,75l ",
+      "page": "https://www.edeka24.de/Wein/Sekt-Prosecco/Mo-t-Chandon-Champagner-Brut-Imperial-Ros-0-75l.html?force_sid=n71r62s9km0nkb8djqah6vvc2f",
+      "category": "Sekt-Prosecco"
+    },
+    {
+      "name": "Taittinger Champagner Brut Réserve Magnum 1,5 ltr ",
+      "page": "https://www.edeka24.de/Wein/Sekt-Prosecco/Taittinger-Champagner-Brut-R-serve-Magnum-1-5-ltr.html?force_sid=n71r62s9km0nkb8djqah6vvc2f",
+      "category": "Sekt-Prosecco"
+    },
+    {
+      "name": "Laessiger Secco Weiß extra trocken 0,75L ",
+      "page": "https://www.edeka24.de/Wein/Sekt-Prosecco/Laessiger-Secco-Weiss-extra-trocken-0-75L.html?force_sid=n71r62s9km0nkb8djqah6vvc2f",
+      "category": "Sekt-Prosecco"
+    },
+    {
+      "name": "Durbacher Riesecco Qualitätsperlwein trocken 0,75l ",
+      "page": "https://www.edeka24.de/Wein/Sekt-Prosecco/Durbacher-Riesecco-Qualitaetsperlwein-trocken-0-75l.html?force_sid=n71r62s9km0nkb8djqah6vvc2f",
+      "category": "Sekt-Prosecco"
+    },
+    {
+      "name": "Fürst von Metternich Rosé Sekt trocken 0,75 ltr ",
+      "page": "https://www.edeka24.de/Wein/Sekt-Prosecco/Fuerst-von-Metternich-Ros-Sekt-trocken-0-75-ltr.html?force_sid=n71r62s9km0nkb8djqah6vvc2f",
+      "category": "Sekt-Prosecco"
+    },
+    {
+      "name": "Martini Prosecco Frizzante 0,75 ltr ",
+      "page": "https://www.edeka24.de/Wein/Sekt-Prosecco/Martini-Prosecco-Frizzante-0-75-ltr.html?force_sid=n71r62s9km0nkb8djqah6vvc2f",
+      "category": "Sekt-Prosecco"
+    },
+    {
+      "name": "Ortenauer Weinkeller Sternenberg Rieslingsekt Brut 0,75L ",
+      "page": "https://www.edeka24.de/Wein/Sekt-Prosecco/Ortenauer-Weinkeller-Sternenberg-Rieslingsekt-Brut-0-75L.html?force_sid=n71r62s9km0nkb8djqah6vvc2f",
+      "category": "Sekt-Prosecco"
+    },
+    {
+      "name": "Ortenauer Weinkeller Sternenberg Rieslingsekt trocken 0,75l ",
+      "page": "https://www.edeka24.de/Wein/Sekt-Prosecco/Ortenauer-Weinkeller-Sternenberg-Rieslingsekt-trocken-0-75l.html?force_sid=n71r62s9km0nkb8djqah6vvc2f",
+      "category": "Sekt-Prosecco"
+    },
+    {
+      "name": "Grand Plaisir Champagner Brut 0,75 ltr ",
+      "page": "https://www.edeka24.de/Wein/Sekt-Prosecco/Grand-Plaisir-Champagner-Brut-0-75-ltr.html?force_sid=feppfd1rkd04pr45huduu1q6mi",
+      "category": "Sekt-Prosecco"
+    },
+    {
+      "name": "Finca de la Vega Cava Seco 0,75 ltr ",
+      "page": "https://www.edeka24.de/Wein/Sekt-Prosecco/Finca-de-la-Vega-Cava-Seco-0-75-ltr.html?force_sid=feppfd1rkd04pr45huduu1q6mi",
+      "category": "Sekt-Prosecco"
+    },
+    {
+      "name": "Finca de la Vega Cava Semi Seco 0,75 ltr ",
+      "page": "https://www.edeka24.de/Wein/Sekt-Prosecco/Finca-de-la-Vega-Cava-Semi-Seco-0-75-ltr.html?force_sid=feppfd1rkd04pr45huduu1q6mi",
+      "category": "Sekt-Prosecco"
+    },
+    {
+      "name": "Schloss Munzingen Sekt Brut 0,75 ltr ",
+      "page": "https://www.edeka24.de/Wein/Sekt-Prosecco/Schloss-Munzingen-Sekt-Brut-0-75-ltr.html?force_sid=feppfd1rkd04pr45huduu1q6mi",
+      "category": "Sekt-Prosecco"
+    },
+    {
+      "name": "Grand Plaisir Champagne Brut Rosé 0,75 ltr ",
+      "page": "https://www.edeka24.de/Wein/Sekt-Prosecco/Grand-Plaisir-Champagne-Brut-Ros-0-75-ltr.html?force_sid=feppfd1rkd04pr45huduu1q6mi",
+      "category": "Sekt-Prosecco"
+    },
+    {
+      "name": "Wolfberger Cremant d'Alsace Brut 0,75 ltr ",
+      "page": "https://www.edeka24.de/Wein/Sekt-Prosecco/Wolfberger-Cremant-d-Alsace-Brut-0-75-ltr.html?force_sid=feppfd1rkd04pr45huduu1q6mi",
+      "category": "Sekt-Prosecco"
+    },
+    {
+      "name": "Philippe de Lonsac Champagner Brut Premium 0,75 ltr ",
+      "page": "https://www.edeka24.de/Wein/Sekt-Prosecco/Philippe-de-Lonsac-Champagner-Brut-Premium-0-75-ltr.html?force_sid=feppfd1rkd04pr45huduu1q6mi",
+      "category": "Sekt-Prosecco"
+    },
+    {
+      "name": "Mumm Extra Dry Jahrgangssekt Extra Trocken 0,75 ltr ",
+      "page": "https://www.edeka24.de/Wein/Sekt-Prosecco/Mumm-Extra-Dry-Jahrgangssekt-Extra-Trocken-0-75-ltr.html?force_sid=feppfd1rkd04pr45huduu1q6mi",
+      "category": "Sekt-Prosecco"
+    },
+    {
+      "name": "Veuve Amiot Cremant de Loire Brut 0,75l ",
+      "page": "https://www.edeka24.de/Wein/Sekt-Prosecco/Veuve-Amiot-Cremant-de-Loire-Brut-0-75l.html?force_sid=feppfd1rkd04pr45huduu1q6mi",
+      "category": "Sekt-Prosecco"
+    },
+    {
+      "name": "Mumm  Dry Jahrgangssekt Trocken 0,75 ltr ",
+      "page": "https://www.edeka24.de/Wein/Sekt-Prosecco/Mumm-Dry-Jahrgangssekt-Trocken-0-75-ltr.html?force_sid=feppfd1rkd04pr45huduu1q6mi",
+      "category": "Sekt-Prosecco"
+    },
+    {
+      "name": "Durbacher Edelmann Sekt trocken 0,75 ltr ",
+      "page": "https://www.edeka24.de/Wein/Sekt-Prosecco/Durbacher-Edelmann-Sekt-trocken-0-75-ltr.html?force_sid=feppfd1rkd04pr45huduu1q6mi",
+      "category": "Sekt-Prosecco"
+    },
+    {
+      "name": "Kloster Eberbach Riesling Sekt Brut Flaschengärung 2018 0,75 ltr ",
+      "page": "https://www.edeka24.de/Wein/Sekt-Prosecco/Kloster-Eberbach-Riesling-Sekt-Brut-Flaschengaerung-2018-0-75-ltr.html?force_sid=feppfd1rkd04pr45huduu1q6mi",
+      "category": "Sekt-Prosecco"
+    },
+    {
+      "name": "Rotkäppchen Sekt Rubin halbtrocken 0,75 ltr ",
+      "page": "https://www.edeka24.de/Wein/Sekt-Prosecco/Rotkaeppchen-Sekt-Rubin-halbtrocken-0-75-ltr.html?force_sid=feppfd1rkd04pr45huduu1q6mi",
+      "category": "Sekt-Prosecco"
+    },
+    {
+      "name": "Kessler Sekt Classic Rose 0,75l ",
+      "page": "https://www.edeka24.de/Wein/Sekt-Prosecco/Kessler-Sekt-Classic-Rose-0-75l.html?force_sid=feppfd1rkd04pr45huduu1q6mi",
+      "category": "Sekt-Prosecco"
+    },
+    {
+      "name": "Krimskoye Krimsekt rot-mild ",
+      "page": "https://www.edeka24.de/Wein/Sekt-Prosecco/Krimskoye-Krimsekt-rot-mild.html?force_sid=feppfd1rkd04pr45huduu1q6mi",
+      "category": "Sekt-Prosecco"
+    },
+    {
+      "name": "Alnatura Bio Prosecco D.O.C 0,75 ltr ",
+      "page": "https://www.edeka24.de/Wein/Sekt-Prosecco/Alnatura-Bio-Prosecco-D-O-C-0-75-ltr.html?force_sid=feppfd1rkd04pr45huduu1q6mi",
+      "category": "Sekt-Prosecco"
+    },
+    {
+      "name": "WG Bötzingen GO Rosé alkoholfrei 0,75 ltr ",
+      "page": "https://www.edeka24.de/Wein/Sekt-Prosecco/WG-Boetzingen-GO-Ros-alkoholfrei-0-75-ltr.html?force_sid=feppfd1rkd04pr45huduu1q6mi",
+      "category": "Sekt-Prosecco"
+    },
+    {
+      "name": "Aperol Spritz 3x 0,175L ",
+      "page": "https://www.edeka24.de/Wein/Sekt-Prosecco/Aperol-Spritz-3x-0-175L.html?force_sid=feppfd1rkd04pr45huduu1q6mi",
+      "category": "Sekt-Prosecco"
+    },
+    {
+      "name": "Lineavini Prosecco Blu secco 0,75 ltr ",
+      "page": "https://www.edeka24.de/Wein/Sekt-Prosecco/Lineavini-Prosecco-Blu-secco-0-75-ltr.html?force_sid=feppfd1rkd04pr45huduu1q6mi",
+      "category": "Sekt-Prosecco"
+    },
+    {
+      "name": "Schlossberg Sektkellerei Superb Sekt Trocken 0,75 ltr ",
+      "page": "https://www.edeka24.de/Wein/Sekt-Prosecco/Schlossberg-Sektkellerei-Superb-Sekt-Trocken-0-75-ltr.html?force_sid=feppfd1rkd04pr45huduu1q6mi",
+      "category": "Sekt-Prosecco"
+    },
+    {
+      "name": "Rotkäppchen Fruchtsecco Granatapfel 0,75 ltr ",
+      "page": "https://www.edeka24.de/Wein/Sekt-Prosecco/Rotkaeppchen-Fruchtsecco-Granatapfel-0-75-ltr.html?force_sid=feppfd1rkd04pr45huduu1q6mi",
+      "category": "Sekt-Prosecco"
+    },
+    {
+      "name": "Schlossberg Sektkellerei Superb Sekt Brut 0,75 ltr ",
+      "page": "https://www.edeka24.de/Wein/Sekt-Prosecco/Schlossberg-Sektkellerei-Superb-Sekt-Brut-0-75-ltr.html?force_sid=feppfd1rkd04pr45huduu1q6mi",
+      "category": "Sekt-Prosecco"
+    },
+    {
+      "name": "Jules Mumm Rosé Sekt 0,75 ltr ",
+      "page": "https://www.edeka24.de/Wein/Sekt-Prosecco/Jules-Mumm-Ros-Sekt-0-75-ltr.html?force_sid=feppfd1rkd04pr45huduu1q6mi",
+      "category": "Sekt-Prosecco"
+    },
+    {
+      "name": "Schloss Munzingen Sekt Rosé Trocken 0,75 ltr ",
+      "page": "https://www.edeka24.de/Wein/Sekt-Prosecco/Schloss-Munzingen-Sekt-Ros-Trocken-0-75-ltr.html?force_sid=feppfd1rkd04pr45huduu1q6mi",
+      "category": "Sekt-Prosecco"
+    },
+    {
+      "name": "Rotkäppchen Sekt mild 0,75 ltr ",
+      "page": "https://www.edeka24.de/Wein/Sekt-Prosecco/Rotkaeppchen-Sekt-mild-0-75-ltr.html?force_sid=feppfd1rkd04pr45huduu1q6mi",
+      "category": "Sekt-Prosecco"
+    },
+    {
+      "name": "Schlossberg Sektkellerei Superb Sekt Extra Trocken 0,75 ltr ",
+      "page": "https://www.edeka24.de/Wein/Sekt-Prosecco/Schlossberg-Sektkellerei-Superb-Sekt-Extra-Trocken-0-75-ltr.html?force_sid=feppfd1rkd04pr45huduu1q6mi",
+      "category": "Sekt-Prosecco"
+    },
+    {
+      "name": "Arthur Metz Cremant d'Alsace Brut 0,75 ltr ",
+      "page": "https://www.edeka24.de/Wein/Sekt-Prosecco/Arthur-Metz-Cremant-d-Alsace-Brut-0-75-ltr.html?force_sid=feppfd1rkd04pr45huduu1q6mi",
+      "category": "Sekt-Prosecco"
+    },
+    {
+      "name": "Rotkäppchen Sekt halbtrocken 0,75 ltr ",
+      "page": "https://www.edeka24.de/Wein/Sekt-Prosecco/Rotkaeppchen-Sekt-halbtrocken-0-75-ltr.html?force_sid=feppfd1rkd04pr45huduu1q6mi",
+      "category": "Sekt-Prosecco"
+    },
+    {
+      "name": "Cinzano Asti DOCG 0,75 ltr ",
+      "page": "https://www.edeka24.de/Wein/Sekt-Prosecco/Cinzano-Asti-DOCG-0-75-ltr.html?force_sid=feppfd1rkd04pr45huduu1q6mi",
+      "category": "Sekt-Prosecco"
+    }
+  ]
+}

@@ -1,0 +1,639 @@
+{
+  "products": [
+    {
+      "name": "Alnatura Bio Fusilli 500G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Beilagen/Nudeln/Alnatura-Bio-Fusilli-500G.html?force_sid=lii3hufsmaa3df5eed1b18g13c",
+      "category": "Nudeln"
+    },
+    {
+      "name": "EDEKA Bio Spaghetti aus 100% Hartweizen 500 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Beilagen/Nudeln/EDEKA-Bio-Spaghetti-aus-100-Hartweizen-500-g.html?force_sid=lii3hufsmaa3df5eed1b18g13c",
+      "category": "Nudeln"
+    },
+    {
+      "name": "Alnatura Bio Spaghetti 500G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Beilagen/Nudeln/Alnatura-Bio-Spaghetti-500G.html?force_sid=lii3hufsmaa3df5eed1b18g13c",
+      "category": "Nudeln"
+    },
+    {
+      "name": "Alnatura Bio Penne Rigate No.22 500G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Beilagen/Nudeln/Alnatura-Bio-Penne-Rigate-No-22-500G.html?force_sid=lii3hufsmaa3df5eed1b18g13c",
+      "category": "Nudeln"
+    },
+    {
+      "name": "Barilla Nudeln Spaghetti No.5 500g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Beilagen/Nudeln/Barilla-Nudeln-Spaghetti-No-5-500g.html?force_sid=lii3hufsmaa3df5eed1b18g13c",
+      "category": "Nudeln"
+    },
+    {
+      "name": "EDEKA Italia Nudeln Maccaroni 500 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Beilagen/Nudeln/EDEKA-Italia-Nudeln-Maccaroni-500-g.html?force_sid=lii3hufsmaa3df5eed1b18g13c",
+      "category": "Nudeln"
+    },
+    {
+      "name": "Alnatura Bio Vollkorn Mini Penne 500G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Beilagen/Nudeln/Alnatura-Bio-Vollkorn-Mini-Penne-500G.html?force_sid=lii3hufsmaa3df5eed1b18g13c",
+      "category": "Nudeln"
+    },
+    {
+      "name": "Barilla Nudeln Fusilli 500 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Beilagen/Nudeln/Barilla-Nudeln-Fusilli-500-g.html?force_sid=lii3hufsmaa3df5eed1b18g13c",
+      "category": "Nudeln"
+    },
+    {
+      "name": "Barilla Nudeln Girandole 500 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Beilagen/Nudeln/Barilla-Nudeln-Girandole-500-g.html?force_sid=lii3hufsmaa3df5eed1b18g13c",
+      "category": "Nudeln"
+    },
+    {
+      "name": "EDEKA Italia Nudeln Farfalle 500 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Beilagen/Nudeln/EDEKA-Italia-Nudeln-Farfalle-500-g.html?force_sid=lii3hufsmaa3df5eed1b18g13c",
+      "category": "Nudeln"
+    },
+    {
+      "name": "Barilla Nudeln La Collezione Tagliatelle 500 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Beilagen/Nudeln/Barilla-Nudeln-La-Collezione-Tagliatelle-500-g.html?force_sid=lii3hufsmaa3df5eed1b18g13c",
+      "category": "Nudeln"
+    },
+    {
+      "name": "Barilla Nudeln Penne Rigate 500g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Beilagen/Nudeln/Barilla-Nudeln-Penne-Rigate-500g.html?force_sid=lii3hufsmaa3df5eed1b18g13c",
+      "category": "Nudeln"
+    },
+    {
+      "name": "EDEKA Italia Tortellini Tricolore 250G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Beilagen/Nudeln/EDEKA-Italia-Tortellini-Tricolore-250G.html?force_sid=lii3hufsmaa3df5eed1b18g13c",
+      "category": "Nudeln"
+    },
+    {
+      "name": "Buitoni Nudeln Cellentani 500 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Beilagen/Nudeln/Buitoni-Nudeln-Cellentani-500-g.html?force_sid=lii3hufsmaa3df5eed1b18g13c",
+      "category": "Nudeln"
+    },
+    {
+      "name": "Alnatura Bio Tortellini Gemüse 250G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Beilagen/Nudeln/Alnatura-Bio-Tortellini-Gemuese-250G.html?force_sid=lii3hufsmaa3df5eed1b18g13c",
+      "category": "Nudeln"
+    },
+    {
+      "name": "Alnatura Bio Tortellini Käse 250G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Beilagen/Nudeln/Alnatura-Bio-Tortellini-Kaese-250G.html?force_sid=lii3hufsmaa3df5eed1b18g13c",
+      "category": "Nudeln"
+    },
+    {
+      "name": "EDEKA Italia Nudeln Spaghetti 500 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Beilagen/Nudeln/EDEKA-Italia-Nudeln-Spaghetti-500-g.html?force_sid=lii3hufsmaa3df5eed1b18g13c",
+      "category": "Nudeln"
+    },
+    {
+      "name": "Barilla Nudeln Spaghettini No.3 500 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Beilagen/Nudeln/Barilla-Nudeln-Spaghettini-No-3-500-g.html?force_sid=lii3hufsmaa3df5eed1b18g13c",
+      "category": "Nudeln"
+    },
+    {
+      "name": "Alnatura Bio Mie Nudeln 250 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Beilagen/Nudeln/Alnatura-Bio-Mie-Nudeln-250-g.html?force_sid=lii3hufsmaa3df5eed1b18g13c",
+      "category": "Nudeln"
+    },
+    {
+      "name": "Alnatura Bio Dinkel Spaghetti 500G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Beilagen/Nudeln/Alnatura-Bio-Dinkel-Spaghetti-500G.html?force_sid=lii3hufsmaa3df5eed1b18g13c",
+      "category": "Nudeln"
+    },
+    {
+      "name": "Tress Original Hausmacher Feine Suppennudeln 500 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Beilagen/Nudeln/Tress-Original-Hausmacher-Feine-Suppennudeln-500-g.html?force_sid=lii3hufsmaa3df5eed1b18g13c",
+      "category": "Nudeln"
+    },
+    {
+      "name": "Barilla Nudeln Maccheroni No.44 500 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Beilagen/Nudeln/Barilla-Nudeln-Maccheroni-No-44-500-g.html?force_sid=lii3hufsmaa3df5eed1b18g13c",
+      "category": "Nudeln"
+    },
+    {
+      "name": "EDEKA Italia Tortellini Cinque Formaggi 250G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Beilagen/Nudeln/EDEKA-Italia-Tortellini-Cinque-Formaggi-250G.html?force_sid=lii3hufsmaa3df5eed1b18g13c",
+      "category": "Nudeln"
+    },
+    {
+      "name": "Alnatura Bio Linguine 500G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Beilagen/Nudeln/Alnatura-Bio-Linguine-500G.html?force_sid=lii3hufsmaa3df5eed1b18g13c",
+      "category": "Nudeln"
+    },
+    {
+      "name": "EDEKA Bio Fusilli rote Linsen 250G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Beilagen/Nudeln/EDEKA-Bio-Fusilli-rote-Linsen-250G.html?force_sid=lii3hufsmaa3df5eed1b18g13c",
+      "category": "Nudeln"
+    },
+    {
+      "name": "3 Glocken Genuss Pur Spiralen 500 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Beilagen/Nudeln/3-Glocken-Genuss-Pur-Spiralen-500-g.html?force_sid=lii3hufsmaa3df5eed1b18g13c",
+      "category": "Nudeln"
+    },
+    {
+      "name": "Alnatura Bio Dinkel Locken 500G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Beilagen/Nudeln/Alnatura-Bio-Dinkel-Locken-500G.html?force_sid=lii3hufsmaa3df5eed1b18g13c",
+      "category": "Nudeln"
+    },
+    {
+      "name": "EDEKA Italia Tortellini Carne 250G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Beilagen/Nudeln/EDEKA-Italia-Tortellini-Carne-250G.html?force_sid=lii3hufsmaa3df5eed1b18g13c",
+      "category": "Nudeln"
+    },
+    {
+      "name": "Alnatura Bio Dinkel Spirelli 500G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Beilagen/Nudeln/Alnatura-Bio-Dinkel-Spirelli-500G.html?force_sid=lii3hufsmaa3df5eed1b18g13c",
+      "category": "Nudeln"
+    },
+    {
+      "name": "Barilla Nudeln La Collezione Lasagne 500 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Beilagen/Nudeln/Barilla-Nudeln-La-Collezione-Lasagne-500-g.html?force_sid=lii3hufsmaa3df5eed1b18g13c",
+      "category": "Nudeln"
+    },
+    {
+      "name": "Barilla Nudeln La Collezione Fettuccine 500 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Beilagen/Nudeln/Barilla-Nudeln-La-Collezione-Fettuccine-500-g.html?force_sid=qart038hn8a61cu3co2q06ethb",
+      "category": "Nudeln"
+    },
+    {
+      "name": "EDEKA Italia Spirali Tricolori 500 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Beilagen/Nudeln/EDEKA-Italia-Spirali-Tricolori-500-g.html?force_sid=qart038hn8a61cu3co2q06ethb",
+      "category": "Nudeln"
+    },
+    {
+      "name": "Alnatura Bio Vollkorn Farfalle No.37 500G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Beilagen/Nudeln/Alnatura-Bio-Vollkorn-Farfalle-No-37-500G.html?force_sid=qart038hn8a61cu3co2q06ethb",
+      "category": "Nudeln"
+    },
+    {
+      "name": "Buitoni Nudeln Eliche 500 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Beilagen/Nudeln/Buitoni-Nudeln-Eliche-500-g.html?force_sid=qart038hn8a61cu3co2q06ethb",
+      "category": "Nudeln"
+    },
+    {
+      "name": "Birkel Schwäbische Spätzle 500 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Beilagen/Nudeln/Birkel-Schwaebische-Spaetzle-500-g.html?force_sid=qart038hn8a61cu3co2q06ethb",
+      "category": "Nudeln"
+    },
+    {
+      "name": "Birkel Hörnchen 500 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Beilagen/Nudeln/Birkel-Hoernchen-500-g.html?force_sid=qart038hn8a61cu3co2q06ethb",
+      "category": "Nudeln"
+    },
+    {
+      "name": "Birkel Breite Bandnudeln 500 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Beilagen/Nudeln/Birkel-Breite-Bandnudeln-500-g.html?force_sid=qart038hn8a61cu3co2q06ethb",
+      "category": "Nudeln"
+    },
+    {
+      "name": "EDEKA Italia Nudeln Tagliatelle gelb 500 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Beilagen/Nudeln/EDEKA-Italia-Nudeln-Tagliatelle-gelb-500-g.html?force_sid=qart038hn8a61cu3co2q06ethb",
+      "category": "Nudeln"
+    },
+    {
+      "name": "EDEKA Bio Fusilli Kichererbsen 250G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Beilagen/Nudeln/EDEKA-Bio-Fusilli-Kichererbsen-250G.html?force_sid=qart038hn8a61cu3co2q06ethb",
+      "category": "Nudeln"
+    },
+    {
+      "name": "Barilla Nudeln Fusilli Integrale Vollkorn 500 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Beilagen/Nudeln/Barilla-Nudeln-Fusilli-Integrale-Vollkorn-500-g.html?force_sid=qart038hn8a61cu3co2q06ethb",
+      "category": "Nudeln"
+    },
+    {
+      "name": "Barilla Castellane 500G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Beilagen/Nudeln/Barilla-Castellane-500G.html?force_sid=qart038hn8a61cu3co2q06ethb",
+      "category": "Nudeln"
+    },
+    {
+      "name": "Barilla Nudeln La Collezione Cannelloni ",
+      "page": "https://www.edeka24.de/Lebensmittel/Beilagen/Nudeln/Barilla-Nudeln-La-Collezione-Cannelloni.html?force_sid=qart038hn8a61cu3co2q06ethb",
+      "category": "Nudeln"
+    },
+    {
+      "name": "Buitoni Nudeln Penne Rigate 500 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Beilagen/Nudeln/Buitoni-Nudeln-Penne-Rigate-500-g.html?force_sid=qart038hn8a61cu3co2q06ethb",
+      "category": "Nudeln"
+    },
+    {
+      "name": "Barilla Nudeln Tortiglioni 500 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Beilagen/Nudeln/Barilla-Nudeln-Tortiglioni-500-g.html?force_sid=qart038hn8a61cu3co2q06ethb",
+      "category": "Nudeln"
+    },
+    {
+      "name": "Alnatura Bio Vollkorn Spaghetti No.3 500G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Beilagen/Nudeln/Alnatura-Bio-Vollkorn-Spaghetti-No-3-500G.html?force_sid=qart038hn8a61cu3co2q06ethb",
+      "category": "Nudeln"
+    },
+    {
+      "name": "EDEKA Selection Spaghetti alla Chitara 500G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Beilagen/Nudeln/EDEKA-Selection-Spaghetti-alla-Chitara-500G.html?force_sid=qart038hn8a61cu3co2q06ethb",
+      "category": "Nudeln"
+    },
+    {
+      "name": "Alnatura Origin Bio Fettuccine 500g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Beilagen/Nudeln/Alnatura-Origin-Bio-Fettuccine-500g.html?force_sid=qart038hn8a61cu3co2q06ethb",
+      "category": "Nudeln"
+    },
+    {
+      "name": "Birkel Suppen-Bändchen 500 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Beilagen/Nudeln/Birkel-Suppen-Baendchen-500-g.html?force_sid=qart038hn8a61cu3co2q06ethb",
+      "category": "Nudeln"
+    },
+    {
+      "name": "EDEKA Italia Nudeln Tagliatelle grün 500 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Beilagen/Nudeln/EDEKA-Italia-Nudeln-Tagliatelle-gruen-500-g.html?force_sid=qart038hn8a61cu3co2q06ethb",
+      "category": "Nudeln"
+    },
+    {
+      "name": "Barilla Nudeln Spaghetti No.5 Integrale Vollkorn 500 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Beilagen/Nudeln/Barilla-Nudeln-Spaghetti-No-5-Integrale-Vollkorn-500-g.html?force_sid=qart038hn8a61cu3co2q06ethb",
+      "category": "Nudeln"
+    },
+    {
+      "name": "Buitoni Nudeln Farfalle 500 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Beilagen/Nudeln/Buitoni-Nudeln-Farfalle-500-g.html?force_sid=qart038hn8a61cu3co2q06ethb",
+      "category": "Nudeln"
+    },
+    {
+      "name": "Barilla Nudeln Piccolini Mini Penne Rigate 500G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Beilagen/Nudeln/Barilla-Nudeln-Piccolini-Mini-Penne-Rigate-500G.html?force_sid=qart038hn8a61cu3co2q06ethb",
+      "category": "Nudeln"
+    },
+    {
+      "name": "Gaggli Frischeier-Bandnudeln breit 12mm 250 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Beilagen/Nudeln/Gaggli-Frischeier-Bandnudeln-breit-12mm-250-g.html?force_sid=qart038hn8a61cu3co2q06ethb",
+      "category": "Nudeln"
+    },
+    {
+      "name": "Gaggli Frischeier-Faden-Nestchen 250 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Beilagen/Nudeln/Gaggli-Frischeier-Faden-Nestchen-250-g.html?force_sid=qart038hn8a61cu3co2q06ethb",
+      "category": "Nudeln"
+    },
+    {
+      "name": "Alnatura Bio Dinkel Spaghettini 500G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Beilagen/Nudeln/Alnatura-Bio-Dinkel-Spaghettini-500G.html?force_sid=qart038hn8a61cu3co2q06ethb",
+      "category": "Nudeln"
+    },
+    {
+      "name": "Alnatura Bio Dinkel Tortelloni Ricotta Spinat 250G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Beilagen/Nudeln/Alnatura-Bio-Dinkel-Tortelloni-Ricotta-Spinat-250G.html?force_sid=qart038hn8a61cu3co2q06ethb",
+      "category": "Nudeln"
+    },
+    {
+      "name": "3 Glocken Genuss Pur Gedrehte Bandnudeln 500 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Beilagen/Nudeln/3-Glocken-Genuss-Pur-Gedrehte-Bandnudeln-500-g.html?force_sid=qart038hn8a61cu3co2q06ethb",
+      "category": "Nudeln"
+    },
+    {
+      "name": "Birkel Gabel Spaghetti 500 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Beilagen/Nudeln/Birkel-Gabel-Spaghetti-500-g.html?force_sid=qart038hn8a61cu3co2q06ethb",
+      "category": "Nudeln"
+    },
+    {
+      "name": "Barilla Nudeln Pennette Rigate Integrale Vollkorn 500 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Beilagen/Nudeln/Barilla-Nudeln-Pennette-Rigate-Integrale-Vollkorn-500-g.html?force_sid=qart038hn8a61cu3co2q06ethb",
+      "category": "Nudeln"
+    },
+    {
+      "name": "Tress Großmutters Küche breite Nudeln 13 mm 500 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Beilagen/Nudeln/Tress-Grossmutters-Kueche-breite-Nudeln-13-mm-500-g.html?force_sid=qart038hn8a61cu3co2q06ethb",
+      "category": "Nudeln"
+    },
+    {
+      "name": "Tress Großmutters Küche Schwäbische Geschabte Spätzle 500 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Beilagen/Nudeln/Tress-Grossmutters-Kueche-Schwaebische-Geschabte-Spaetzle-500-g.html?force_sid=s7nuu2rn833dfl87puaqrc6c6h",
+      "category": "Nudeln"
+    },
+    {
+      "name": "EDEKA Italia Gnocchetti Sardi 500 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Beilagen/Nudeln/EDEKA-Italia-Gnocchetti-Sardi-500-g.html?force_sid=s7nuu2rn833dfl87puaqrc6c6h",
+      "category": "Nudeln"
+    },
+    {
+      "name": "Dorfmühle Oberschwäbische Land-Nudeln Dinkel Spiralen 500G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Beilagen/Nudeln/Dorfmuehle-Oberschwaebische-Land-Nudeln-Dinkel-Spiralen-500G.html?force_sid=s7nuu2rn833dfl87puaqrc6c6h",
+      "category": "Nudeln"
+    },
+    {
+      "name": "Barilla Nudeln Spaghettoni No. 7 500 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Beilagen/Nudeln/Barilla-Nudeln-Spaghettoni-No-7-500-g.html?force_sid=s7nuu2rn833dfl87puaqrc6c6h",
+      "category": "Nudeln"
+    },
+    {
+      "name": "Tress Original Hausmacher Gulaschnudeln ",
+      "page": "https://www.edeka24.de/Lebensmittel/Beilagen/Nudeln/Tress-Original-Hausmacher-Gulaschnudeln.html?force_sid=s7nuu2rn833dfl87puaqrc6c6h",
+      "category": "Nudeln"
+    },
+    {
+      "name": "Barilla Nudeln Penne Rigate glutenfrei 400G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Beilagen/Nudeln/Barilla-Nudeln-Penne-Rigate-glutenfrei-400G.html?force_sid=s7nuu2rn833dfl87puaqrc6c6h",
+      "category": "Nudeln"
+    },
+    {
+      "name": "Buitoni Nudeln Linguine 83 500 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Beilagen/Nudeln/Buitoni-Nudeln-Linguine-83-500-g.html?force_sid=s7nuu2rn833dfl87puaqrc6c6h",
+      "category": "Nudeln"
+    },
+    {
+      "name": "Dorfmühle Oberschwäbische Land-Nudeln Breite Bandnudeln 12mm 500 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Beilagen/Nudeln/Dorfmuehle-Oberschwaebische-Land-Nudeln-Breite-Bandnudeln-12mm-500-g.html?force_sid=s7nuu2rn833dfl87puaqrc6c6h",
+      "category": "Nudeln"
+    },
+    {
+      "name": "De Cecco Spaghetti No 12 500G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Beilagen/Nudeln/De-Cecco-Spaghetti-No-12-500G.html?force_sid=s7nuu2rn833dfl87puaqrc6c6h",
+      "category": "Nudeln"
+    },
+    {
+      "name": "Gaggli Frischeier-Buchstaben 250 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Beilagen/Nudeln/Gaggli-Frischeier-Buchstaben-250-g.html?force_sid=s7nuu2rn833dfl87puaqrc6c6h",
+      "category": "Nudeln"
+    },
+    {
+      "name": "Tress Original Hausmacher Feine Spätzle ",
+      "page": "https://www.edeka24.de/Lebensmittel/Beilagen/Nudeln/Tress-Original-Hausmacher-Feine-Spaetzle.html?force_sid=s7nuu2rn833dfl87puaqrc6c6h",
+      "category": "Nudeln"
+    },
+    {
+      "name": "EDEKA Italia Mezzi Rigatoni 500 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Beilagen/Nudeln/EDEKA-Italia-Mezzi-Rigatoni-500-g.html?force_sid=s7nuu2rn833dfl87puaqrc6c6h",
+      "category": "Nudeln"
+    },
+    {
+      "name": "EDEKA Italia Nudeln Lasagne 500 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Beilagen/Nudeln/EDEKA-Italia-Nudeln-Lasagne-500-g.html?force_sid=s7nuu2rn833dfl87puaqrc6c6h",
+      "category": "Nudeln"
+    },
+    {
+      "name": "Alnatura Origin Bio Volanti No.53 500G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Beilagen/Nudeln/Alnatura-Origin-Bio-Volanti-No-53-500G.html?force_sid=s7nuu2rn833dfl87puaqrc6c6h",
+      "category": "Nudeln"
+    },
+    {
+      "name": "Barilla Collezione Orecchiette 500G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Beilagen/Nudeln/Barilla-Collezione-Orecchiette-500G.html?force_sid=s7nuu2rn833dfl87puaqrc6c6h",
+      "category": "Nudeln"
+    },
+    {
+      "name": "Buitoni Nudeln Maccheroni 75 500 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Beilagen/Nudeln/Buitoni-Nudeln-Maccheroni-75-500-g.html?force_sid=s7nuu2rn833dfl87puaqrc6c6h",
+      "category": "Nudeln"
+    },
+    {
+      "name": "Dorfmühle Oberschwäbische Land-Nudeln Schwäbische Spätzle 500 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Beilagen/Nudeln/Dorfmuehle-Oberschwaebische-Land-Nudeln-Schwaebische-Spaetzle-500-g.html?force_sid=s7nuu2rn833dfl87puaqrc6c6h",
+      "category": "Nudeln"
+    },
+    {
+      "name": "Barilla Nudeln Spaghetti glutenfrei 400G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Beilagen/Nudeln/Barilla-Nudeln-Spaghetti-glutenfrei-400G.html?force_sid=s7nuu2rn833dfl87puaqrc6c6h",
+      "category": "Nudeln"
+    },
+    {
+      "name": "Barilla Risoni 500G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Beilagen/Nudeln/Barilla-Risoni-500G.html?force_sid=s7nuu2rn833dfl87puaqrc6c6h",
+      "category": "Nudeln"
+    },
+    {
+      "name": "Tress Großmutters Küche Original Schwäbische Knöpfle 500 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Beilagen/Nudeln/Tress-Grossmutters-Kueche-Original-Schwaebische-Knoepfle-500-g.html?force_sid=s7nuu2rn833dfl87puaqrc6c6h",
+      "category": "Nudeln"
+    },
+    {
+      "name": "Gaggli Gabelspagetti 250 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Beilagen/Nudeln/Gaggli-Gabelspagetti-250-g.html?force_sid=s7nuu2rn833dfl87puaqrc6c6h",
+      "category": "Nudeln"
+    },
+    {
+      "name": "Tress Großmutters Küche Muschel-Nudeln 500 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Beilagen/Nudeln/Tress-Grossmutters-Kueche-Muschel-Nudeln-500-g.html?force_sid=s7nuu2rn833dfl87puaqrc6c6h",
+      "category": "Nudeln"
+    },
+    {
+      "name": "Tress Original Hausmacher gedrehte Bandnudeln 500 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Beilagen/Nudeln/Tress-Original-Hausmacher-gedrehte-Bandnudeln-500-g.html?force_sid=s7nuu2rn833dfl87puaqrc6c6h",
+      "category": "Nudeln"
+    },
+    {
+      "name": "Alnatura Bio Lasagne No.76 250G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Beilagen/Nudeln/Alnatura-Bio-Lasagne-No-76-250G.html?force_sid=s7nuu2rn833dfl87puaqrc6c6h",
+      "category": "Nudeln"
+    },
+    {
+      "name": "3 Glocken Genuss Pur Nudeln Spaghetti 500 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Beilagen/Nudeln/3-Glocken-Genuss-Pur-Nudeln-Spaghetti-500-g.html?force_sid=s7nuu2rn833dfl87puaqrc6c6h",
+      "category": "Nudeln"
+    },
+    {
+      "name": "3 Glocken Genuss Pur Nudeln Kelche 500 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Beilagen/Nudeln/3-Glocken-Genuss-Pur-Nudeln-Kelche-500-g.html?force_sid=s7nuu2rn833dfl87puaqrc6c6h",
+      "category": "Nudeln"
+    },
+    {
+      "name": "Buitoni Nudeln Tortiglioni 500 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Beilagen/Nudeln/Buitoni-Nudeln-Tortiglioni-500-g.html?force_sid=s7nuu2rn833dfl87puaqrc6c6h",
+      "category": "Nudeln"
+    },
+    {
+      "name": "Tress Original Hausmacher Wellenspätzle 500 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Beilagen/Nudeln/Tress-Original-Hausmacher-Wellenspaetzle-500-g.html?force_sid=s7nuu2rn833dfl87puaqrc6c6h",
+      "category": "Nudeln"
+    },
+    {
+      "name": "Gaggli Frischeier-Makkaroni 250 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Beilagen/Nudeln/Gaggli-Frischeier-Makkaroni-250-g.html?force_sid=s7nuu2rn833dfl87puaqrc6c6h",
+      "category": "Nudeln"
+    },
+    {
+      "name": "Gaggli Frischeier-Hörnchen 250 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Beilagen/Nudeln/Gaggli-Frischeier-Hoernchen-250-g.html?force_sid=s7nuu2rn833dfl87puaqrc6c6h",
+      "category": "Nudeln"
+    },
+    {
+      "name": "Barilla Nudeln La Collezione Tagliatelle con Spinaci 500 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Beilagen/Nudeln/Barilla-Nudeln-La-Collezione-Tagliatelle-con-Spinaci-500-g.html?force_sid=balmrvn1vbe488dv999h9c47ll",
+      "category": "Nudeln"
+    },
+    {
+      "name": "Dorfmühle Oberschwäbische Land-Nudeln Dinkel Bandnudeln 8mm 500G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Beilagen/Nudeln/Dorfmuehle-Oberschwaebische-Land-Nudeln-Dinkel-Bandnudeln-8mm-500G.html?force_sid=balmrvn1vbe488dv999h9c47ll",
+      "category": "Nudeln"
+    },
+    {
+      "name": "De Cecco Fusilli No 34 500G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Beilagen/Nudeln/De-Cecco-Fusilli-No-34-500G.html?force_sid=balmrvn1vbe488dv999h9c47ll",
+      "category": "Nudeln"
+    },
+    {
+      "name": "EDEKA Italia Bavette 500G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Beilagen/Nudeln/EDEKA-Italia-Bavette-500G.html?force_sid=balmrvn1vbe488dv999h9c47ll",
+      "category": "Nudeln"
+    },
+    {
+      "name": "Birkel Spaghetti 500 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Beilagen/Nudeln/Birkel-Spaghetti-500-g.html?force_sid=balmrvn1vbe488dv999h9c47ll",
+      "category": "Nudeln"
+    },
+    {
+      "name": "Tress Original Hausmacher Schwäbische Spätzle 500 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Beilagen/Nudeln/Tress-Original-Hausmacher-Schwaebische-Spaetzle-500-g.html?force_sid=balmrvn1vbe488dv999h9c47ll",
+      "category": "Nudeln"
+    },
+    {
+      "name": "Tress Original Hausmacher Bandnudeln 8mm 500 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Beilagen/Nudeln/Tress-Original-Hausmacher-Bandnudeln-8mm-500-g.html?force_sid=balmrvn1vbe488dv999h9c47ll",
+      "category": "Nudeln"
+    },
+    {
+      "name": "Alnatura Bio Dinkel Vollkorn Spaghetti 500G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Beilagen/Nudeln/Alnatura-Bio-Dinkel-Vollkorn-Spaghetti-500G.html?force_sid=balmrvn1vbe488dv999h9c47ll",
+      "category": "Nudeln"
+    },
+    {
+      "name": "EDEKA Selection Rigatoni 500G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Beilagen/Nudeln/EDEKA-Selection-Rigatoni-500G.html?force_sid=balmrvn1vbe488dv999h9c47ll",
+      "category": "Nudeln"
+    },
+    {
+      "name": "Birkel Maccaroni 500 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Beilagen/Nudeln/Birkel-Maccaroni-500-g.html?force_sid=balmrvn1vbe488dv999h9c47ll",
+      "category": "Nudeln"
+    },
+    {
+      "name": "Barilla Nudeln Capellini No.1 500 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Beilagen/Nudeln/Barilla-Nudeln-Capellini-No-1-500-g.html?force_sid=balmrvn1vbe488dv999h9c47ll",
+      "category": "Nudeln"
+    },
+    {
+      "name": "Buitoni Nudeln Gnocchi 500 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Beilagen/Nudeln/Buitoni-Nudeln-Gnocchi-500-g.html?force_sid=balmrvn1vbe488dv999h9c47ll",
+      "category": "Nudeln"
+    },
+    {
+      "name": "Barilla Nudeln Gobbetti 500 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Beilagen/Nudeln/Barilla-Nudeln-Gobbetti-500-g.html?force_sid=balmrvn1vbe488dv999h9c47ll",
+      "category": "Nudeln"
+    },
+    {
+      "name": "Barilla Nudeln Gemelli 500 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Beilagen/Nudeln/Barilla-Nudeln-Gemelli-500-g.html?force_sid=balmrvn1vbe488dv999h9c47ll",
+      "category": "Nudeln"
+    },
+    {
+      "name": "Gaggli Frischeier-Spiralen 250 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Beilagen/Nudeln/Gaggli-Frischeier-Spiralen-250-g.html?force_sid=balmrvn1vbe488dv999h9c47ll",
+      "category": "Nudeln"
+    },
+    {
+      "name": "Gaggli Frischeier-Wellenspätzle 250 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Beilagen/Nudeln/Gaggli-Frischeier-Wellenspaetzle-250-g.html?force_sid=balmrvn1vbe488dv999h9c47ll",
+      "category": "Nudeln"
+    },
+    {
+      "name": "Tress Großmutters Küche Breite Nudeln 9 mm 500 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Beilagen/Nudeln/Tress-Grossmutters-Kueche-Breite-Nudeln-9-mm-500-g.html?force_sid=balmrvn1vbe488dv999h9c47ll",
+      "category": "Nudeln"
+    },
+    {
+      "name": "Dorfmühle Oberschwäbische Land-Nudeln Spiralen 500 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Beilagen/Nudeln/Dorfmuehle-Oberschwaebische-Land-Nudeln-Spiralen-500-g.html?force_sid=balmrvn1vbe488dv999h9c47ll",
+      "category": "Nudeln"
+    },
+    {
+      "name": "Barilla Casarecce aus Kichererbsen 250 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Beilagen/Nudeln/Barilla-Casarecce-aus-Kichererbsen-250-g.html?force_sid=balmrvn1vbe488dv999h9c47ll",
+      "category": "Nudeln"
+    },
+    {
+      "name": "Birkel Spiralen 500 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Beilagen/Nudeln/Birkel-Spiralen-500-g.html?force_sid=balmrvn1vbe488dv999h9c47ll",
+      "category": "Nudeln"
+    },
+    {
+      "name": "EDEKA Selection Conchiglioni 500G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Beilagen/Nudeln/EDEKA-Selection-Conchiglioni-500G.html?force_sid=balmrvn1vbe488dv999h9c47ll",
+      "category": "Nudeln"
+    },
+    {
+      "name": "Dinkel Max Bio Spiralen 500G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Beilagen/Nudeln/Dinkel-Max-Bio-Spiralen-500G.html?force_sid=balmrvn1vbe488dv999h9c47ll",
+      "category": "Nudeln"
+    },
+    {
+      "name": "3 Glocken Genuss Pur Nudeln Korkzieher 500 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Beilagen/Nudeln/3-Glocken-Genuss-Pur-Nudeln-Korkzieher-500-g.html?force_sid=balmrvn1vbe488dv999h9c47ll",
+      "category": "Nudeln"
+    },
+    {
+      "name": "Tress Großmutters Küche Original Schwäbische Spätzle 500 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Beilagen/Nudeln/Tress-Grossmutters-Kueche-Original-Schwaebische-Spaetzle-500-g.html?force_sid=balmrvn1vbe488dv999h9c47ll",
+      "category": "Nudeln"
+    },
+    {
+      "name": "EDEKA Selection Fusilloni 500G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Beilagen/Nudeln/EDEKA-Selection-Fusilloni-500G.html?force_sid=balmrvn1vbe488dv999h9c47ll",
+      "category": "Nudeln"
+    },
+    {
+      "name": "Dorfmühle Oberschwäbische Land-Nudeln Hörnchen 500 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Beilagen/Nudeln/Dorfmuehle-Oberschwaebische-Land-Nudeln-Hoernchen-500-g.html?force_sid=balmrvn1vbe488dv999h9c47ll",
+      "category": "Nudeln"
+    },
+    {
+      "name": "Dorfmühle Oberschwäbische Land-Nudeln Schnittnudeln 2mm ",
+      "page": "https://www.edeka24.de/Lebensmittel/Beilagen/Nudeln/Dorfmuehle-Oberschwaebische-Land-Nudeln-Schnittnudeln-2mm.html?force_sid=balmrvn1vbe488dv999h9c47ll",
+      "category": "Nudeln"
+    },
+    {
+      "name": "Dorfmühle Land-Nudeln Schwäbische Bandnudeln  500 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Beilagen/Nudeln/Dorfmuehle-Land-Nudeln-Schwaebische-Bandnudeln-500-g.html?force_sid=balmrvn1vbe488dv999h9c47ll",
+      "category": "Nudeln"
+    },
+    {
+      "name": "De Cecco Casareccia No 88 ",
+      "page": "https://www.edeka24.de/Lebensmittel/Beilagen/Nudeln/De-Cecco-Casareccia-No-88.html?force_sid=balmrvn1vbe488dv999h9c47ll",
+      "category": "Nudeln"
+    },
+    {
+      "name": "EDEKA Italia Fusilli 1KG ",
+      "page": "https://www.edeka24.de/Lebensmittel/Beilagen/Nudeln/EDEKA-Italia-Fusilli-1KG.html?force_sid=balmrvn1vbe488dv999h9c47ll",
+      "category": "Nudeln"
+    },
+    {
+      "name": "Just Taste Bio Süßkartoffel Fettuccine 250G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Beilagen/Nudeln/Just-Taste-Bio-Suesskartoffel-Fettuccine-250G.html?force_sid=88bvj0quuv3rcvc7hdlcethdnt",
+      "category": "Nudeln"
+    },
+    {
+      "name": "Tress Original Hausmacher Spaghetti 500 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Beilagen/Nudeln/Tress-Original-Hausmacher-Spaghetti-500-g.html?force_sid=88bvj0quuv3rcvc7hdlcethdnt",
+      "category": "Nudeln"
+    },
+    {
+      "name": "Dorfmühle Oberschwäbische Land-Nudeln Schwäbische Schabspätzle 500 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Beilagen/Nudeln/Dorfmuehle-Oberschwaebische-Land-Nudeln-Schwaebische-Schabspaetzle-500-g.html?force_sid=88bvj0quuv3rcvc7hdlcethdnt",
+      "category": "Nudeln"
+    },
+    {
+      "name": "EDEKA Italia Penne Rigate 1 kg ",
+      "page": "https://www.edeka24.de/Lebensmittel/Beilagen/Nudeln/EDEKA-Italia-Penne-Rigate-1-kg.html?force_sid=88bvj0quuv3rcvc7hdlcethdnt",
+      "category": "Nudeln"
+    },
+    {
+      "name": "Gaggli Frischeier-Bandnudeln halbreit 8mm 250 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Beilagen/Nudeln/Gaggli-Frischeier-Bandnudeln-halbreit-8mm-250-g.html?force_sid=88bvj0quuv3rcvc7hdlcethdnt",
+      "category": "Nudeln"
+    },
+    {
+      "name": "Gaggli Frischeier-Bandnudeln schmal 4mm 250 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Beilagen/Nudeln/Gaggli-Frischeier-Bandnudeln-schmal-4mm-250-g.html?force_sid=88bvj0quuv3rcvc7hdlcethdnt",
+      "category": "Nudeln"
+    },
+    {
+      "name": "Dorfmühle Oberschwäbische Land-Nudeln Spaghetti 500 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Beilagen/Nudeln/Dorfmuehle-Oberschwaebische-Land-Nudeln-Spaghetti-500-g.html?force_sid=88bvj0quuv3rcvc7hdlcethdnt",
+      "category": "Nudeln"
+    }
+  ]
+}

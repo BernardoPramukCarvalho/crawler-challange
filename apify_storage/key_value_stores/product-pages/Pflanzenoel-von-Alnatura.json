@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "name": "Alnatura Bio Bratöl 750ML ",
+      "page": "https://www.edeka24.de/Alnatura-Produkte/Lebensmittel-von-Alnatura/Pflanzenoel-von-Alnatura/Alnatura-Bio-Bratoel-750ML-oxid.html?force_sid=gljgoh3ae0i82nkghv3agno99s",
+      "category": "Pflanzenoel-von-Alnatura"
+    },
+    {
+      "name": "Alnatura Bio Rapsöl nativ 0,5L ",
+      "page": "https://www.edeka24.de/Alnatura-Produkte/Lebensmittel-von-Alnatura/Pflanzenoel-von-Alnatura/Alnatura-Bio-Rapsoel-nativ-0-5L.html?force_sid=gljgoh3ae0i82nkghv3agno99s",
+      "category": "Pflanzenoel-von-Alnatura"
+    },
+    {
+      "name": "Alnatura Bio Kokosöl nativ 400ML ",
+      "page": "https://www.edeka24.de/Alnatura-Produkte/Lebensmittel-von-Alnatura/Pflanzenoel-von-Alnatura/Alnatura-Bio-Kokosoel-nativ-400ML.html?force_sid=gljgoh3ae0i82nkghv3agno99s",
+      "category": "Pflanzenoel-von-Alnatura"
+    },
+    {
+      "name": "Alnatura Bio Italienisches Olivenöl Nativ Extra 500ML ",
+      "page": "https://www.edeka24.de/Alnatura-Produkte/Lebensmittel-von-Alnatura/Pflanzenoel-von-Alnatura/Alnatura-Bio-Italienisches-Olivenoel-Nativ-Extra-500ML.html?force_sid=gljgoh3ae0i82nkghv3agno99s",
+      "category": "Pflanzenoel-von-Alnatura"
+    },
+    {
+      "name": "Alnatura Bio Kokosöl nativ 220ML ",
+      "page": "https://www.edeka24.de/Alnatura-Produkte/Lebensmittel-von-Alnatura/Pflanzenoel-von-Alnatura/Alnatura-Bio-Kokosoel-nativ-220ML.html?force_sid=gljgoh3ae0i82nkghv3agno99s",
+      "category": "Pflanzenoel-von-Alnatura"
+    },
+    {
+      "name": "Alnatura Bio Steirisches Kürbiskernöl g.g.A. 100ML ",
+      "page": "https://www.edeka24.de/Alnatura-Produkte/Lebensmittel-von-Alnatura/Pflanzenoel-von-Alnatura/Alnatura-Bio-Steirisches-Kuerbiskernoel-g-g-A-100ML.html?force_sid=gljgoh3ae0i82nkghv3agno99s",
+      "category": "Pflanzenoel-von-Alnatura"
+    },
+    {
+      "name": "Alnatura Bio Sesamöl nativ 250ML ",
+      "page": "https://www.edeka24.de/Alnatura-Produkte/Lebensmittel-von-Alnatura/Pflanzenoel-von-Alnatura/Alnatura-Bio-Sesamoel-nativ-250ML.html?force_sid=gljgoh3ae0i82nkghv3agno99s",
+      "category": "Pflanzenoel-von-Alnatura"
+    }
+  ]
+}

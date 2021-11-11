@@ -1,0 +1,544 @@
+{
+  "products": [
+    {
+      "name": "Alnatura Demeter Bio Apfel-Heidelbeere, nach dem 4. Monat 125 g ",
+      "page": "https://www.edeka24.de/Drogerie/Baby-und-Kleinkind/Glaeschen/Alnatura-Demeter-Bio-Apfel-Heidelbeere-nach-dem-4-Monat-125-g.html?force_sid=0hsejiok0ten6k8bj7pb0kqu4u",
+      "category": "Glaeschen"
+    },
+    {
+      "name": "Hipp Bio Erdbeere mit Himbeere in Apfel ab dem 5.Monat 190G ",
+      "page": "https://www.edeka24.de/Drogerie/Baby-und-Kleinkind/Glaeschen/Hipp-Bio-Erdbeere-mit-Himbeere-in-Apfel-ab-dem-5-Monat-190G.html?force_sid=0hsejiok0ten6k8bj7pb0kqu4u",
+      "category": "Glaeschen"
+    },
+    {
+      "name": "Hipp Bio Apfel ab dem 5.Monat 125G ",
+      "page": "https://www.edeka24.de/Drogerie/Baby-und-Kleinkind/Glaeschen/Hipp-Bio-Apfel-ab-dem-5-Monat-125G.html?force_sid=0hsejiok0ten6k8bj7pb0kqu4u",
+      "category": "Glaeschen"
+    },
+    {
+      "name": "EDEKA Bio Birne Erdbeere in Apfel nach dem 4.Monat 190G ",
+      "page": "https://www.edeka24.de/Drogerie/Baby-und-Kleinkind/Glaeschen/EDEKA-Bio-Birne-Erdbeere-in-Apfel-nach-dem-4-Monat-190G.html?force_sid=0hsejiok0ten6k8bj7pb0kqu4u",
+      "category": "Glaeschen"
+    },
+    {
+      "name": "EDEKA Bio Apfel-Banane-Hirse ab dem 6.Monat 190G ",
+      "page": "https://www.edeka24.de/Drogerie/Baby-und-Kleinkind/Glaeschen/EDEKA-Bio-Apfel-Banane-Hirse-ab-dem-6-Monat-190G.html?force_sid=0hsejiok0ten6k8bj7pb0kqu4u",
+      "category": "Glaeschen"
+    },
+    {
+      "name": "Hipp Bio Banane & Pfirsich in Apfel ab 5.Monat 190G ",
+      "page": "https://www.edeka24.de/Drogerie/Baby-und-Kleinkind/Glaeschen/Hipp-Bio-Banane-Pfirsich-in-Apfel-ab-5-Monat-190G.html?force_sid=0hsejiok0ten6k8bj7pb0kqu4u",
+      "category": "Glaeschen"
+    },
+    {
+      "name": "Alnatura Demeter Apfel-Birne-Kirsche ab dem 6.Monat 190G ",
+      "page": "https://www.edeka24.de/Drogerie/Baby-und-Kleinkind/Glaeschen/Alnatura-Demeter-Apfel-Birne-Kirsche-ab-dem-6-Monat-190G.html?force_sid=0hsejiok0ten6k8bj7pb0kqu4u",
+      "category": "Glaeschen"
+    },
+    {
+      "name": "EDEKA Bio Erdbeere in Apfel mit Joghurt 190G ",
+      "page": "https://www.edeka24.de/Drogerie/Baby-und-Kleinkind/Glaeschen/EDEKA-Bio-Erdbeere-in-Apfel-mit-Joghurt-190G.html?force_sid=0hsejiok0ten6k8bj7pb0kqu4u",
+      "category": "Glaeschen"
+    },
+    {
+      "name": "Hipp Bio Mango-Maracuja in Birne-Apfel ab dem 6.Monat 190G ",
+      "page": "https://www.edeka24.de/Drogerie/Baby-und-Kleinkind/Glaeschen/Hipp-Bio-Mango-Maracuja-in-Birne-Apfel-ab-dem-6-Monat-190G.html?force_sid=0hsejiok0ten6k8bj7pb0kqu4u",
+      "category": "Glaeschen"
+    },
+    {
+      "name": "EDEKA Bio Bircher Müsli ab dem 8.Monat 190G ",
+      "page": "https://www.edeka24.de/Drogerie/Baby-und-Kleinkind/Glaeschen/EDEKA-Bio-Bircher-Muesli-ab-dem-8-Monat-190G.html?force_sid=0hsejiok0ten6k8bj7pb0kqu4u",
+      "category": "Glaeschen"
+    },
+    {
+      "name": "Hipp Bio Rindfleisch-Zubereitung ab dem 5.Monat 125G ",
+      "page": "https://www.edeka24.de/Drogerie/Baby-und-Kleinkind/Glaeschen/Hipp-Bio-Rindfleisch-Zubereitung-ab-dem-5-Monat-125G.html?force_sid=0hsejiok0ten6k8bj7pb0kqu4u",
+      "category": "Glaeschen"
+    },
+    {
+      "name": "Hipp Bio Für Kleine Feinschmecker Platt-Pfirsich in Apfel-Aprikose ab 6.Monat 190G ",
+      "page": "https://www.edeka24.de/Drogerie/Baby-und-Kleinkind/Glaeschen/Hipp-Bio-Fuer-Kleine-Feinschmecker-Platt-Pfirsich-in-Apfel-Aprikose-ab-6-Monat-190G.html?force_sid=0hsejiok0ten6k8bj7pb0kqu4u",
+      "category": "Glaeschen"
+    },
+    {
+      "name": "Hipp Bio Spaghetti Bolognese ab dem 12.Monat 250G ",
+      "page": "https://www.edeka24.de/Drogerie/Baby-und-Kleinkind/Glaeschen/Hipp-Bio-Spaghetti-Bolognese-ab-dem-12-Monat-250G.html?force_sid=0hsejiok0ten6k8bj7pb0kqu4u",
+      "category": "Glaeschen"
+    },
+    {
+      "name": "Alnatura Demeter Bio Feines Fruchtallerlei nach dem 4.Monat 190G ",
+      "page": "https://www.edeka24.de/Drogerie/Baby-und-Kleinkind/Glaeschen/Alnatura-Demeter-Bio-Feines-Fruchtallerlei-nach-dem-4-Monat-190G.html?force_sid=0hsejiok0ten6k8bj7pb0kqu4u",
+      "category": "Glaeschen"
+    },
+    {
+      "name": "Hipp Bio Für Kleine Feinschmecker Nektarine in Apfel-Mango ab 6.Monat 190G ",
+      "page": "https://www.edeka24.de/Drogerie/Baby-und-Kleinkind/Glaeschen/Hipp-Bio-Fuer-Kleine-Feinschmecker-Nektarine-in-Apfel-Mango-ab-6-Monat-190G.html?force_sid=0hsejiok0ten6k8bj7pb0kqu4u",
+      "category": "Glaeschen"
+    },
+    {
+      "name": "Hipp Bio Frucht & Getreide Himbeere in Apfel-Bananen-Müesli ab 8.Monat 190G ",
+      "page": "https://www.edeka24.de/Drogerie/Baby-und-Kleinkind/Glaeschen/Hipp-Bio-Frucht-Getreide-Himbeere-in-Apfel-Bananen-Mueesli-ab-8-Monat-190G.html?force_sid=0hsejiok0ten6k8bj7pb0kqu4u",
+      "category": "Glaeschen"
+    },
+    {
+      "name": "EDEKA Bio Karotte pur nach dem 4.Monat 125G ",
+      "page": "https://www.edeka24.de/Drogerie/Baby-und-Kleinkind/Glaeschen/EDEKA-Bio-Karotte-pur-nach-dem-4-Monat-125G.html?force_sid=0hsejiok0ten6k8bj7pb0kqu4u",
+      "category": "Glaeschen"
+    },
+    {
+      "name": "Hipp Bio Reiner Butternut Kürbis ohne Salzzusatz ab dem 5.Monat 125G ",
+      "page": "https://www.edeka24.de/Drogerie/Baby-und-Kleinkind/Glaeschen/Hipp-Bio-Reiner-Butternut-Kuerbis-ohne-Salzzusatz-ab-dem-5-Monat-125G.html?force_sid=0hsejiok0ten6k8bj7pb0kqu4u",
+      "category": "Glaeschen"
+    },
+    {
+      "name": "Hipp Bio Pasta Bambini Rigatoni Napoli ab dem 12.Monat 250G ",
+      "page": "https://www.edeka24.de/Drogerie/Baby-und-Kleinkind/Glaeschen/Hipp-Bio-Pasta-Bambini-Rigatoni-Napoli-ab-dem-12-Monat-250G.html?force_sid=0hsejiok0ten6k8bj7pb0kqu4u",
+      "category": "Glaeschen"
+    },
+    {
+      "name": "EDEKA Bio Mango in Apfel nach dem 4.Monat 190G ",
+      "page": "https://www.edeka24.de/Drogerie/Baby-und-Kleinkind/Glaeschen/EDEKA-Bio-Mango-in-Apfel-nach-dem-4-Monat-190G.html?force_sid=0hsejiok0ten6k8bj7pb0kqu4u",
+      "category": "Glaeschen"
+    },
+    {
+      "name": "Hipp Bio Gemüseallerlei mit Bio-Rind ab dem 12.Monat 250G ",
+      "page": "https://www.edeka24.de/Drogerie/Baby-und-Kleinkind/Glaeschen/Hipp-Bio-Gemueseallerlei-mit-Bio-Rind-ab-dem-12-Monat-250G.html?force_sid=0hsejiok0ten6k8bj7pb0kqu4u",
+      "category": "Glaeschen"
+    },
+    {
+      "name": "Kölln Bio Schmelzflocken Dinkel-Hafer Nach dem 4.Monat 225G ",
+      "page": "https://www.edeka24.de/Drogerie/Baby-und-Kleinkind/Glaeschen/Koelln-Bio-Schmelzflocken-Dinkel-Hafer-Nach-dem-4-Monat-225G.html?force_sid=0hsejiok0ten6k8bj7pb0kqu4u",
+      "category": "Glaeschen"
+    },
+    {
+      "name": "Alnatura Bio Erdbeere Himbeere-Traube in Apfel, ab 6. Monat 190 g ",
+      "page": "https://www.edeka24.de/Drogerie/Baby-und-Kleinkind/Glaeschen/Alnatura-Bio-Erdbeere-Himbeere-Traube-in-Apfel-ab-6-Monat-190-g.html?force_sid=0hsejiok0ten6k8bj7pb0kqu4u",
+      "category": "Glaeschen"
+    },
+    {
+      "name": "Hipp Bio Frühstücks-Porridge Mango-Banane-Haferbrei ab 10.Monat 160G ",
+      "page": "https://www.edeka24.de/Drogerie/Baby-und-Kleinkind/Glaeschen/Hipp-Bio-Fruehstuecks-Porridge-Mango-Banane-Haferbrei-ab-10-Monat-160G.html?force_sid=0hsejiok0ten6k8bj7pb0kqu4u",
+      "category": "Glaeschen"
+    },
+    {
+      "name": "Hipp Bio Gute Nacht Grießbrei pur ab 5.Monat 190G ",
+      "page": "https://www.edeka24.de/Drogerie/Baby-und-Kleinkind/Glaeschen/Hipp-Bio-Gute-Nacht-Griessbrei-pur-ab-5-Monat-190G.html?force_sid=0hsejiok0ten6k8bj7pb0kqu4u",
+      "category": "Glaeschen"
+    },
+    {
+      "name": "Alnatura Bio Kürbis pur, nach dem 4. Monat 125 g ",
+      "page": "https://www.edeka24.de/Drogerie/Baby-und-Kleinkind/Glaeschen/Alnatura-Bio-Kuerbis-pur-nach-dem-4-Monat-125-g.html?force_sid=0hsejiok0ten6k8bj7pb0kqu4u",
+      "category": "Glaeschen"
+    },
+    {
+      "name": "Hipp Bio Gemüse Karotten ab dem 5.Monat 125G ",
+      "page": "https://www.edeka24.de/Drogerie/Baby-und-Kleinkind/Glaeschen/Hipp-Bio-Gemuese-Karotten-ab-dem-5-Monat-125G.html?force_sid=0hsejiok0ten6k8bj7pb0kqu4u",
+      "category": "Glaeschen"
+    },
+    {
+      "name": "Hipp Bio Für Kleine Feinschmecker Mirabelle in Apfel-Pfirsich ab 6.Monat 190G ",
+      "page": "https://www.edeka24.de/Drogerie/Baby-und-Kleinkind/Glaeschen/Hipp-Bio-Fuer-Kleine-Feinschmecker-Mirabelle-in-Apfel-Pfirsich-ab-6-Monat-190G.html?force_sid=0hsejiok0ten6k8bj7pb0kqu4u",
+      "category": "Glaeschen"
+    },
+    {
+      "name": "Hipp Bio Buttergemüse und Bio-Hühnchen ab 12. Monat 250 g ",
+      "page": "https://www.edeka24.de/Drogerie/Baby-und-Kleinkind/Glaeschen/Hipp-Bio-Buttergemuese-und-Bio-Huehnchen-ab-12-Monat-250-g.html?force_sid=0hsejiok0ten6k8bj7pb0kqu4u",
+      "category": "Glaeschen"
+    },
+    {
+      "name": "Hipp Bio Kleine Mehlspeise Kaiserschmarrn in Apfelmus ab dem 10.Monat 200G ",
+      "page": "https://www.edeka24.de/Drogerie/Baby-und-Kleinkind/Glaeschen/Hipp-Bio-Kleine-Mehlspeise-Kaiserschmarrn-in-Apfelmus-ab-dem-10-Monat-200G.html?force_sid=0hsejiok0ten6k8bj7pb0kqu4u",
+      "category": "Glaeschen"
+    },
+    {
+      "name": "EDEKA Bio Früchteallerlei mit Vollkorn ab dem 6.Monat 190G ",
+      "page": "https://www.edeka24.de/Drogerie/Baby-und-Kleinkind/Glaeschen/EDEKA-Bio-Fruechteallerlei-mit-Vollkorn-ab-dem-6-Monat-190G.html?force_sid=f86ifdc0vgk2tqef0drm3h8al6",
+      "category": "Glaeschen"
+    },
+    {
+      "name": "Hipp Bio Guten Morgen Erdbeere in Apfel-Joghurt-Müsli ab dem 10.Monat 160G ",
+      "page": "https://www.edeka24.de/Drogerie/Baby-und-Kleinkind/Glaeschen/Hipp-Bio-Guten-Morgen-Erdbeere-in-Apfel-Joghurt-Muesli-ab-dem-10-Monat-160G.html?force_sid=f86ifdc0vgk2tqef0drm3h8al6",
+      "category": "Glaeschen"
+    },
+    {
+      "name": "Hipp Bio Gemüse-Risotto ab dem 12.Monat 250G ",
+      "page": "https://www.edeka24.de/Drogerie/Baby-und-Kleinkind/Glaeschen/Hipp-Bio-Gemuese-Risotto-ab-dem-12-Monat-250G.html?force_sid=f86ifdc0vgk2tqef0drm3h8al6",
+      "category": "Glaeschen"
+    },
+    {
+      "name": "Hipp Bio Guten Morgen Früchte-Joghurt-Müsli ohne Zuckerzusatz ab dem 10.Monat 160G ",
+      "page": "https://www.edeka24.de/Drogerie/Baby-und-Kleinkind/Glaeschen/Hipp-Bio-Guten-Morgen-Fruechte-Joghurt-Muesli-ohne-Zuckerzusatz-ab-dem-10-Monat-160G.html?force_sid=f86ifdc0vgk2tqef0drm3h8al6",
+      "category": "Glaeschen"
+    },
+    {
+      "name": "Hipp Bio Williams-Christ-Birnen mit Apfel ab dem 5.Monat Vorteilsglas 250G ",
+      "page": "https://www.edeka24.de/Drogerie/Baby-und-Kleinkind/Glaeschen/Hipp-Bio-Williams-Christ-Birnen-mit-Apfel-ab-dem-5-Monat-Vorteilsglas-250G.html?force_sid=f86ifdc0vgk2tqef0drm3h8al6",
+      "category": "Glaeschen"
+    },
+    {
+      "name": "Hipp Bio Äpfel mit Bananen ab dem 5.Monat 190G ",
+      "page": "https://www.edeka24.de/Drogerie/Baby-und-Kleinkind/Glaeschen/Hipp-Bio-Aepfel-mit-Bananen-ab-dem-5-Monat-190G.html?force_sid=f86ifdc0vgk2tqef0drm3h8al6",
+      "category": "Glaeschen"
+    },
+    {
+      "name": "Hipp Bio Gute Nacht 3-Korn-Flocken ab 8.Monat 190G ",
+      "page": "https://www.edeka24.de/Drogerie/Baby-und-Kleinkind/Glaeschen/Hipp-Bio-Gute-Nacht-3-Korn-Flocken-ab-8-Monat-190G.html?force_sid=f86ifdc0vgk2tqef0drm3h8al6",
+      "category": "Glaeschen"
+    },
+    {
+      "name": "Hipp Bio Kürbis mit Kartoffeln nach dem 5. Monat 190 g ",
+      "page": "https://www.edeka24.de/Drogerie/Baby-und-Kleinkind/Glaeschen/Hipp-Bio-Kuerbis-mit-Kartoffeln-nach-dem-5-Monat-190-g.html?force_sid=f86ifdc0vgk2tqef0drm3h8al6",
+      "category": "Glaeschen"
+    },
+    {
+      "name": "EDEKA Bio Karotte mit Reis & Lachs nach dem 4.Monat 190G ",
+      "page": "https://www.edeka24.de/Drogerie/Baby-und-Kleinkind/Glaeschen/EDEKA-Bio-Karotte-mit-Reis-Lachs-nach-dem-4-Monat-190G.html?force_sid=f86ifdc0vgk2tqef0drm3h8al6",
+      "category": "Glaeschen"
+    },
+    {
+      "name": "Milupa Kleine Genießer Milchbrei Stracciatella ab dem 8.Monat 400G ",
+      "page": "https://www.edeka24.de/Drogerie/Baby-und-Kleinkind/Glaeschen/Milupa-Kleine-Geniesser-Milchbrei-Stracciatella-ab-dem-8-Monat-400G.html?force_sid=f86ifdc0vgk2tqef0drm3h8al6",
+      "category": "Glaeschen"
+    },
+    {
+      "name": "EDEKA Bio Karotte mit Kartoffeln nach dem 4.Monat 190G ",
+      "page": "https://www.edeka24.de/Drogerie/Baby-und-Kleinkind/Glaeschen/EDEKA-Bio-Karotte-mit-Kartoffeln-nach-dem-4-Monat-190G.html?force_sid=f86ifdc0vgk2tqef0drm3h8al6",
+      "category": "Glaeschen"
+    },
+    {
+      "name": "Bebivita Kartoffel-Püree mit Gemüse und Hackfleisch ab 6. Monat 190 g ",
+      "page": "https://www.edeka24.de/Drogerie/Baby-und-Kleinkind/Glaeschen/Bebivita-Kartoffel-Pueree-mit-Gemuese-und-Hackfleisch-ab-6-Monat-190-g.html?force_sid=f86ifdc0vgk2tqef0drm3h8al6",
+      "category": "Glaeschen"
+    },
+    {
+      "name": "Hipp Bio Mais mit Kartoffeln & Bio-Pute ab dem 5.Monat 190G ",
+      "page": "https://www.edeka24.de/Drogerie/Baby-und-Kleinkind/Glaeschen/Hipp-Bio-Mais-mit-Kartoffeln-Bio-Pute-ab-dem-5-Monat-190G.html?force_sid=f86ifdc0vgk2tqef0drm3h8al6",
+      "category": "Glaeschen"
+    },
+    {
+      "name": "Hipp Bio Karotten mit Kartoffeln und Bio-Rind ab dem 5. Monat 190 g ",
+      "page": "https://www.edeka24.de/Drogerie/Baby-und-Kleinkind/Glaeschen/Hipp-Bio-Karotten-mit-Kartoffeln-und-Bio-Rind-ab-dem-5-Monat-190-g.html?force_sid=f86ifdc0vgk2tqef0drm3h8al6",
+      "category": "Glaeschen"
+    },
+    {
+      "name": "EDEKA Bio Pastinaken, Kartoffeln & Rind nach dem 4.Monat 190G ",
+      "page": "https://www.edeka24.de/Drogerie/Baby-und-Kleinkind/Glaeschen/EDEKA-Bio-Pastinaken-Kartoffeln-Rind-nach-dem-4-Monat-190G.html?force_sid=f86ifdc0vgk2tqef0drm3h8al6",
+      "category": "Glaeschen"
+    },
+    {
+      "name": "Erdbär Bio Freche Freunde Apfel, Banane & Himbeere 100 g ",
+      "page": "https://www.edeka24.de/Drogerie/Baby-und-Kleinkind/Glaeschen/Erdbaer-Bio-Freche-Freunde-Apfel-Banane-Himbeere-100-g.html?force_sid=f86ifdc0vgk2tqef0drm3h8al6",
+      "category": "Glaeschen"
+    },
+    {
+      "name": "Hipp Wildlachszubereitung mit Gemüse ab dem 5.Monat 125G ",
+      "page": "https://www.edeka24.de/Drogerie/Baby-und-Kleinkind/Glaeschen/Hipp-Wildlachszubereitung-mit-Gemuese-ab-dem-5-Monat-125G.html?force_sid=f86ifdc0vgk2tqef0drm3h8al6",
+      "category": "Glaeschen"
+    },
+    {
+      "name": "Hipp Bio Kartoffeln mit mildem Rahmgulasch ab dem 8. Monat 220G ",
+      "page": "https://www.edeka24.de/Drogerie/Baby-und-Kleinkind/Glaeschen/Hipp-Bio-Kartoffeln-mit-mildem-Rahmgulasch-ab-dem-8-Monat-220G.html?force_sid=f86ifdc0vgk2tqef0drm3h8al6",
+      "category": "Glaeschen"
+    },
+    {
+      "name": "Hipp Bio Kartoffel-Eintopf ab dem 12.Monat 250G ",
+      "page": "https://www.edeka24.de/Drogerie/Baby-und-Kleinkind/Glaeschen/Hipp-Bio-Kartoffel-Eintopf-ab-dem-12-Monat-250G.html?force_sid=f86ifdc0vgk2tqef0drm3h8al6",
+      "category": "Glaeschen"
+    },
+    {
+      "name": "EDEKA Bio Karotten, Brokkoli & Dinkelnudeln ab dem 8.Monat 220G ",
+      "page": "https://www.edeka24.de/Drogerie/Baby-und-Kleinkind/Glaeschen/EDEKA-Bio-Karotten-Brokkoli-Dinkelnudeln-ab-dem-8-Monat-220G.html?force_sid=f86ifdc0vgk2tqef0drm3h8al6",
+      "category": "Glaeschen"
+    },
+    {
+      "name": "Hipp Bio Gute Nacht Milchreis pur ab 8.Monat 190G ",
+      "page": "https://www.edeka24.de/Drogerie/Baby-und-Kleinkind/Glaeschen/Hipp-Bio-Gute-Nacht-Milchreis-pur-ab-8-Monat-190G.html?force_sid=f86ifdc0vgk2tqef0drm3h8al6",
+      "category": "Glaeschen"
+    },
+    {
+      "name": "Hipp Bio Pasta Bambini Tagliatelle in Spinat-Käse-Sauce ab dem 12.Monat 250G ",
+      "page": "https://www.edeka24.de/Drogerie/Baby-und-Kleinkind/Glaeschen/Hipp-Bio-Pasta-Bambini-Tagliatelle-in-Spinat-Kaese-Sauce-ab-dem-12-Monat-250G.html?force_sid=f86ifdc0vgk2tqef0drm3h8al6",
+      "category": "Glaeschen"
+    },
+    {
+      "name": "Milupa Bio 7 Korn Getreidebrei ab dem 6.Monat 180G ",
+      "page": "https://www.edeka24.de/Drogerie/Baby-und-Kleinkind/Glaeschen/Milupa-Bio-7-Korn-Getreidebrei-ab-dem-6-Monat-180G.html?force_sid=f86ifdc0vgk2tqef0drm3h8al6",
+      "category": "Glaeschen"
+    },
+    {
+      "name": "Hipp Bio Reis mit Karotten und Bio-Pute ab dem 8. Monat 220G ",
+      "page": "https://www.edeka24.de/Drogerie/Baby-und-Kleinkind/Glaeschen/Hipp-Bio-Reis-mit-Karotten-und-Bio-Pute-ab-dem-8-Monat-220G.html?force_sid=f86ifdc0vgk2tqef0drm3h8al6",
+      "category": "Glaeschen"
+    },
+    {
+      "name": "Hipp Bio Schinkennudeln mit Gemüse ab dem 8.Monat 220G ",
+      "page": "https://www.edeka24.de/Drogerie/Baby-und-Kleinkind/Glaeschen/Hipp-Bio-Schinkennudeln-mit-Gemuese-ab-dem-8-Monat-220G.html?force_sid=f86ifdc0vgk2tqef0drm3h8al6",
+      "category": "Glaeschen"
+    },
+    {
+      "name": "Hipp Bio Spaghetti Bolognese ab dem 5.Monat 190G ",
+      "page": "https://www.edeka24.de/Drogerie/Baby-und-Kleinkind/Glaeschen/Hipp-Bio-Spaghetti-Bolognese-ab-dem-5-Monat-190G.html?force_sid=f86ifdc0vgk2tqef0drm3h8al6",
+      "category": "Glaeschen"
+    },
+    {
+      "name": "Hipp Bio Williams-Christ-Birnen mit Apfel ab 5.Monat 190G ",
+      "page": "https://www.edeka24.de/Drogerie/Baby-und-Kleinkind/Glaeschen/Hipp-Bio-Williams-Christ-Birnen-mit-Apfel-ab-5-Monat-190G.html?force_sid=f86ifdc0vgk2tqef0drm3h8al6",
+      "category": "Glaeschen"
+    },
+    {
+      "name": "Hipp Bio Hühnchenfleisch-Zubereitung ab dem 5.Monat 125G ",
+      "page": "https://www.edeka24.de/Drogerie/Baby-und-Kleinkind/Glaeschen/Hipp-Bio-Huehnchenfleisch-Zubereitung-ab-dem-5-Monat-125G.html?force_sid=f86ifdc0vgk2tqef0drm3h8al6",
+      "category": "Glaeschen"
+    },
+    {
+      "name": "EDEKA Bio Apfel mit Banane nach dem 4.Monat 190G ",
+      "page": "https://www.edeka24.de/Drogerie/Baby-und-Kleinkind/Glaeschen/EDEKA-Bio-Apfel-mit-Banane-nach-dem-4-Monat-190G.html?force_sid=f86ifdc0vgk2tqef0drm3h8al6",
+      "category": "Glaeschen"
+    },
+    {
+      "name": "Hipp Bio Kartoffel-Kürbis-Gemüse mit Bio-Hühnchen ab dem 12.Monat 250G ",
+      "page": "https://www.edeka24.de/Drogerie/Baby-und-Kleinkind/Glaeschen/Hipp-Bio-Kartoffel-Kuerbis-Gemuese-mit-Bio-Huehnchen-ab-dem-12-Monat-250G.html?force_sid=f86ifdc0vgk2tqef0drm3h8al6",
+      "category": "Glaeschen"
+    },
+    {
+      "name": "Hipp Bio Couscous-Gemüse-Pfanne ab dem 6.Monat 190G ",
+      "page": "https://www.edeka24.de/Drogerie/Baby-und-Kleinkind/Glaeschen/Hipp-Bio-Couscous-Gemuese-Pfanne-ab-dem-6-Monat-190G.html?force_sid=5l3lfgl1faavfkqt6i3t39bcq2",
+      "category": "Glaeschen"
+    },
+    {
+      "name": "Hipp Spaghetti mit Alaska-Seelachsfilet in Gemüse-Sahnesauce ab dem 12.Monat 250G ",
+      "page": "https://www.edeka24.de/Drogerie/Baby-und-Kleinkind/Glaeschen/Hipp-Spaghetti-mit-Alaska-Seelachsfilet-in-Gemuese-Sahnesauce-ab-dem-12-Monat-250G.html?force_sid=5l3lfgl1faavfkqt6i3t39bcq2",
+      "category": "Glaeschen"
+    },
+    {
+      "name": "Bebivita Feine Früchte Birne in Apfel nach dem 4. Monat 4x 100 g ",
+      "page": "https://www.edeka24.de/Drogerie/Baby-und-Kleinkind/Glaeschen/Bebivita-Feine-Fruechte-Birne-in-Apfel-nach-dem-4-Monat-4x-100-g.html?force_sid=5l3lfgl1faavfkqt6i3t39bcq2",
+      "category": "Glaeschen"
+    },
+    {
+      "name": "Hipp Mini-Pasta mit Alaska-Seelachsfilet & Buttergemüse ab dem 6.Monat 190G ",
+      "page": "https://www.edeka24.de/Drogerie/Baby-und-Kleinkind/Glaeschen/Hipp-Mini-Pasta-mit-Alaska-Seelachsfilet-Buttergemuese-ab-dem-6-Monat-190G.html?force_sid=5l3lfgl1faavfkqt6i3t39bcq2",
+      "category": "Glaeschen"
+    },
+    {
+      "name": "Hipp Bio Frucht & Getreide Feiner Obst-Brei mit Vollkorn ab 6.Monat 190G ",
+      "page": "https://www.edeka24.de/Drogerie/Baby-und-Kleinkind/Glaeschen/Hipp-Bio-Frucht-Getreide-Feiner-Obst-Brei-mit-Vollkorn-ab-6-Monat-190G.html?force_sid=5l3lfgl1faavfkqt6i3t39bcq2",
+      "category": "Glaeschen"
+    },
+    {
+      "name": "EDEKA Bio Pflaume in Apfel nach dem 4.Monat 190G ",
+      "page": "https://www.edeka24.de/Drogerie/Baby-und-Kleinkind/Glaeschen/EDEKA-Bio-Pflaume-in-Apfel-nach-dem-4-Monat-190G.html?force_sid=5l3lfgl1faavfkqt6i3t39bcq2",
+      "category": "Glaeschen"
+    },
+    {
+      "name": "Hipp Bio Eintopf Kartoffel-Rindfleisch-Eintopf ab dem 12.Monat 250G ",
+      "page": "https://www.edeka24.de/Drogerie/Baby-und-Kleinkind/Glaeschen/Hipp-Bio-Eintopf-Kartoffel-Rindfleisch-Eintopf-ab-dem-12-Monat-250G.html?force_sid=5l3lfgl1faavfkqt6i3t39bcq2",
+      "category": "Glaeschen"
+    },
+    {
+      "name": "EDEKA Bio Früchtemüsli mit Joghurt ab dem 10.Monat 190G ",
+      "page": "https://www.edeka24.de/Drogerie/Baby-und-Kleinkind/Glaeschen/EDEKA-Bio-Fruechtemuesli-mit-Joghurt-ab-dem-10-Monat-190G.html?force_sid=5l3lfgl1faavfkqt6i3t39bcq2",
+      "category": "Glaeschen"
+    },
+    {
+      "name": "EDEKA Bio Buttergemüse & Vollkornnudeln nach dem 4.Monat 190G ",
+      "page": "https://www.edeka24.de/Drogerie/Baby-und-Kleinkind/Glaeschen/EDEKA-Bio-Buttergemuese-Vollkornnudeln-nach-dem-4-Monat-190G.html?force_sid=5l3lfgl1faavfkqt6i3t39bcq2",
+      "category": "Glaeschen"
+    },
+    {
+      "name": "EDEKA Bio Grießbrei pur nach dem 4.Monat 190G ",
+      "page": "https://www.edeka24.de/Drogerie/Baby-und-Kleinkind/Glaeschen/EDEKA-Bio-Griessbrei-pur-nach-dem-4-Monat-190G.html?force_sid=5l3lfgl1faavfkqt6i3t39bcq2",
+      "category": "Glaeschen"
+    },
+    {
+      "name": "EDEKA Bio Dinkelnudeln Rahmspinat & Lachs ab dem 8.Monat 220G ",
+      "page": "https://www.edeka24.de/Drogerie/Baby-und-Kleinkind/Glaeschen/EDEKA-Bio-Dinkelnudeln-Rahmspinat-Lachs-ab-dem-8-Monat-220G.html?force_sid=5l3lfgl1faavfkqt6i3t39bcq2",
+      "category": "Glaeschen"
+    },
+    {
+      "name": "Hipp Bio Gemüse-Allerlei ab dem 5. Monat 190G ",
+      "page": "https://www.edeka24.de/Drogerie/Baby-und-Kleinkind/Glaeschen/Hipp-Bio-Gemuese-Allerlei-ab-dem-5-Monat-190G.html?force_sid=5l3lfgl1faavfkqt6i3t39bcq2",
+      "category": "Glaeschen"
+    },
+    {
+      "name": "Hipp Bio Spaghetti Bolognese ab dem 8.Monat 220G ",
+      "page": "https://www.edeka24.de/Drogerie/Baby-und-Kleinkind/Glaeschen/Hipp-Bio-Spaghetti-Bolognese-ab-dem-8-Monat-220G.html?force_sid=5l3lfgl1faavfkqt6i3t39bcq2",
+      "category": "Glaeschen"
+    },
+    {
+      "name": "Erdbär Bio Freche Freunde Erdbeere & Himbeere im Joghurt 100 g ",
+      "page": "https://www.edeka24.de/Drogerie/Baby-und-Kleinkind/Glaeschen/Erdbaer-Bio-Freche-Freunde-Erdbeere-Himbeere-im-Joghurt-100-g.html?force_sid=5l3lfgl1faavfkqt6i3t39bcq2",
+      "category": "Glaeschen"
+    },
+    {
+      "name": "Hipp Bio Frucht & Getreide Apfel-Bananen-Müesli ab 8.Monat 190G ",
+      "page": "https://www.edeka24.de/Drogerie/Baby-und-Kleinkind/Glaeschen/Hipp-Bio-Frucht-Getreide-Apfel-Bananen-Mueesli-ab-8-Monat-190G.html?force_sid=5l3lfgl1faavfkqt6i3t39bcq2",
+      "category": "Glaeschen"
+    },
+    {
+      "name": "Bebivita Milchbrei Früchte ohne Zuckerzusatz ab 4.Monat 500G ",
+      "page": "https://www.edeka24.de/Drogerie/Baby-und-Kleinkind/Glaeschen/Bebivita-Milchbrei-Fruechte-ohne-Zuckerzusatz-ab-4-Monat-500G.html?force_sid=5l3lfgl1faavfkqt6i3t39bcq2",
+      "category": "Glaeschen"
+    },
+    {
+      "name": "Hipp Bio Gute Nacht 7-Korn ab 6. Monat 190G ",
+      "page": "https://www.edeka24.de/Drogerie/Baby-und-Kleinkind/Glaeschen/Hipp-Bio-Gute-Nacht-7-Korn-ab-6-Monat-190G.html?force_sid=5l3lfgl1faavfkqt6i3t39bcq2",
+      "category": "Glaeschen"
+    },
+    {
+      "name": "Hipp Bio Gemüsecremesuppe ab dem 8.Monat 200G ",
+      "page": "https://www.edeka24.de/Drogerie/Baby-und-Kleinkind/Glaeschen/Hipp-Bio-Gemuesecremesuppe-ab-dem-8-Monat-200G.html?force_sid=5l3lfgl1faavfkqt6i3t39bcq2",
+      "category": "Glaeschen"
+    },
+    {
+      "name": "Alnatura Bio Milder Apfel pur nach dem 4. Monat 125G ",
+      "page": "https://www.edeka24.de/Drogerie/Baby-und-Kleinkind/Glaeschen/Alnatura-Bio-Milder-Apfel-pur-nach-dem-4-Monat-125G.html?force_sid=5l3lfgl1faavfkqt6i3t39bcq2",
+      "category": "Glaeschen"
+    },
+    {
+      "name": "Hipp Bio Kartoffelgemüe mit Bio-Rind ab 8. Monat 220G ",
+      "page": "https://www.edeka24.de/Drogerie/Baby-und-Kleinkind/Glaeschen/Hipp-Bio-Kartoffelgemuee-mit-Bio-Rind-ab-8-Monat-220G.html?force_sid=5l3lfgl1faavfkqt6i3t39bcq2",
+      "category": "Glaeschen"
+    },
+    {
+      "name": "Hipp Bio Williams-Christ-Birne ab dem 5.Monat 125G ",
+      "page": "https://www.edeka24.de/Drogerie/Baby-und-Kleinkind/Glaeschen/Hipp-Bio-Williams-Christ-Birne-ab-dem-5-Monat-125G.html?force_sid=5l3lfgl1faavfkqt6i3t39bcq2",
+      "category": "Glaeschen"
+    },
+    {
+      "name": "Hipp Bio Gemüse-Eintopf ab dem 12.Monat 250G ",
+      "page": "https://www.edeka24.de/Drogerie/Baby-und-Kleinkind/Glaeschen/Hipp-Bio-Gemuese-Eintopf-ab-dem-12-Monat-250G.html?force_sid=5l3lfgl1faavfkqt6i3t39bcq2",
+      "category": "Glaeschen"
+    },
+    {
+      "name": "Hipp Karotten mit Reis & Wildlachs ab dem 8.Monat 220G ",
+      "page": "https://www.edeka24.de/Drogerie/Baby-und-Kleinkind/Glaeschen/Hipp-Karotten-mit-Reis-Wildlachs-ab-dem-8-Monat-220G.html?force_sid=5l3lfgl1faavfkqt6i3t39bcq2",
+      "category": "Glaeschen"
+    },
+    {
+      "name": "EDEKA Bio Gemüse mit Kartoffeln & Rind ab dem 12.Monat 250G ",
+      "page": "https://www.edeka24.de/Drogerie/Baby-und-Kleinkind/Glaeschen/EDEKA-Bio-Gemuese-mit-Kartoffeln-Rind-ab-dem-12-Monat-250G.html?force_sid=5l3lfgl1faavfkqt6i3t39bcq2",
+      "category": "Glaeschen"
+    },
+    {
+      "name": "Hipp Bio Pastinaken mit Kartoffeln ab dem 5. Monat 190G ",
+      "page": "https://www.edeka24.de/Drogerie/Baby-und-Kleinkind/Glaeschen/Hipp-Bio-Pastinaken-mit-Kartoffeln-ab-dem-5-Monat-190G.html?force_sid=5l3lfgl1faavfkqt6i3t39bcq2",
+      "category": "Glaeschen"
+    },
+    {
+      "name": "Hipp Bio Couscous mit Gemüse und Bio-Hühnchen ab 8.Monat 220G ",
+      "page": "https://www.edeka24.de/Drogerie/Baby-und-Kleinkind/Glaeschen/Hipp-Bio-Couscous-mit-Gemuese-und-Bio-Huehnchen-ab-8-Monat-220G.html?force_sid=5l3lfgl1faavfkqt6i3t39bcq2",
+      "category": "Glaeschen"
+    },
+    {
+      "name": "Hipp Bio Pasta Bambini Spaghetti mit Tomaten und Mozzarella ab 8. Monat 220 g ",
+      "page": "https://www.edeka24.de/Drogerie/Baby-und-Kleinkind/Glaeschen/Hipp-Bio-Pasta-Bambini-Spaghetti-mit-Tomaten-und-Mozzarella-ab-8-Monat-220-g.html?force_sid=5l3lfgl1faavfkqt6i3t39bcq2",
+      "category": "Glaeschen"
+    },
+    {
+      "name": "Hipp Bio Hippis Mirabelle in Apfel-Pfirsich ohne Zuckerzusatz ab 1 Jahr 100 g ",
+      "page": "https://www.edeka24.de/Drogerie/Baby-und-Kleinkind/Glaeschen/Hipp-Bio-Hippis-Mirabelle-in-Apfel-Pfirsich-ohne-Zuckerzusatz-ab-1-Jahr-100-g.html?force_sid=5l3lfgl1faavfkqt6i3t39bcq2",
+      "category": "Glaeschen"
+    },
+    {
+      "name": "Alnatura Demeter Bio Birne pur nach dem 4. Monat 125G ",
+      "page": "https://www.edeka24.de/Drogerie/Baby-und-Kleinkind/Glaeschen/Alnatura-Demeter-Bio-Birne-pur-nach-dem-4-Monat-125G.html?force_sid=5l3lfgl1faavfkqt6i3t39bcq2",
+      "category": "Glaeschen"
+    },
+    {
+      "name": "Hipp Bio Mango-Banane in Apfel ab 6.Monat 190G ",
+      "page": "https://www.edeka24.de/Drogerie/Baby-und-Kleinkind/Glaeschen/Hipp-Bio-Mango-Banane-in-Apfel-ab-6-Monat-190G.html?force_sid=5l3lfgl1faavfkqt6i3t39bcq2",
+      "category": "Glaeschen"
+    },
+    {
+      "name": "Hipp Bio Frucht & Getreide Apfel-Banane mit Babykeks ab 5.Monat 190G ",
+      "page": "https://www.edeka24.de/Drogerie/Baby-und-Kleinkind/Glaeschen/Hipp-Bio-Frucht-Getreide-Apfel-Banane-mit-Babykeks-ab-5-Monat-190G.html?force_sid=21bnfko0ecefier90nr31me4r8",
+      "category": "Glaeschen"
+    },
+    {
+      "name": "EDEKA Bio Gemüsereis mit Lachs in Tomatensauce ab dem 12.Monat 250g ",
+      "page": "https://www.edeka24.de/Drogerie/Baby-und-Kleinkind/Glaeschen/EDEKA-Bio-Gemuesereis-mit-Lachs-in-Tomatensauce-ab-dem-12-Monat-250g.html?force_sid=21bnfko0ecefier90nr31me4r8",
+      "category": "Glaeschen"
+    },
+    {
+      "name": "Hipp Bio Pfirsich in Apfel ab 5.Monat Vorteilsglas 250G ",
+      "page": "https://www.edeka24.de/Drogerie/Baby-und-Kleinkind/Glaeschen/Hipp-Bio-Pfirsich-in-Apfel-ab-5-Monat-Vorteilsglas-250G.html?force_sid=21bnfko0ecefier90nr31me4r8",
+      "category": "Glaeschen"
+    },
+    {
+      "name": "Bebivita Kinder Spaß Multifrucht ab 1 Jahr 4x 90 g ",
+      "page": "https://www.edeka24.de/Drogerie/Baby-und-Kleinkind/Glaeschen/Bebivita-Kinder-Spass-Multifrucht-ab-1-Jahr-4x-90-g.html?force_sid=21bnfko0ecefier90nr31me4r8",
+      "category": "Glaeschen"
+    },
+    {
+      "name": "Hipp Bio Getreidebrei 5-Korn ungesüßt ab dem 6.Monat 200G ",
+      "page": "https://www.edeka24.de/Drogerie/Baby-und-Kleinkind/Glaeschen/Hipp-Bio-Getreidebrei-5-Korn-ungesuesst-ab-dem-6-Monat-200G.html?force_sid=21bnfko0ecefier90nr31me4r8",
+      "category": "Glaeschen"
+    },
+    {
+      "name": "Bebivita Milchbrei Grieß ohne Zuckerzusatz ab 6.Monat 500G ",
+      "page": "https://www.edeka24.de/Drogerie/Baby-und-Kleinkind/Glaeschen/Bebivita-Milchbrei-Griess-ohne-Zuckerzusatz-ab-6-Monat-500G.html?force_sid=21bnfko0ecefier90nr31me4r8",
+      "category": "Glaeschen"
+    },
+    {
+      "name": "Milupa Kleine Genießer Milchbrei Grießbrei mit 6 Monaten 400G ",
+      "page": "https://www.edeka24.de/Drogerie/Baby-und-Kleinkind/Glaeschen/Milupa-Kleine-Geniesser-Milchbrei-Griessbrei-mit-6-Monaten-400G.html?force_sid=21bnfko0ecefier90nr31me4r8",
+      "category": "Glaeschen"
+    },
+    {
+      "name": "Hipp Bio Gemüsereis mit Bio-Hühnchen ab 5. Monat 190G ",
+      "page": "https://www.edeka24.de/Drogerie/Baby-und-Kleinkind/Glaeschen/Hipp-Bio-Gemuesereis-mit-Bio-Huehnchen-ab-5-Monat-190G.html?force_sid=21bnfko0ecefier90nr31me4r8",
+      "category": "Glaeschen"
+    },
+    {
+      "name": "Hipp Bio Karotten mit Kartoffeln ab dem 5. Monat 190G ",
+      "page": "https://www.edeka24.de/Drogerie/Baby-und-Kleinkind/Glaeschen/Hipp-Bio-Karotten-mit-Kartoffeln-ab-dem-5-Monat-190G.html?force_sid=21bnfko0ecefier90nr31me4r8",
+      "category": "Glaeschen"
+    },
+    {
+      "name": "Erdbär Bio Freche Freunde Apfel, Banane, Ananas & Kokosnuss 100 g ",
+      "page": "https://www.edeka24.de/Drogerie/Baby-und-Kleinkind/Glaeschen/Erdbaer-Bio-Freche-Freunde-Apfel-Banane-Ananas-Kokosnuss-100-g.html?force_sid=21bnfko0ecefier90nr31me4r8",
+      "category": "Glaeschen"
+    },
+    {
+      "name": "Kölln Bio Schmelzflocken Nach dem 4.Monat 250G ",
+      "page": "https://www.edeka24.de/Drogerie/Baby-und-Kleinkind/Glaeschen/Koelln-Bio-Schmelzflocken-Nach-dem-4-Monat-250G.html?force_sid=21bnfko0ecefier90nr31me4r8",
+      "category": "Glaeschen"
+    },
+    {
+      "name": "Hipp Bio Kürbis mit Kartoffeln & Bio-Rind ab dem 5.Monat 190G ",
+      "page": "https://www.edeka24.de/Drogerie/Baby-und-Kleinkind/Glaeschen/Hipp-Bio-Kuerbis-mit-Kartoffeln-Bio-Rind-ab-dem-5-Monat-190G.html?force_sid=21bnfko0ecefier90nr31me4r8",
+      "category": "Glaeschen"
+    },
+    {
+      "name": "Hipp Bio Karotten mit Mais & Bio-Kalb ab dem 6.Monat 190G ",
+      "page": "https://www.edeka24.de/Drogerie/Baby-und-Kleinkind/Glaeschen/Hipp-Bio-Karotten-mit-Mais-Bio-Kalb-ab-dem-6-Monat-190G.html?force_sid=21bnfko0ecefier90nr31me4r8",
+      "category": "Glaeschen"
+    },
+    {
+      "name": "Bebivita Kinder Spaß Vollkorn in Apfel-Banane ab 1 Jahr 4x 90 g ",
+      "page": "https://www.edeka24.de/Drogerie/Baby-und-Kleinkind/Glaeschen/Bebivita-Kinder-Spass-Vollkorn-in-Apfel-Banane-ab-1-Jahr-4x-90-g.html?force_sid=21bnfko0ecefier90nr31me4r8",
+      "category": "Glaeschen"
+    },
+    {
+      "name": "EDEKA Bio Gemüse mit Süßkartoffeln nach dem 4.Monat 190G ",
+      "page": "https://www.edeka24.de/Drogerie/Baby-und-Kleinkind/Glaeschen/EDEKA-Bio-Gemuese-mit-Suesskartoffeln-nach-dem-4-Monat-190G.html?force_sid=21bnfko0ecefier90nr31me4r8",
+      "category": "Glaeschen"
+    },
+    {
+      "name": "Hipp Bio Tomaten-Cremesuppe ab dem 8. Monat 200G ",
+      "page": "https://www.edeka24.de/Drogerie/Baby-und-Kleinkind/Glaeschen/Hipp-Bio-Tomaten-Cremesuppe-ab-dem-8-Monat-200G.html?force_sid=21bnfko0ecefier90nr31me4r8",
+      "category": "Glaeschen"
+    },
+    {
+      "name": "EDEKA Bio Kürbis mit Reis & Huhn ab dem 8. Monat 220G ",
+      "page": "https://www.edeka24.de/Drogerie/Baby-und-Kleinkind/Glaeschen/EDEKA-Bio-Kuerbis-mit-Reis-Huhn-ab-dem-8-Monat-220G.html?force_sid=21bnfko0ecefier90nr31me4r8",
+      "category": "Glaeschen"
+    },
+    {
+      "name": "Bebivita Kinder Spaß Gartenfrüchte ab 1 Jahr 4x 90 g ",
+      "page": "https://www.edeka24.de/Drogerie/Baby-und-Kleinkind/Glaeschen/Bebivita-Kinder-Spass-Gartenfruechte-ab-1-Jahr-4x-90-g.html?force_sid=21bnfko0ecefier90nr31me4r8",
+      "category": "Glaeschen"
+    }
+  ]
+}

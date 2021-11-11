@@ -1,0 +1,174 @@
+{
+  "products": [
+    {
+      "name": "EDEKA Ajvar mild 340ML ",
+      "page": "https://www.edeka24.de/Lebensmittel/Sossen/Grillsaucen/EDEKA-Ajvar-mild-340ML.html?force_sid=njfl43ckiris19i2ms67of0lv5",
+      "category": "Grillsaucen"
+    },
+    {
+      "name": "Knorr Paprika Sauce Ungarische Art 250ML ",
+      "page": "https://www.edeka24.de/Lebensmittel/Sossen/Grillsaucen/Knorr-Paprika-Sauce-Ungarische-Art-250ML.html?force_sid=njfl43ckiris19i2ms67of0lv5",
+      "category": "Grillsaucen"
+    },
+    {
+      "name": "EDEKA Ajvar scharf 340ML ",
+      "page": "https://www.edeka24.de/Lebensmittel/Sossen/Grillsaucen/EDEKA-Ajvar-scharf-340ML.html?force_sid=njfl43ckiris19i2ms67of0lv5",
+      "category": "Grillsaucen"
+    },
+    {
+      "name": "Develey Süß-Sauer Sauce 250 ml ",
+      "page": "https://www.edeka24.de/Lebensmittel/Sossen/Grillsaucen/Develey-Suess-Sauer-Sauce-250-ml.html?force_sid=njfl43ckiris19i2ms67of0lv5",
+      "category": "Grillsaucen"
+    },
+    {
+      "name": "Heinz Sweet Chili Sauce 220 ml ",
+      "page": "https://www.edeka24.de/Lebensmittel/Sossen/Grillsaucen/Heinz-Sweet-Chili-Sauce-220-ml.html?force_sid=njfl43ckiris19i2ms67of0lv5",
+      "category": "Grillsaucen"
+    },
+    {
+      "name": "Heinz Knoblauch Sauce 220ml ",
+      "page": "https://www.edeka24.de/Lebensmittel/Sossen/Grillsaucen/Heinz-Knoblauch-Sauce-220ml.html?force_sid=njfl43ckiris19i2ms67of0lv5",
+      "category": "Grillsaucen"
+    },
+    {
+      "name": "Knorr Schaschlik Sauce 250 ml ",
+      "page": "https://www.edeka24.de/Lebensmittel/Sossen/Grillsaucen/Knorr-Schaschlik-Sauce-250-ml.html?force_sid=njfl43ckiris19i2ms67of0lv5",
+      "category": "Grillsaucen"
+    },
+    {
+      "name": "Kühne Steak Grillsauce 250 ml ",
+      "page": "https://www.edeka24.de/Lebensmittel/Sossen/Grillsaucen/Kuehne-Steak-Grillsauce-250-ml.html?force_sid=njfl43ckiris19i2ms67of0lv5",
+      "category": "Grillsaucen"
+    },
+    {
+      "name": "Maggi Texicana Salsa 500 ml ",
+      "page": "https://www.edeka24.de/Lebensmittel/Sossen/Grillsaucen/Maggi-Texicana-Salsa-500-ml.html?force_sid=njfl43ckiris19i2ms67of0lv5",
+      "category": "Grillsaucen"
+    },
+    {
+      "name": "EDEKA Aioli-Creme 300 ml ",
+      "page": "https://www.edeka24.de/Lebensmittel/Sossen/Grillsaucen/EDEKA-Aioli-Creme-300-ml.html?force_sid=njfl43ckiris19i2ms67of0lv5",
+      "category": "Grillsaucen"
+    },
+    {
+      "name": "Develey Curry Sauce 250 ml ",
+      "page": "https://www.edeka24.de/Lebensmittel/Sossen/Grillsaucen/Develey-Curry-Sauce-250-ml.html?force_sid=njfl43ckiris19i2ms67of0lv5",
+      "category": "Grillsaucen"
+    },
+    {
+      "name": "Knorr Cocktail Sauce 250ML ",
+      "page": "https://www.edeka24.de/Lebensmittel/Sossen/Grillsaucen/Knorr-Cocktail-Sauce-250ML.html?force_sid=njfl43ckiris19i2ms67of0lv5",
+      "category": "Grillsaucen"
+    },
+    {
+      "name": "Develey Burger Sauce 250 ml ",
+      "page": "https://www.edeka24.de/Lebensmittel/Sossen/Grillsaucen/Develey-Burger-Sauce-250-ml.html?force_sid=njfl43ckiris19i2ms67of0lv5",
+      "category": "Grillsaucen"
+    },
+    {
+      "name": "Knorr Honig-Senf Sauce 250 ml ",
+      "page": "https://www.edeka24.de/Lebensmittel/Sossen/Grillsaucen/Knorr-Honig-Senf-Sauce-250-ml.html?force_sid=njfl43ckiris19i2ms67of0lv5",
+      "category": "Grillsaucen"
+    },
+    {
+      "name": "Knorr Knoblauch Sauce 250 ml ",
+      "page": "https://www.edeka24.de/Lebensmittel/Sossen/Grillsaucen/Knorr-Knoblauch-Sauce-250-ml.html?force_sid=njfl43ckiris19i2ms67of0lv5",
+      "category": "Grillsaucen"
+    },
+    {
+      "name": "Develey American Hot Dog Sauce 250 ml ",
+      "page": "https://www.edeka24.de/Lebensmittel/Sossen/Grillsaucen/Develey-American-Hot-Dog-Sauce-250-ml.html?force_sid=njfl43ckiris19i2ms67of0lv5",
+      "category": "Grillsaucen"
+    },
+    {
+      "name": "Papa Joe's Curry Mango Sauce 300 ml ",
+      "page": "https://www.edeka24.de/Lebensmittel/Sossen/Grillsaucen/Papa-Joe-s-Curry-Mango-Sauce-300-ml.html?force_sid=njfl43ckiris19i2ms67of0lv5",
+      "category": "Grillsaucen"
+    },
+    {
+      "name": "Heinz Hot Chili Sauce 220ml ",
+      "page": "https://www.edeka24.de/Lebensmittel/Sossen/Grillsaucen/Heinz-Hot-Chili-Sauce-220ml.html?force_sid=njfl43ckiris19i2ms67of0lv5",
+      "category": "Grillsaucen"
+    },
+    {
+      "name": "Develey Spicy Burger Sauce 250 ml ",
+      "page": "https://www.edeka24.de/Lebensmittel/Sossen/Grillsaucen/Develey-Spicy-Burger-Sauce-250-ml.html?force_sid=njfl43ckiris19i2ms67of0lv5",
+      "category": "Grillsaucen"
+    },
+    {
+      "name": "EDEKA Smokey Barbecue Honey Sauce 300 ml ",
+      "page": "https://www.edeka24.de/Lebensmittel/Sossen/Grillsaucen/EDEKA-Smokey-Barbecue-Honey-Sauce-300-ml.html?force_sid=njfl43ckiris19i2ms67of0lv5",
+      "category": "Grillsaucen"
+    },
+    {
+      "name": "Papa Joe's Burger Sauce 300ML ",
+      "page": "https://www.edeka24.de/Lebensmittel/Sossen/Grillsaucen/Papa-Joe-s-Burger-Sauce-300ML.html?force_sid=njfl43ckiris19i2ms67of0lv5",
+      "category": "Grillsaucen"
+    },
+    {
+      "name": "Kühne Made for Meat Flame Roasted Paprika 235ML ",
+      "page": "https://www.edeka24.de/Lebensmittel/Sossen/Grillsaucen/Kuehne-Made-for-Meat-Flame-Roasted-Paprika-235ML.html?force_sid=njfl43ckiris19i2ms67of0lv5",
+      "category": "Grillsaucen"
+    },
+    {
+      "name": "Kühne Made For Meat Chipotle Burger Style 235 ml ",
+      "page": "https://www.edeka24.de/Lebensmittel/Sossen/Grillsaucen/Kuehne-Made-For-Meat-Chipotle-Burger-Style-235-ml.html?force_sid=njfl43ckiris19i2ms67of0lv5",
+      "category": "Grillsaucen"
+    },
+    {
+      "name": "Heinz Cocktail Sauce 220ml ",
+      "page": "https://www.edeka24.de/Lebensmittel/Sossen/Grillsaucen/Heinz-Cocktail-Sauce-220ml.html?force_sid=njfl43ckiris19i2ms67of0lv5",
+      "category": "Grillsaucen"
+    },
+    {
+      "name": "Knorr Steak Sauce 250ML ",
+      "page": "https://www.edeka24.de/Lebensmittel/Sossen/Grillsaucen/Knorr-Steak-Sauce-250ML.html?force_sid=njfl43ckiris19i2ms67of0lv5",
+      "category": "Grillsaucen"
+    },
+    {
+      "name": "Papa Joe's BBQ Sauce 300 ml ",
+      "page": "https://www.edeka24.de/Lebensmittel/Sossen/Grillsaucen/Papa-Joe-s-BBQ-Sauce-300-ml.html?force_sid=njfl43ckiris19i2ms67of0lv5",
+      "category": "Grillsaucen"
+    },
+    {
+      "name": "Develey BBQ Sauce 250 ml ",
+      "page": "https://www.edeka24.de/Lebensmittel/Sossen/Grillsaucen/Develey-BBQ-Sauce-250-ml.html?force_sid=njfl43ckiris19i2ms67of0lv5",
+      "category": "Grillsaucen"
+    },
+    {
+      "name": "Kühne Knoblauch Grillsauce 250 ml ",
+      "page": "https://www.edeka24.de/Lebensmittel/Sossen/Grillsaucen/Kuehne-Knoblauch-Grillsauce-250-ml.html?force_sid=njfl43ckiris19i2ms67of0lv5",
+      "category": "Grillsaucen"
+    },
+    {
+      "name": "Heinz Barbecue Sauce 220ml ",
+      "page": "https://www.edeka24.de/Lebensmittel/Sossen/Grillsaucen/Heinz-Barbecue-Sauce-220ml.html?force_sid=njfl43ckiris19i2ms67of0lv5",
+      "category": "Grillsaucen"
+    },
+    {
+      "name": "Kühne Made For Meat Siracha Hot Chili 235 ml ",
+      "page": "https://www.edeka24.de/Lebensmittel/Sossen/Grillsaucen/Kuehne-Made-For-Meat-Siracha-Hot-Chili-235-ml.html?force_sid=njfl43ckiris19i2ms67of0lv5",
+      "category": "Grillsaucen"
+    },
+    {
+      "name": "Kühne Made For Meat Smoked Pepper BBQ 235 ml ",
+      "page": "https://www.edeka24.de/Lebensmittel/Sossen/Grillsaucen/Kuehne-Made-For-Meat-Smoked-Pepper-BBQ-235-ml.html?force_sid=ptrj8cdrkj9djnio9q646t6blf",
+      "category": "Grillsaucen"
+    },
+    {
+      "name": "Kühne Made For Meat Black Garlic 235 ml ",
+      "page": "https://www.edeka24.de/Lebensmittel/Sossen/Grillsaucen/Kuehne-Made-For-Meat-Black-Garlic-235-ml.html?force_sid=ptrj8cdrkj9djnio9q646t6blf",
+      "category": "Grillsaucen"
+    },
+    {
+      "name": "Knorr Karibik Sauce 250 ml ",
+      "page": "https://www.edeka24.de/Lebensmittel/Sossen/Grillsaucen/Knorr-Karibik-Sauce-250-ml.html?force_sid=ptrj8cdrkj9djnio9q646t6blf",
+      "category": "Grillsaucen"
+    },
+    {
+      "name": "Heinz American Burger Sauce ",
+      "page": "https://www.edeka24.de/Lebensmittel/Sossen/Grillsaucen/Heinz-American-Burger-Sauce.html?force_sid=ptrj8cdrkj9djnio9q646t6blf",
+      "category": "Grillsaucen"
+    }
+  ]
+}

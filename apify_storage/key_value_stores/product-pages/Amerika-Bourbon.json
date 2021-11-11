@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "name": "Jack Daniel´s Whiskey No7 Black Label 0,7 ltr ",
+      "page": "https://www.edeka24.de/Getraenke-Whisky/Amerika-Bourbon/Jack-Daniel-s-Whiskey-No7-Black-Label-0-7-ltr.html?force_sid=grgibffpukcfs1cio1jgf06le5",
+      "category": "Amerika-Bourbon"
+    },
+    {
+      "name": "Jim Beam Bourbon Whiskey 0,7L ",
+      "page": "https://www.edeka24.de/Getraenke-Whisky/Amerika-Bourbon/Jim-Beam-Bourbon-Whiskey-0-7L.html?force_sid=grgibffpukcfs1cio1jgf06le5",
+      "category": "Amerika-Bourbon"
+    },
+    {
+      "name": "Jim Beam red STAG Whiskey with Black Cherry 0,7 ltr ",
+      "page": "https://www.edeka24.de/Getraenke-Whisky/Amerika-Bourbon/Jim-Beam-red-STAG-Whiskey-with-Black-Cherry-0-7-ltr.html?force_sid=grgibffpukcfs1cio1jgf06le5",
+      "category": "Amerika-Bourbon"
+    },
+    {
+      "name": "Jack Daniel´s Gentleman Jack Rare Whiskey 0,7 ltr ",
+      "page": "https://www.edeka24.de/Getraenke-Whisky/Amerika-Bourbon/Jack-Daniel-s-Gentleman-Jack-Rare-Whiskey-0-7-ltr.html?force_sid=grgibffpukcfs1cio1jgf06le5",
+      "category": "Amerika-Bourbon"
+    },
+    {
+      "name": "Jack Daniel´s Single Barrel Whiskey 0,7 ltr ",
+      "page": "https://www.edeka24.de/Getraenke-Whisky/Amerika-Bourbon/Jack-Daniel-s-Single-Barrel-Whiskey-0-7-ltr.html?force_sid=grgibffpukcfs1cio1jgf06le5",
+      "category": "Amerika-Bourbon"
+    }
+  ]
+}

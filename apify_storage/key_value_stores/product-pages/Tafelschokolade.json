@@ -1,0 +1,539 @@
+{
+  "products": [
+    {
+      "name": "Plant for the Planet Die Gute Schokolade Fairtrade 100G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Tafelschokolade/Plant-for-the-Planet-Die-Gute-Schokolade-Fairtrade-100G.html?force_sid=g069qmb6g88tu7f1fk5vq5m4nf",
+      "category": "Tafelschokolade"
+    },
+    {
+      "name": "Ferrero Raffaello Tafel 90G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Tafelschokolade/Ferrero-Raffaello-Tafel-90G.html?force_sid=g069qmb6g88tu7f1fk5vq5m4nf",
+      "category": "Tafelschokolade"
+    },
+    {
+      "name": "Ferrero Rocher Tafel Original 90G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Tafelschokolade/Ferrero-Rocher-Tafel-Original-90G.html?force_sid=g069qmb6g88tu7f1fk5vq5m4nf",
+      "category": "Tafelschokolade"
+    },
+    {
+      "name": "Ferrero Rocher Tafel Weiss 90G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Tafelschokolade/Ferrero-Rocher-Tafel-Weiss-90G.html?force_sid=g069qmb6g88tu7f1fk5vq5m4nf",
+      "category": "Tafelschokolade"
+    },
+    {
+      "name": "Milka Alpenmilch Schokolade 100 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Tafelschokolade/Milka-Alpenmilch-Schokolade-100-g.html?force_sid=g069qmb6g88tu7f1fk5vq5m4nf",
+      "category": "Tafelschokolade"
+    },
+    {
+      "name": "Ferrero Rocher Tafel zartbitter 90G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Tafelschokolade/Ferrero-Rocher-Tafel-zartbitter-90G.html?force_sid=g069qmb6g88tu7f1fk5vq5m4nf",
+      "category": "Tafelschokolade"
+    },
+    {
+      "name": "Milka Ganze Haselnüsse Schokolade 100 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Tafelschokolade/Milka-Ganze-Haselnuesse-Schokolade-100-g.html?force_sid=g069qmb6g88tu7f1fk5vq5m4nf",
+      "category": "Tafelschokolade"
+    },
+    {
+      "name": "Kinder Schokolade 300G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Tafelschokolade/Kinder-Schokolade-300G.html?force_sid=g069qmb6g88tu7f1fk5vq5m4nf",
+      "category": "Tafelschokolade"
+    },
+    {
+      "name": "Ritter Sport Marzipan 100 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Tafelschokolade/Ritter-Sport-Marzipan-100-g.html?force_sid=g069qmb6g88tu7f1fk5vq5m4nf",
+      "category": "Tafelschokolade"
+    },
+    {
+      "name": "Alpia Alpenmilch Schokolade 100 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Tafelschokolade/Alpia-Alpenmilch-Schokolade-100-g.html?force_sid=g069qmb6g88tu7f1fk5vq5m4nf",
+      "category": "Tafelschokolade"
+    },
+    {
+      "name": "Milka Noisette Schokolade 100 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Tafelschokolade/Milka-Noisette-Schokolade-100-g.html?force_sid=g069qmb6g88tu7f1fk5vq5m4nf",
+      "category": "Tafelschokolade"
+    },
+    {
+      "name": "Ritter Sport Nugat 100 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Tafelschokolade/Ritter-Sport-Nugat-100-g.html?force_sid=g069qmb6g88tu7f1fk5vq5m4nf",
+      "category": "Tafelschokolade"
+    },
+    {
+      "name": "Alpia Weisse Schokolade 100 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Tafelschokolade/Alpia-Weisse-Schokolade-100-g.html?force_sid=g069qmb6g88tu7f1fk5vq5m4nf",
+      "category": "Tafelschokolade"
+    },
+    {
+      "name": "Alpia Edel Nougat Schokolade 100 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Tafelschokolade/Alpia-Edel-Nougat-Schokolade-100-g.html?force_sid=g069qmb6g88tu7f1fk5vq5m4nf",
+      "category": "Tafelschokolade"
+    },
+    {
+      "name": "Alpia Edel-Marzipan 100 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Tafelschokolade/Alpia-Edel-Marzipan-100-g.html?force_sid=g069qmb6g88tu7f1fk5vq5m4nf",
+      "category": "Tafelschokolade"
+    },
+    {
+      "name": "Ritter Sport Rum Trauben Nuss 100 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Tafelschokolade/Ritter-Sport-Rum-Trauben-Nuss-100-g.html?force_sid=g069qmb6g88tu7f1fk5vq5m4nf",
+      "category": "Tafelschokolade"
+    },
+    {
+      "name": "Milka Weisse Schokolade 100 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Tafelschokolade/Milka-Weisse-Schokolade-100-g.html?force_sid=g069qmb6g88tu7f1fk5vq5m4nf",
+      "category": "Tafelschokolade"
+    },
+    {
+      "name": "Alpia Zartbitter Schokolade 100 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Tafelschokolade/Alpia-Zartbitter-Schokolade-100-g.html?force_sid=g069qmb6g88tu7f1fk5vq5m4nf",
+      "category": "Tafelschokolade"
+    },
+    {
+      "name": "Ritter Sport Joghurt 100 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Tafelschokolade/Ritter-Sport-Joghurt-100-g.html?force_sid=g069qmb6g88tu7f1fk5vq5m4nf",
+      "category": "Tafelschokolade"
+    },
+    {
+      "name": "Alnatura Bio Edelbitter Schokolade 80G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Tafelschokolade/Alnatura-Bio-Edelbitter-Schokolade-80G.html?force_sid=g069qmb6g88tu7f1fk5vq5m4nf",
+      "category": "Tafelschokolade"
+    },
+    {
+      "name": "Plant for the Planet Die Gute BIO Schokolade Fairtrade 100G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Tafelschokolade/Plant-for-the-Planet-Die-Gute-BIO-Schokolade-Fairtrade-100G.html?force_sid=g069qmb6g88tu7f1fk5vq5m4nf",
+      "category": "Tafelschokolade"
+    },
+    {
+      "name": "Alnatura Bio Cappuccino Schokolade 100G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Tafelschokolade/Alnatura-Bio-Cappuccino-Schokolade-100G.html?force_sid=g069qmb6g88tu7f1fk5vq5m4nf",
+      "category": "Tafelschokolade"
+    },
+    {
+      "name": "Milka Luflee Schokolade 100 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Tafelschokolade/Milka-Luflee-Schokolade-100-g.html?force_sid=g069qmb6g88tu7f1fk5vq5m4nf",
+      "category": "Tafelschokolade"
+    },
+    {
+      "name": "EDEKA Schweizer Edel Zartbitter Schokolade 72% Kakao 100G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Tafelschokolade/EDEKA-Schweizer-Edel-Zartbitter-Schokolade-72-Kakao-100G-oxid.html?force_sid=g069qmb6g88tu7f1fk5vq5m4nf",
+      "category": "Tafelschokolade"
+    },
+    {
+      "name": "EDEKA Bio Schweizer Schokolade Zartbitter 70% Fairtrade 100G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Tafelschokolade/EDEKA-Bio-Schweizer-Schokolade-Zartbitter-70-Fairtrade-100G.html?force_sid=5lf2aq968kecqtljsc2plcqvs7&listtype=search&searchparam=fairtrade",
+      "category": "Tafelschokolade"
+    },
+    {
+      "name": "EDEKA Bio Schweizer Milchschokolade Fairtrade 100G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Tafelschokolade/EDEKA-Bio-Schweizer-Milchschokolade-Fairtrade-100G.html?force_sid=g069qmb6g88tu7f1fk5vq5m4nf",
+      "category": "Tafelschokolade"
+    },
+    {
+      "name": "Eszet Schnitten Vollmilch 75 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Tafelschokolade/Eszet-Schnitten-Vollmilch-75-g.html?force_sid=g069qmb6g88tu7f1fk5vq5m4nf",
+      "category": "Tafelschokolade"
+    },
+    {
+      "name": "Milka Erdbeer Schokolade 100 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Tafelschokolade/Milka-Erdbeer-Schokolade-100-g.html?force_sid=g069qmb6g88tu7f1fk5vq5m4nf",
+      "category": "Tafelschokolade"
+    },
+    {
+      "name": "EDEKA Milde Schweizer Edel Zartbitter Schokolade 81% Kakao ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Tafelschokolade/EDEKA-Milde-Schweizer-Edel-Zartbitter-Schokolade-81-Kakao.html?force_sid=g069qmb6g88tu7f1fk5vq5m4nf",
+      "category": "Tafelschokolade"
+    },
+    {
+      "name": "Ritter Sport Alpenmilch 100 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Tafelschokolade/Ritter-Sport-Alpenmilch-100-g.html?force_sid=g069qmb6g88tu7f1fk5vq5m4nf",
+      "category": "Tafelschokolade"
+    },
+    {
+      "name": "GEPA Fairtrade Grand Noir Orange Bio Schokolade 70% Cacao 100 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Tafelschokolade/GEPA-Fairtrade-Grand-Noir-Orange-Bio-Schokolade-70-Cacao-100-g.html?force_sid=as4gotdj5sa2cqkglt61hhpds1",
+      "category": "Tafelschokolade"
+    },
+    {
+      "name": "M&M's Crispy Schokolade 150G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Tafelschokolade/M-M-s-Crispy-Schokolade-150G.html?force_sid=4vmj4mo2a197m23fpq2o1srjbb",
+      "category": "Tafelschokolade"
+    },
+    {
+      "name": "Cailler Milch-Nuss-Schokolade 100 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Tafelschokolade/Cailler-Milch-Nuss-Schokolade-100-g.html?force_sid=4vmj4mo2a197m23fpq2o1srjbb",
+      "category": "Tafelschokolade"
+    },
+    {
+      "name": "Ritter Sport Knusperkeks 100 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Tafelschokolade/Ritter-Sport-Knusperkeks-100-g.html?force_sid=4vmj4mo2a197m23fpq2o1srjbb",
+      "category": "Tafelschokolade"
+    },
+    {
+      "name": "Alnatura Bio Vollmilch Schokolade 100G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Tafelschokolade/Alnatura-Bio-Vollmilch-Schokolade-100G.html?force_sid=4vmj4mo2a197m23fpq2o1srjbb",
+      "category": "Tafelschokolade"
+    },
+    {
+      "name": "Milka Alpenmilch Schokolade mit bunten Kakaolinsen 100 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Tafelschokolade/Milka-Alpenmilch-Schokolade-mit-bunten-Kakaolinsen-100-g.html?force_sid=4vmj4mo2a197m23fpq2o1srjbb",
+      "category": "Tafelschokolade"
+    },
+    {
+      "name": "Ritter Sport Voll-Nuss 100 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Tafelschokolade/Ritter-Sport-Voll-Nuss-100-g.html?force_sid=4vmj4mo2a197m23fpq2o1srjbb",
+      "category": "Tafelschokolade"
+    },
+    {
+      "name": "Milka Kuhflecken Schokolade 100 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Tafelschokolade/Milka-Kuhflecken-Schokolade-100-g.html?force_sid=4vmj4mo2a197m23fpq2o1srjbb",
+      "category": "Tafelschokolade"
+    },
+    {
+      "name": "Alpia Haselnuss Schokolade 100 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Tafelschokolade/Alpia-Haselnuss-Schokolade-100-g.html?force_sid=4vmj4mo2a197m23fpq2o1srjbb",
+      "category": "Tafelschokolade"
+    },
+    {
+      "name": "Alnatura Bio Ganze Nuss Schokolade 100G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Tafelschokolade/Alnatura-Bio-Ganze-Nuss-Schokolade-100G.html?force_sid=4vmj4mo2a197m23fpq2o1srjbb",
+      "category": "Tafelschokolade"
+    },
+    {
+      "name": "Alnatura Bio Ganze Mandel Schokolade 100G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Tafelschokolade/Alnatura-Bio-Ganze-Mandel-Schokolade-100G.html?force_sid=4vmj4mo2a197m23fpq2o1srjbb",
+      "category": "Tafelschokolade"
+    },
+    {
+      "name": "Ritter Sport Edel-Vollmilch 100 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Tafelschokolade/Ritter-Sport-Edel-Vollmilch-100-g.html?force_sid=4vmj4mo2a197m23fpq2o1srjbb",
+      "category": "Tafelschokolade"
+    },
+    {
+      "name": "Ritter Sport Dunkle Voll-Nuss mit Zartbitter 100 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Tafelschokolade/Ritter-Sport-Dunkle-Voll-Nuss-mit-Zartbitter-100-g.html?force_sid=4vmj4mo2a197m23fpq2o1srjbb",
+      "category": "Tafelschokolade"
+    },
+    {
+      "name": "Milka Alpenmilch Schokolade Die Kleine 5x 40 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Tafelschokolade/Milka-Alpenmilch-Schokolade-Die-Kleine-5x-40-g.html?force_sid=4vmj4mo2a197m23fpq2o1srjbb",
+      "category": "Tafelschokolade"
+    },
+    {
+      "name": "Alnatura Bio Nougat Schokolade 100G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Tafelschokolade/Alnatura-Bio-Nougat-Schokolade-100G.html?force_sid=4vmj4mo2a197m23fpq2o1srjbb",
+      "category": "Tafelschokolade"
+    },
+    {
+      "name": "Milka Schoko und Keks Großtafel 300 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Tafelschokolade/Milka-Schoko-und-Keks-Grosstafel-300-g.html?force_sid=4vmj4mo2a197m23fpq2o1srjbb",
+      "category": "Tafelschokolade"
+    },
+    {
+      "name": "Milka Oreo White 100G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Tafelschokolade/Milka-Oreo-White-100G.html?force_sid=4vmj4mo2a197m23fpq2o1srjbb",
+      "category": "Tafelschokolade"
+    },
+    {
+      "name": "Alnatura Bio Weiße Crisp Schokolade 100G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Tafelschokolade/Alnatura-Bio-Weisse-Crisp-Schokolade-100G.html?force_sid=4vmj4mo2a197m23fpq2o1srjbb",
+      "category": "Tafelschokolade"
+    },
+    {
+      "name": "Milka Alpenmilch Schokolade mit LU-Keksen 87 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Tafelschokolade/Milka-Alpenmilch-Schokolade-mit-LU-Keksen-87-g.html?force_sid=4vmj4mo2a197m23fpq2o1srjbb",
+      "category": "Tafelschokolade"
+    },
+    {
+      "name": "Milka Daim Schokolade 100 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Tafelschokolade/Milka-Daim-Schokolade-100-g.html?force_sid=4vmj4mo2a197m23fpq2o1srjbb",
+      "category": "Tafelschokolade"
+    },
+    {
+      "name": "Cailler Milch-Schokolade 100 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Tafelschokolade/Cailler-Milch-Schokolade-100-g.html?force_sid=4vmj4mo2a197m23fpq2o1srjbb",
+      "category": "Tafelschokolade"
+    },
+    {
+      "name": "Ritter Sport Peru Die Kräftige 74% Kakao 100 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Tafelschokolade/Ritter-Sport-Peru-Die-Kraeftige-74-Kakao-100-g.html?force_sid=4vmj4mo2a197m23fpq2o1srjbb",
+      "category": "Tafelschokolade"
+    },
+    {
+      "name": "Alnatura Bio Feine Bitterschokolade 100G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Tafelschokolade/Alnatura-Bio-Feine-Bitterschokolade-100G.html?force_sid=4vmj4mo2a197m23fpq2o1srjbb",
+      "category": "Tafelschokolade"
+    },
+    {
+      "name": "Milka Nuss Nougat-Creme Großtafel 300 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Tafelschokolade/Milka-Nuss-Nougat-Creme-Grosstafel-300-g.html?force_sid=4vmj4mo2a197m23fpq2o1srjbb",
+      "category": "Tafelschokolade"
+    },
+    {
+      "name": "Ritter Sport Kokos 100 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Tafelschokolade/Ritter-Sport-Kokos-100-g.html?force_sid=4vmj4mo2a197m23fpq2o1srjbb",
+      "category": "Tafelschokolade"
+    },
+    {
+      "name": "Ritter Sport Weisse Voll-Nuss 100 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Tafelschokolade/Ritter-Sport-Weisse-Voll-Nuss-100-g.html?force_sid=4vmj4mo2a197m23fpq2o1srjbb",
+      "category": "Tafelschokolade"
+    },
+    {
+      "name": "Milka Zartherb Schokolade 100 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Tafelschokolade/Milka-Zartherb-Schokolade-100-g.html?force_sid=4vmj4mo2a197m23fpq2o1srjbb",
+      "category": "Tafelschokolade"
+    },
+    {
+      "name": "Schogetten Edel-Alpenvollmilch 100 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Tafelschokolade/Schogetten-Edel-Alpenvollmilch-100-g.html?force_sid=4vmj4mo2a197m23fpq2o1srjbb",
+      "category": "Tafelschokolade"
+    },
+    {
+      "name": "Ritter Sport Ganze Mandeln 100 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Tafelschokolade/Ritter-Sport-Ganze-Mandeln-100-g.html?force_sid=4vmj4mo2a197m23fpq2o1srjbb",
+      "category": "Tafelschokolade"
+    },
+    {
+      "name": "M&M's Peanut Schokolade 165G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Tafelschokolade/M-M-s-Peanut-Schokolade-165G.html?force_sid=4vmj4mo2a197m23fpq2o1srjbb",
+      "category": "Tafelschokolade"
+    },
+    {
+      "name": "Ritter Sport Mandel Orange 100 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Tafelschokolade/Ritter-Sport-Mandel-Orange-100-g.html?force_sid=4vmj4mo2a197m23fpq2o1srjbb",
+      "category": "Tafelschokolade"
+    },
+    {
+      "name": "Milka Haselnuss Schokolade 100 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Tafelschokolade/Milka-Haselnuss-Schokolade-100-g.html?force_sid=as4gotdj5sa2cqkglt61hhpds1",
+      "category": "Tafelschokolade"
+    },
+    {
+      "name": "Ritter Sport Knusper-Flakes 100g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Tafelschokolade/Ritter-Sport-Knusper-Flakes-100g.html?force_sid=as4gotdj5sa2cqkglt61hhpds1",
+      "category": "Tafelschokolade"
+    },
+    {
+      "name": "Ritter Sport Pfefferminz 100 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Tafelschokolade/Ritter-Sport-Pfefferminz-100-g.html?force_sid=as4gotdj5sa2cqkglt61hhpds1",
+      "category": "Tafelschokolade"
+    },
+    {
+      "name": "Milka Alpenmilch-Creme Schokolade 100 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Tafelschokolade/Milka-Alpenmilch-Creme-Schokolade-100-g.html?force_sid=as4gotdj5sa2cqkglt61hhpds1",
+      "category": "Tafelschokolade"
+    },
+    {
+      "name": "Eszet Schnitten zartbitter 75 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Tafelschokolade/Eszet-Schnitten-zartbitter-75-g.html?force_sid=as4gotdj5sa2cqkglt61hhpds1",
+      "category": "Tafelschokolade"
+    },
+    {
+      "name": "Ritter Sport Nugat Schokolade große Tafel 250 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Tafelschokolade/Ritter-Sport-Nugat-Schokolade-grosse-Tafel-250-g.html?force_sid=as4gotdj5sa2cqkglt61hhpds1",
+      "category": "Tafelschokolade"
+    },
+    {
+      "name": "Ritter Sport Honig-Salz-Mandel 100 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Tafelschokolade/Ritter-Sport-Honig-Salz-Mandel-100-g.html?force_sid=as4gotdj5sa2cqkglt61hhpds1",
+      "category": "Tafelschokolade"
+    },
+    {
+      "name": "Ritter Sport Kakao-Mousse 100 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Tafelschokolade/Ritter-Sport-Kakao-Mousse-100-g.html?force_sid=as4gotdj5sa2cqkglt61hhpds1",
+      "category": "Tafelschokolade"
+    },
+    {
+      "name": "Lohmann Mandel-Milch-Nuss-Schokolade 100 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Tafelschokolade/Lohmann-Mandel-Milch-Nuss-Schokolade-100-g.html?force_sid=as4gotdj5sa2cqkglt61hhpds1",
+      "category": "Tafelschokolade"
+    },
+    {
+      "name": "Milka Alpenmilch Schokolade mit TUC-Crackern 87 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Tafelschokolade/Milka-Alpenmilch-Schokolade-mit-TUC-Crackern-87-g.html?force_sid=as4gotdj5sa2cqkglt61hhpds1",
+      "category": "Tafelschokolade"
+    },
+    {
+      "name": "Ritter Sport Weiss und Crisp 100 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Tafelschokolade/Ritter-Sport-Weiss-und-Crisp-100-g.html?force_sid=as4gotdj5sa2cqkglt61hhpds1",
+      "category": "Tafelschokolade"
+    },
+    {
+      "name": "Cailler Schokolade Dessert 100 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Tafelschokolade/Cailler-Schokolade-Dessert-100-g.html?force_sid=as4gotdj5sa2cqkglt61hhpds1",
+      "category": "Tafelschokolade"
+    },
+    {
+      "name": "Eszet Schnitten weisse 75 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Tafelschokolade/Eszet-Schnitten-weisse-75-g.html?force_sid=as4gotdj5sa2cqkglt61hhpds1",
+      "category": "Tafelschokolade"
+    },
+    {
+      "name": "GEPA Bio Schokolade Edelbitter 85% 100 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Tafelschokolade/GEPA-Bio-Schokolade-Edelbitter-85-100-g.html?force_sid=as4gotdj5sa2cqkglt61hhpds1",
+      "category": "Tafelschokolade"
+    },
+    {
+      "name": "Ritter Sport Goldschatz 250 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Tafelschokolade/Ritter-Sport-Goldschatz-250-g.html?force_sid=as4gotdj5sa2cqkglt61hhpds1",
+      "category": "Tafelschokolade"
+    },
+    {
+      "name": "Ritter Sport Nuss-Splitter 250 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Tafelschokolade/Ritter-Sport-Nuss-Splitter-250-g.html?force_sid=as4gotdj5sa2cqkglt61hhpds1",
+      "category": "Tafelschokolade"
+    },
+    {
+      "name": "Toblerone Milchschokolade 200 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Tafelschokolade/Toblerone-Milchschokolade-200-g.html?force_sid=as4gotdj5sa2cqkglt61hhpds1",
+      "category": "Tafelschokolade"
+    },
+    {
+      "name": "Milka Alpenmilch Schokolade mit Oreo-Stückchen 100 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Tafelschokolade/Milka-Alpenmilch-Schokolade-mit-Oreo-Stueckchen-100-g.html?force_sid=as4gotdj5sa2cqkglt61hhpds1",
+      "category": "Tafelschokolade"
+    },
+    {
+      "name": "Milka Joghurt Schokolade 100 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Tafelschokolade/Milka-Joghurt-Schokolade-100-g.html?force_sid=as4gotdj5sa2cqkglt61hhpds1",
+      "category": "Tafelschokolade"
+    },
+    {
+      "name": "Ritter Sport Ghana Die Milde 55% Kakao 100 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Tafelschokolade/Ritter-Sport-Ghana-Die-Milde-55-Kakao-100-g.html?force_sid=as4gotdj5sa2cqkglt61hhpds1",
+      "category": "Tafelschokolade"
+    },
+    {
+      "name": "Ovomaltine Tafelschokolade 100 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Tafelschokolade/Ovomaltine-Tafelschokolade-100-g.html?force_sid=as4gotdj5sa2cqkglt61hhpds1",
+      "category": "Tafelschokolade"
+    },
+    {
+      "name": "Ritter Sport Cashew 100G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Tafelschokolade/Ritter-Sport-Cashew-100G.html?force_sid=as4gotdj5sa2cqkglt61hhpds1",
+      "category": "Tafelschokolade"
+    },
+    {
+      "name": "Ritter Sport Dunkle Mandel Quinoa vegan 100 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Tafelschokolade/Ritter-Sport-Dunkle-Mandel-Quinoa-vegan-100-g.html?force_sid=as4gotdj5sa2cqkglt61hhpds1",
+      "category": "Tafelschokolade"
+    },
+    {
+      "name": "Toblerone White 100 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Tafelschokolade/Toblerone-White-100-g.html?force_sid=as4gotdj5sa2cqkglt61hhpds1",
+      "category": "Tafelschokolade"
+    },
+    {
+      "name": "Milka Peanut Caramel Großtafel 276 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Tafelschokolade/Milka-Peanut-Caramel-Grosstafel-276-g.html?force_sid=as4gotdj5sa2cqkglt61hhpds1",
+      "category": "Tafelschokolade"
+    },
+    {
+      "name": "Milka Luflee Caramel Großtafel 250 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Tafelschokolade/Milka-Luflee-Caramel-Grosstafel-250-g.html?force_sid=as4gotdj5sa2cqkglt61hhpds1",
+      "category": "Tafelschokolade"
+    },
+    {
+      "name": "Ritter Sport Trauben Nuss ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Tafelschokolade/Ritter-Sport-Trauben-Nuss.html?force_sid=as4gotdj5sa2cqkglt61hhpds1",
+      "category": "Tafelschokolade"
+    },
+    {
+      "name": "Sarotti Schwarze Herren Schokolade Edelbitter 100 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Tafelschokolade/Sarotti-Schwarze-Herren-Schokolade-Edelbitter-100-g.html?force_sid=as4gotdj5sa2cqkglt61hhpds1",
+      "category": "Tafelschokolade"
+    },
+    {
+      "name": "Schogetten Edel-Alpenvollmilch-Haselnuss 100 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Tafelschokolade/Schogetten-Edel-Alpenvollmilch-Haselnuss-100-g.html?force_sid=as4gotdj5sa2cqkglt61hhpds1",
+      "category": "Tafelschokolade"
+    },
+    {
+      "name": "Milka Triolade Großtafel 280 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Tafelschokolade/Milka-Triolade-Grosstafel-280-g.html?force_sid=q1oq899bfa2r7l0k39ursaggcq",
+      "category": "Tafelschokolade"
+    },
+    {
+      "name": "Ritter Sport Joghurt Schokolade große Tafel 250 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Tafelschokolade/Ritter-Sport-Joghurt-Schokolade-grosse-Tafel-250-g.html?force_sid=q1oq899bfa2r7l0k39ursaggcq",
+      "category": "Tafelschokolade"
+    },
+    {
+      "name": "Ritter Sport Alpenmilch Schokolade große Tafel 250 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Tafelschokolade/Ritter-Sport-Alpenmilch-Schokolade-grosse-Tafel-250-g.html?force_sid=q1oq899bfa2r7l0k39ursaggcq",
+      "category": "Tafelschokolade"
+    },
+    {
+      "name": "Milka Strawberry Cheesecake Großtafel 300G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Tafelschokolade/Milka-Strawberry-Cheesecake-Grosstafel-300G.html?force_sid=q1oq899bfa2r7l0k39ursaggcq",
+      "category": "Tafelschokolade"
+    },
+    {
+      "name": "Milka Mandel Karamell Großtafel 300 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Tafelschokolade/Milka-Mandel-Karamell-Grosstafel-300-g.html?force_sid=q1oq899bfa2r7l0k39ursaggcq",
+      "category": "Tafelschokolade"
+    },
+    {
+      "name": "GEPA Bio Zartbitter Mild pur 60% Kakao 100 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Tafelschokolade/GEPA-Bio-Zartbitter-Mild-pur-60-Kakao-100-g.html?force_sid=q1oq899bfa2r7l0k39ursaggcq",
+      "category": "Tafelschokolade"
+    },
+    {
+      "name": "Ritter Sport Waffel 100 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Tafelschokolade/Ritter-Sport-Waffel-100-g.html?force_sid=q1oq899bfa2r7l0k39ursaggcq",
+      "category": "Tafelschokolade"
+    },
+    {
+      "name": "Ritter Sport Sesam Vegan 100 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Tafelschokolade/Ritter-Sport-Sesam-Vegan-100-g.html?force_sid=q1oq899bfa2r7l0k39ursaggcq",
+      "category": "Tafelschokolade"
+    },
+    {
+      "name": "Nestle Die Weisse Crisp Schokolade 100 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Tafelschokolade/Nestle-Die-Weisse-Crisp-Schokolade-100-g.html?force_sid=q1oq899bfa2r7l0k39ursaggcq",
+      "category": "Tafelschokolade"
+    },
+    {
+      "name": "Rettergut Mixschokolade Tafel 80G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Tafelschokolade/Rettergut-Mixschokolade-Tafel-80G.html?force_sid=q1oq899bfa2r7l0k39ursaggcq",
+      "category": "Tafelschokolade"
+    },
+    {
+      "name": "Toblerone Milchschokolade klein 100 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Tafelschokolade/Toblerone-Milchschokolade-klein-100-g.html?force_sid=q1oq899bfa2r7l0k39ursaggcq",
+      "category": "Tafelschokolade"
+    },
+    {
+      "name": "Milka Trauben Nuss Schokolade 100 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Tafelschokolade/Milka-Trauben-Nuss-Schokolade-100-g.html?force_sid=q1oq899bfa2r7l0k39ursaggcq",
+      "category": "Tafelschokolade"
+    },
+    {
+      "name": "Ritter Sport Knusperflakes 250 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Tafelschokolade/Ritter-Sport-Knusperflakes-250-g.html?force_sid=q1oq899bfa2r7l0k39ursaggcq",
+      "category": "Tafelschokolade"
+    },
+    {
+      "name": "GEPA Bio Vollmilch Haselnuss Schokolade 100 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Tafelschokolade/GEPA-Bio-Vollmilch-Haselnuss-Schokolade-100-g.html?force_sid=q1oq899bfa2r7l0k39ursaggcq",
+      "category": "Tafelschokolade"
+    },
+    {
+      "name": "Ritter Sport Weiss + Crisp 250 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Tafelschokolade/Ritter-Sport-Weiss-Crisp-250-g.html?force_sid=q1oq899bfa2r7l0k39ursaggcq",
+      "category": "Tafelschokolade"
+    },
+    {
+      "name": "Milka Caramel 100 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Tafelschokolade/Milka-Caramel-100-g.html?force_sid=q1oq899bfa2r7l0k39ursaggcq",
+      "category": "Tafelschokolade"
+    },
+    {
+      "name": "Ritter Sport Vollmilch Laktosefrei 100 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Tafelschokolade/Ritter-Sport-Vollmilch-Laktosefrei-100-g.html?force_sid=q1oq899bfa2r7l0k39ursaggcq",
+      "category": "Tafelschokolade"
+    }
+  ]
+}

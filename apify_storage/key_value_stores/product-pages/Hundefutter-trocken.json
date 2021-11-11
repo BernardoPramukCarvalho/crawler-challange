@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "name": "EDEKA Vital complete 3KG ",
+      "page": "https://www.edeka24.de/Drogerie/Tiernahrung/Hundefutter-trocken/EDEKA-Vital-complete-3KG.html?force_sid=t5f680lslkgd59bu2dmiir3qn9",
+      "category": "Hundefutter-trocken"
+    },
+    {
+      "name": "EDEKA Vital Supreme mit Lamm & Reis 3KG ",
+      "page": "https://www.edeka24.de/Drogerie/Tiernahrung/Hundefutter-trocken/EDEKA-Vital-Supreme-mit-Lamm-Reis-3KG.html?force_sid=t5f680lslkgd59bu2dmiir3qn9",
+      "category": "Hundefutter-trocken"
+    },
+    {
+      "name": "Frolic 100% Complete Mini mit Geflügel, Gemüse & Getreide 1KG ",
+      "page": "https://www.edeka24.de/Drogerie/Tiernahrung/Hundefutter-trocken/Frolic-100-Complete-Mini-mit-Gefluegel-Gemuese-Getreide-1KG.html?force_sid=t5f680lslkgd59bu2dmiir3qn9",
+      "category": "Hundefutter-trocken"
+    },
+    {
+      "name": "EDEKA Komplett-Mahlzeit Saftige Happen 1,5KG ",
+      "page": "https://www.edeka24.de/Drogerie/Tiernahrung/Hundefutter-trocken/EDEKA-Komplett-Mahlzeit-Saftige-Happen-1-5KG.html?force_sid=t5f680lslkgd59bu2dmiir3qn9",
+      "category": "Hundefutter-trocken"
+    },
+    {
+      "name": "Perfect Fit Adult 1+ <10kg reich an Huhn 1,4KG ",
+      "page": "https://www.edeka24.de/Drogerie/Tiernahrung/Hundefutter-trocken/Perfect-Fit-Adult-1-10kg-reich-an-Huhn-1-4KG-oxid.html?force_sid=t5f680lslkgd59bu2dmiir3qn9",
+      "category": "Hundefutter-trocken"
+    },
+    {
+      "name": "EDEKA Naturals Frischgeflügel mit Reis, Mais & Hirse 1,5KG ",
+      "page": "https://www.edeka24.de/Drogerie/Tiernahrung/Hundefutter-trocken/EDEKA-Naturals-Frischgefluegel-mit-Reis-Mais-Hirse-1-5KG.html?force_sid=t5f680lslkgd59bu2dmiir3qn9",
+      "category": "Hundefutter-trocken"
+    }
+  ]
+}

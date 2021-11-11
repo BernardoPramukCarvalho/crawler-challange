@@ -1,0 +1,594 @@
+{
+  "products": [
+    {
+      "name": "Leibniz Choco Vollmilch Kekse 125 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Gebaeck-Kekse-Waffeln/Leibniz-Choco-Vollmilch-Kekse-125-g.html?force_sid=gtpjg01nsf7a9eafk3fsaqbqbb",
+      "category": "Gebaeck-Kekse-Waffeln"
+    },
+    {
+      "name": "De Beukelaer Prinzen Rolle Kakao 400 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Gebaeck-Kekse-Waffeln/De-Beukelaer-Prinzen-Rolle-Kakao-400-g.html?force_sid=gtpjg01nsf7a9eafk3fsaqbqbb",
+      "category": "Gebaeck-Kekse-Waffeln"
+    },
+    {
+      "name": "Alnatura Bio Dinkel Doppel Keks Zartbitter 330G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Gebaeck-Kekse-Waffeln/Alnatura-Bio-Dinkel-Doppel-Keks-Zartbitter-330G.html?force_sid=gtpjg01nsf7a9eafk3fsaqbqbb",
+      "category": "Gebaeck-Kekse-Waffeln"
+    },
+    {
+      "name": "Griesson Schokokeks Vollmilch 125 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Gebaeck-Kekse-Waffeln/Griesson-Schokokeks-Vollmilch-125-g.html?force_sid=gtpjg01nsf7a9eafk3fsaqbqbb",
+      "category": "Gebaeck-Kekse-Waffeln"
+    },
+    {
+      "name": "Alnatura Bio Schoko Orangen Kekse 150G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Gebaeck-Kekse-Waffeln/Alnatura-Bio-Schoko-Orangen-Kekse-150G.html?force_sid=gtpjg01nsf7a9eafk3fsaqbqbb",
+      "category": "Gebaeck-Kekse-Waffeln"
+    },
+    {
+      "name": "Griesson Soft Cake Zartbitter-Orange 300 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Gebaeck-Kekse-Waffeln/Griesson-Soft-Cake-Zartbitter-Orange-300-g.html?force_sid=gtpjg01nsf7a9eafk3fsaqbqbb",
+      "category": "Gebaeck-Kekse-Waffeln"
+    },
+    {
+      "name": "Alnatura Bio Schoko Dinkel Kugeln 125G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Gebaeck-Kekse-Waffeln/Alnatura-Bio-Schoko-Dinkel-Kugeln-125G.html?force_sid=gtpjg01nsf7a9eafk3fsaqbqbb",
+      "category": "Gebaeck-Kekse-Waffeln"
+    },
+    {
+      "name": "EDEKA Triple Chocolate Cookies 200 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Gebaeck-Kekse-Waffeln/EDEKA-Triple-Chocolate-Cookies-200-g.html?force_sid=gtpjg01nsf7a9eafk3fsaqbqbb",
+      "category": "Gebaeck-Kekse-Waffeln"
+    },
+    {
+      "name": "EDEKA Double Chocolate Cookies 200 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Gebaeck-Kekse-Waffeln/EDEKA-Double-Chocolate-Cookies-200-g.html?force_sid=gtpjg01nsf7a9eafk3fsaqbqbb",
+      "category": "Gebaeck-Kekse-Waffeln"
+    },
+    {
+      "name": "EDEKA Bio Hafer-Cookies mit Schokolade 200 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Gebaeck-Kekse-Waffeln/EDEKA-Bio-Hafer-Cookies-mit-Schokolade-200-g.html?force_sid=gtpjg01nsf7a9eafk3fsaqbqbb",
+      "category": "Gebaeck-Kekse-Waffeln"
+    },
+    {
+      "name": "Alnatura Bio Honig Waffeln 175G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Gebaeck-Kekse-Waffeln/Alnatura-Bio-Honig-Waffeln-175G.html?force_sid=gtpjg01nsf7a9eafk3fsaqbqbb",
+      "category": "Gebaeck-Kekse-Waffeln"
+    },
+    {
+      "name": "Leibniz Pick UP! Mini Choco 127 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Gebaeck-Kekse-Waffeln/Leibniz-Pick-UP-Mini-Choco-127-g.html?force_sid=gtpjg01nsf7a9eafk3fsaqbqbb",
+      "category": "Gebaeck-Kekse-Waffeln"
+    },
+    {
+      "name": "Alnatura Bio Dinkel Doppel Keks 330G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Gebaeck-Kekse-Waffeln/Alnatura-Bio-Dinkel-Doppel-Keks-330G.html?force_sid=gtpjg01nsf7a9eafk3fsaqbqbb",
+      "category": "Gebaeck-Kekse-Waffeln"
+    },
+    {
+      "name": "Lambertz Compliments Gebäckmischung 2x 250 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Gebaeck-Kekse-Waffeln/Lambertz-Compliments-Gebaeckmischung-2x-250-g.html?force_sid=gtpjg01nsf7a9eafk3fsaqbqbb",
+      "category": "Gebaeck-Kekse-Waffeln"
+    },
+    {
+      "name": "Leibniz Butterkeks 200 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Gebaeck-Kekse-Waffeln/Leibniz-Butterkeks-200-g.html?force_sid=gtpjg01nsf7a9eafk3fsaqbqbb",
+      "category": "Gebaeck-Kekse-Waffeln"
+    },
+    {
+      "name": "Bahlsen ABC Russisch Brot 100 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Gebaeck-Kekse-Waffeln/Bahlsen-ABC-Russisch-Brot-100-g.html?force_sid=gtpjg01nsf7a9eafk3fsaqbqbb",
+      "category": "Gebaeck-Kekse-Waffeln"
+    },
+    {
+      "name": "Alnatura Bio Maiswaffeln natur 110G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Gebaeck-Kekse-Waffeln/Alnatura-Bio-Maiswaffeln-natur-110G.html?force_sid=gtpjg01nsf7a9eafk3fsaqbqbb",
+      "category": "Gebaeck-Kekse-Waffeln"
+    },
+    {
+      "name": "EDEKA Savoiardi Italienisches Löffelbiskuit 2x 100 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Gebaeck-Kekse-Waffeln/EDEKA-Savoiardi-Italienisches-Loeffelbiskuit-2x-100-g.html?force_sid=gtpjg01nsf7a9eafk3fsaqbqbb",
+      "category": "Gebaeck-Kekse-Waffeln"
+    },
+    {
+      "name": "Alnatura Bio Schoko Reis Waffeln Vollmilch 100G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Gebaeck-Kekse-Waffeln/Alnatura-Bio-Schoko-Reis-Waffeln-Vollmilch-100G.html?force_sid=gtpjg01nsf7a9eafk3fsaqbqbb",
+      "category": "Gebaeck-Kekse-Waffeln"
+    },
+    {
+      "name": "Bahlsen Rekord Knusprige Waffel-Mischung 250 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Gebaeck-Kekse-Waffeln/Bahlsen-Rekord-Knusprige-Waffel-Mischung-250-g.html?force_sid=gtpjg01nsf7a9eafk3fsaqbqbb",
+      "category": "Gebaeck-Kekse-Waffeln"
+    },
+    {
+      "name": "Leibniz Pick Up! Choco 5x 28 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Gebaeck-Kekse-Waffeln/Leibniz-Pick-Up-Choco-5x-28-g.html?force_sid=gtpjg01nsf7a9eafk3fsaqbqbb",
+      "category": "Gebaeck-Kekse-Waffeln"
+    },
+    {
+      "name": "Alnatura Bio Schoko Butterkeks mit Vollmilchschokolade 130G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Gebaeck-Kekse-Waffeln/Alnatura-Bio-Schoko-Butterkeks-mit-Vollmilchschokolade-130G.html?force_sid=gtpjg01nsf7a9eafk3fsaqbqbb",
+      "category": "Gebaeck-Kekse-Waffeln"
+    },
+    {
+      "name": "Alnatura Bio Dinkel Löffelbiskuits 125 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Gebaeck-Kekse-Waffeln/Alnatura-Bio-Dinkel-Loeffelbiskuits-125-g.html?force_sid=gtpjg01nsf7a9eafk3fsaqbqbb",
+      "category": "Gebaeck-Kekse-Waffeln"
+    },
+    {
+      "name": "Griesson Soft Cake Vollmilch-Orange 300 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Gebaeck-Kekse-Waffeln/Griesson-Soft-Cake-Vollmilch-Orange-300-g.html?force_sid=gtpjg01nsf7a9eafk3fsaqbqbb",
+      "category": "Gebaeck-Kekse-Waffeln"
+    },
+    {
+      "name": "Alnatura Bio Reiswaffeln natur 100G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Gebaeck-Kekse-Waffeln/Alnatura-Bio-Reiswaffeln-natur-100G.html?force_sid=gtpjg01nsf7a9eafk3fsaqbqbb",
+      "category": "Gebaeck-Kekse-Waffeln"
+    },
+    {
+      "name": "Alnatura Bio Dinkel Knusper Taler Zartbitter 100G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Gebaeck-Kekse-Waffeln/Alnatura-Bio-Dinkel-Knusper-Taler-Zartbitter-100G.html?force_sid=gtpjg01nsf7a9eafk3fsaqbqbb",
+      "category": "Gebaeck-Kekse-Waffeln"
+    },
+    {
+      "name": "Bahlsen Kipferl 125 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Gebaeck-Kekse-Waffeln/Bahlsen-Kipferl-125-g.html?force_sid=gtpjg01nsf7a9eafk3fsaqbqbb",
+      "category": "Gebaeck-Kekse-Waffeln"
+    },
+    {
+      "name": "EDEKA Italia Cantuccini 250G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Gebaeck-Kekse-Waffeln/EDEKA-Italia-Cantuccini-250G.html?force_sid=gtpjg01nsf7a9eafk3fsaqbqbb",
+      "category": "Gebaeck-Kekse-Waffeln"
+    },
+    {
+      "name": "Leibniz Butterkeks 30% weniger Zucker 150 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Gebaeck-Kekse-Waffeln/Leibniz-Butterkeks-30-weniger-Zucker-150-g.html?force_sid=gtpjg01nsf7a9eafk3fsaqbqbb",
+      "category": "Gebaeck-Kekse-Waffeln"
+    },
+    {
+      "name": "Alnatura Bio Dinkel Waffel Blätter Vollmilch 125G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Gebaeck-Kekse-Waffeln/Alnatura-Bio-Dinkel-Waffel-Blaetter-Vollmilch-125G.html?force_sid=gtpjg01nsf7a9eafk3fsaqbqbb",
+      "category": "Gebaeck-Kekse-Waffeln"
+    },
+    {
+      "name": "Alnatura Bio Mais Minis a la Sour Cream & Onion 50 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Gebaeck-Kekse-Waffeln/Alnatura-Bio-Mais-Minis-a-la-Sour-Cream-Onion-50-g.html?force_sid=mupfejnleikcupjrkagv78pnqj",
+      "category": "Gebaeck-Kekse-Waffeln"
+    },
+    {
+      "name": "Mikado Milchschokolade 75G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Gebaeck-Kekse-Waffeln/Mikado-Milchschokolade-75G.html?force_sid=mupfejnleikcupjrkagv78pnqj",
+      "category": "Gebaeck-Kekse-Waffeln"
+    },
+    {
+      "name": "Leibniz Black`n White Kekse 125 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Gebaeck-Kekse-Waffeln/Leibniz-Black-n-White-Kekse-125-g.html?force_sid=mupfejnleikcupjrkagv78pnqj",
+      "category": "Gebaeck-Kekse-Waffeln"
+    },
+    {
+      "name": "Leibniz Kunterbunt 150 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Gebaeck-Kekse-Waffeln/Leibniz-Kunterbunt-150-g.html?force_sid=mupfejnleikcupjrkagv78pnqj",
+      "category": "Gebaeck-Kekse-Waffeln"
+    },
+    {
+      "name": "Leibniz Haferkeks 230G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Gebaeck-Kekse-Waffeln/Leibniz-Haferkeks-230G.html?force_sid=mupfejnleikcupjrkagv78pnqj",
+      "category": "Gebaeck-Kekse-Waffeln"
+    },
+    {
+      "name": "Kölln knuspriger Haferkeks 200G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Gebaeck-Kekse-Waffeln/Koelln-knuspriger-Haferkeks-200G.html?force_sid=mupfejnleikcupjrkagv78pnqj",
+      "category": "Gebaeck-Kekse-Waffeln"
+    },
+    {
+      "name": "Alnatura Bio Dinkel Butterkeks 150G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Gebaeck-Kekse-Waffeln/Alnatura-Bio-Dinkel-Butterkeks-150G.html?force_sid=mupfejnleikcupjrkagv78pnqj",
+      "category": "Gebaeck-Kekse-Waffeln"
+    },
+    {
+      "name": "Mc Vities Milk Chocolate Weizenkekse 200G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Gebaeck-Kekse-Waffeln/Mc-Vities-Milk-Chocolate-Weizenkekse-200G.html?force_sid=mupfejnleikcupjrkagv78pnqj",
+      "category": "Gebaeck-Kekse-Waffeln"
+    },
+    {
+      "name": "Alnatura Bio Maiswaffeln mit Meersalz 110G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Gebaeck-Kekse-Waffeln/Alnatura-Bio-Maiswaffeln-mit-Meersalz-110G.html?force_sid=mupfejnleikcupjrkagv78pnqj",
+      "category": "Gebaeck-Kekse-Waffeln"
+    },
+    {
+      "name": "EDEKA Chocolate Cream Cookies 210 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Gebaeck-Kekse-Waffeln/EDEKA-Chocolate-Cream-Cookies-210-g.html?force_sid=mupfejnleikcupjrkagv78pnqj",
+      "category": "Gebaeck-Kekse-Waffeln"
+    },
+    {
+      "name": "Alnatura Bio Schoko Reis Waffeln Zartbitter Orange 100 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Gebaeck-Kekse-Waffeln/Alnatura-Bio-Schoko-Reis-Waffeln-Zartbitter-Orange-100-g.html?force_sid=mupfejnleikcupjrkagv78pnqj",
+      "category": "Gebaeck-Kekse-Waffeln"
+    },
+    {
+      "name": "Griesson Chocolate Mountain Cookies Big Nut 150 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Gebaeck-Kekse-Waffeln/Griesson-Chocolate-Mountain-Cookies-Big-Nut-150-g.html?force_sid=mupfejnleikcupjrkagv78pnqj",
+      "category": "Gebaeck-Kekse-Waffeln"
+    },
+    {
+      "name": "Coppenrath Wiener Sandringe 200 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Gebaeck-Kekse-Waffeln/Coppenrath-Wiener-Sandringe-200-g.html?force_sid=mupfejnleikcupjrkagv78pnqj",
+      "category": "Gebaeck-Kekse-Waffeln"
+    },
+    {
+      "name": "Milka Choco Cookies Kekse 168 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Gebaeck-Kekse-Waffeln/Milka-Choco-Cookies-Kekse-168-g.html?force_sid=mupfejnleikcupjrkagv78pnqj",
+      "category": "Gebaeck-Kekse-Waffeln"
+    },
+    {
+      "name": "Alnatura Bio Dinkel Knusper Taler Vollmilch 100G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Gebaeck-Kekse-Waffeln/Alnatura-Bio-Dinkel-Knusper-Taler-Vollmilch-100G.html?force_sid=mupfejnleikcupjrkagv78pnqj",
+      "category": "Gebaeck-Kekse-Waffeln"
+    },
+    {
+      "name": "Griesson Bio Soft Cake Orange 150G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Gebaeck-Kekse-Waffeln/Griesson-Bio-Soft-Cake-Orange-150G.html?force_sid=mupfejnleikcupjrkagv78pnqj",
+      "category": "Gebaeck-Kekse-Waffeln"
+    },
+    {
+      "name": "Kuchenmeister Koala Kakao 75G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Gebaeck-Kekse-Waffeln/Kuchenmeister-Koala-Kakao-75G.html?force_sid=mupfejnleikcupjrkagv78pnqj",
+      "category": "Gebaeck-Kekse-Waffeln"
+    },
+    {
+      "name": "De Beukelaer Prinzen Rolle Cremys 172 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Gebaeck-Kekse-Waffeln/De-Beukelaer-Prinzen-Rolle-Cremys-172-g.html?force_sid=mupfejnleikcupjrkagv78pnqj",
+      "category": "Gebaeck-Kekse-Waffeln"
+    },
+    {
+      "name": "Mc Vities Digestive Original Weizenkeks 250G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Gebaeck-Kekse-Waffeln/Mc-Vities-Digestive-Original-Weizenkeks-250G.html?force_sid=mupfejnleikcupjrkagv78pnqj",
+      "category": "Gebaeck-Kekse-Waffeln"
+    },
+    {
+      "name": "Kägi Classic Minis 125 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Gebaeck-Kekse-Waffeln/Kaegi-Classic-Minis-125-g.html?force_sid=mupfejnleikcupjrkagv78pnqj",
+      "category": "Gebaeck-Kekse-Waffeln"
+    },
+    {
+      "name": "Griesson Soft Cake Himbeer 300 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Gebaeck-Kekse-Waffeln/Griesson-Soft-Cake-Himbeer-300-g.html?force_sid=mupfejnleikcupjrkagv78pnqj",
+      "category": "Gebaeck-Kekse-Waffeln"
+    },
+    {
+      "name": "Manner Schnitten mit Haselnusscreme 400 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Gebaeck-Kekse-Waffeln/Manner-Schnitten-mit-Haselnusscreme-400-g.html?force_sid=mupfejnleikcupjrkagv78pnqj",
+      "category": "Gebaeck-Kekse-Waffeln"
+    },
+    {
+      "name": "Alnatura Bio Mais Amaranth Waffeln mit Reis & Leinsamen 115G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Gebaeck-Kekse-Waffeln/Alnatura-Bio-Mais-Amaranth-Waffeln-mit-Reis-Leinsamen-115G.html?force_sid=mupfejnleikcupjrkagv78pnqj",
+      "category": "Gebaeck-Kekse-Waffeln"
+    },
+    {
+      "name": "EDEKA Italia Amaretti 150G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Gebaeck-Kekse-Waffeln/EDEKA-Italia-Amaretti-150G.html?force_sid=mupfejnleikcupjrkagv78pnqj",
+      "category": "Gebaeck-Kekse-Waffeln"
+    },
+    {
+      "name": "Leibniz Pick Up! Choco und Milch 5x 28 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Gebaeck-Kekse-Waffeln/Leibniz-Pick-Up-Choco-und-Milch-5x-28-g.html?force_sid=mupfejnleikcupjrkagv78pnqj",
+      "category": "Gebaeck-Kekse-Waffeln"
+    },
+    {
+      "name": "De Beukelaer Prinzen Rolle Vollkorn 352 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Gebaeck-Kekse-Waffeln/De-Beukelaer-Prinzen-Rolle-Vollkorn-352-g.html?force_sid=mupfejnleikcupjrkagv78pnqj",
+      "category": "Gebaeck-Kekse-Waffeln"
+    },
+    {
+      "name": "Brandt Hobbits Schoko 265 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Gebaeck-Kekse-Waffeln/Brandt-Hobbits-Schoko-265-g.html?force_sid=mupfejnleikcupjrkagv78pnqj",
+      "category": "Gebaeck-Kekse-Waffeln"
+    },
+    {
+      "name": "Ferrero Kinder Cards 128G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Gebaeck-Kekse-Waffeln/Ferrero-Kinder-Cards-128G.html?force_sid=mupfejnleikcupjrkagv78pnqj",
+      "category": "Gebaeck-Kekse-Waffeln"
+    },
+    {
+      "name": "Bahlsen Waffeletten Vollmilch 100 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Gebaeck-Kekse-Waffeln/Bahlsen-Waffeletten-Vollmilch-100-g.html?force_sid=mupfejnleikcupjrkagv78pnqj",
+      "category": "Gebaeck-Kekse-Waffeln"
+    },
+    {
+      "name": "Mikado Zartherbe Schokolade 75G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Gebaeck-Kekse-Waffeln/Mikado-Zartherbe-Schokolade-75G.html?force_sid=mupfejnleikcupjrkagv78pnqj",
+      "category": "Gebaeck-Kekse-Waffeln"
+    },
+    {
+      "name": "Alnatura Bio Kakao Doppel Keks Milch & Honig 330G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Gebaeck-Kekse-Waffeln/Alnatura-Bio-Kakao-Doppel-Keks-Milch-Honig-330G.html?force_sid=r3rtgjbvrjj9ht2dioobajj0vc",
+      "category": "Gebaeck-Kekse-Waffeln"
+    },
+    {
+      "name": "Lambertz Choco Fleur 125 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Gebaeck-Kekse-Waffeln/Lambertz-Choco-Fleur-125-g.html?force_sid=r3rtgjbvrjj9ht2dioobajj0vc",
+      "category": "Gebaeck-Kekse-Waffeln"
+    },
+    {
+      "name": "Lambertz Balena 125 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Gebaeck-Kekse-Waffeln/Lambertz-Balena-125-g.html?force_sid=r3rtgjbvrjj9ht2dioobajj0vc",
+      "category": "Gebaeck-Kekse-Waffeln"
+    },
+    {
+      "name": "Loacker Vanille 90G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Gebaeck-Kekse-Waffeln/Loacker-Vanille-90G.html?force_sid=r3rtgjbvrjj9ht2dioobajj0vc",
+      "category": "Gebaeck-Kekse-Waffeln"
+    },
+    {
+      "name": "Mc Vities Dark Chocolate Weizenkekse 200G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Gebaeck-Kekse-Waffeln/Mc-Vities-Dark-Chocolate-Weizenkekse-200G.html?force_sid=r3rtgjbvrjj9ht2dioobajj0vc",
+      "category": "Gebaeck-Kekse-Waffeln"
+    },
+    {
+      "name": "Brandt Hobbits kernig 250 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Gebaeck-Kekse-Waffeln/Brandt-Hobbits-kernig-250-g.html?force_sid=r3rtgjbvrjj9ht2dioobajj0vc",
+      "category": "Gebaeck-Kekse-Waffeln"
+    },
+    {
+      "name": "Schär Choco Keks Zartbitterschokoalde 150G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Gebaeck-Kekse-Waffeln/Schaer-Choco-Keks-Zartbitterschokoalde-150G.html?force_sid=r3rtgjbvrjj9ht2dioobajj0vc",
+      "category": "Gebaeck-Kekse-Waffeln"
+    },
+    {
+      "name": "Griesson Soft Cake Kirsch 300 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Gebaeck-Kekse-Waffeln/Griesson-Soft-Cake-Kirsch-300-g.html?force_sid=r3rtgjbvrjj9ht2dioobajj0vc",
+      "category": "Gebaeck-Kekse-Waffeln"
+    },
+    {
+      "name": "Manner Neapolitaner Schnitten Rosa 75 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Gebaeck-Kekse-Waffeln/Manner-Neapolitaner-Schnitten-Rosa-75-g.html?force_sid=r3rtgjbvrjj9ht2dioobajj0vc",
+      "category": "Gebaeck-Kekse-Waffeln"
+    },
+    {
+      "name": "Alnatura Bio Mais-Amaranth Waffeln Fenchel 115G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Gebaeck-Kekse-Waffeln/Alnatura-Bio-Mais-Amaranth-Waffeln-Fenchel-115G.html?force_sid=r3rtgjbvrjj9ht2dioobajj0vc",
+      "category": "Gebaeck-Kekse-Waffeln"
+    },
+    {
+      "name": "Alnatura Bio Schoko Dinkel Brezeln 100G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Gebaeck-Kekse-Waffeln/Alnatura-Bio-Schoko-Dinkel-Brezeln-100G.html?force_sid=r3rtgjbvrjj9ht2dioobajj0vc",
+      "category": "Gebaeck-Kekse-Waffeln"
+    },
+    {
+      "name": "Leibniz Kakaokeks 200 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Gebaeck-Kekse-Waffeln/Leibniz-Kakaokeks-200-g.html?force_sid=r3rtgjbvrjj9ht2dioobajj0vc",
+      "category": "Gebaeck-Kekse-Waffeln"
+    },
+    {
+      "name": "De Beukelaer Prinzen Rolle Choco Duo 352 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Gebaeck-Kekse-Waffeln/De-Beukelaer-Prinzen-Rolle-Choco-Duo-352-g.html?force_sid=r3rtgjbvrjj9ht2dioobajj0vc",
+      "category": "Gebaeck-Kekse-Waffeln"
+    },
+    {
+      "name": "Bahlsen Messino Vollmilch 125 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Gebaeck-Kekse-Waffeln/Bahlsen-Messino-Vollmilch-125-g.html?force_sid=r3rtgjbvrjj9ht2dioobajj0vc",
+      "category": "Gebaeck-Kekse-Waffeln"
+    },
+    {
+      "name": "Milka Choco Pause 260 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Gebaeck-Kekse-Waffeln/Milka-Choco-Pause-260-g.html?force_sid=r3rtgjbvrjj9ht2dioobajj0vc",
+      "category": "Gebaeck-Kekse-Waffeln"
+    },
+    {
+      "name": "Alnatura Bio Karamell Waffeln 150G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Gebaeck-Kekse-Waffeln/Alnatura-Bio-Karamell-Waffeln-150G.html?force_sid=r3rtgjbvrjj9ht2dioobajj0vc",
+      "category": "Gebaeck-Kekse-Waffeln"
+    },
+    {
+      "name": "De Beukelaer Prinzen Rolle Minis 5x 37,5 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Gebaeck-Kekse-Waffeln/De-Beukelaer-Prinzen-Rolle-Minis-5x-37-5-g.html?force_sid=r3rtgjbvrjj9ht2dioobajj0vc",
+      "category": "Gebaeck-Kekse-Waffeln"
+    },
+    {
+      "name": "EDEKA Dark Chocolate & Hazelnut Cookies 200 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Gebaeck-Kekse-Waffeln/EDEKA-Dark-Chocolate-Hazelnut-Cookies-200-g.html?force_sid=r3rtgjbvrjj9ht2dioobajj0vc",
+      "category": "Gebaeck-Kekse-Waffeln"
+    },
+    {
+      "name": "Alnatura Bio Kakao Doppelkeks Kokos 330G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Gebaeck-Kekse-Waffeln/Alnatura-Bio-Kakao-Doppelkeks-Kokos-330G.html?force_sid=r3rtgjbvrjj9ht2dioobajj0vc",
+      "category": "Gebaeck-Kekse-Waffeln"
+    },
+    {
+      "name": "De Beukelaer ChocOlé Milchschokolade 75 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Gebaeck-Kekse-Waffeln/De-Beukelaer-ChocOl-Milchschokolade-75-g.html?force_sid=r3rtgjbvrjj9ht2dioobajj0vc",
+      "category": "Gebaeck-Kekse-Waffeln"
+    },
+    {
+      "name": "Milka ChocoMoo Kekse 200 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Gebaeck-Kekse-Waffeln/Milka-ChocoMoo-Kekse-200-g.html?force_sid=r3rtgjbvrjj9ht2dioobajj0vc",
+      "category": "Gebaeck-Kekse-Waffeln"
+    },
+    {
+      "name": "Oreo Doppelkeks Original 176 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Gebaeck-Kekse-Waffeln/Oreo-Doppelkeks-Original-176-g.html?force_sid=r3rtgjbvrjj9ht2dioobajj0vc",
+      "category": "Gebaeck-Kekse-Waffeln"
+    },
+    {
+      "name": "Oreo Golden 154G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Gebaeck-Kekse-Waffeln/Oreo-Golden-154G.html?force_sid=r3rtgjbvrjj9ht2dioobajj0vc",
+      "category": "Gebaeck-Kekse-Waffeln"
+    },
+    {
+      "name": "Oreo Enrobed White Kekse 246G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Gebaeck-Kekse-Waffeln/Oreo-Enrobed-White-Kekse-246G.html?force_sid=r3rtgjbvrjj9ht2dioobajj0vc",
+      "category": "Gebaeck-Kekse-Waffeln"
+    },
+    {
+      "name": "Loacker Napolitaner 90g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Gebaeck-Kekse-Waffeln/Loacker-Napolitaner-90g.html?force_sid=r3rtgjbvrjj9ht2dioobajj0vc",
+      "category": "Gebaeck-Kekse-Waffeln"
+    },
+    {
+      "name": "Alnatura Bio Joghurt Reiswaffeln 100G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Gebaeck-Kekse-Waffeln/Alnatura-Bio-Joghurt-Reiswaffeln-100G.html?force_sid=r3rtgjbvrjj9ht2dioobajj0vc",
+      "category": "Gebaeck-Kekse-Waffeln"
+    },
+    {
+      "name": "Milka Cookie Snax 165G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Gebaeck-Kekse-Waffeln/Milka-Cookie-Snax-165G.html?force_sid=r3rtgjbvrjj9ht2dioobajj0vc",
+      "category": "Gebaeck-Kekse-Waffeln"
+    },
+    {
+      "name": "Leibniz Minis-Butterkekse 150 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Gebaeck-Kekse-Waffeln/Leibniz-Minis-Butterkekse-150-g.html?force_sid=r3rtgjbvrjj9ht2dioobajj0vc",
+      "category": "Gebaeck-Kekse-Waffeln"
+    },
+    {
+      "name": "Manner Törtchen mit Kakao-Haselnusscreme 400 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Gebaeck-Kekse-Waffeln/Manner-Toertchen-mit-Kakao-Haselnusscreme-400-g.html?force_sid=r3rtgjbvrjj9ht2dioobajj0vc",
+      "category": "Gebaeck-Kekse-Waffeln"
+    },
+    {
+      "name": "Leibniz Pick UP! Mini Choco & Milk 127 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Gebaeck-Kekse-Waffeln/Leibniz-Pick-UP-Mini-Choco-Milk-127-g.html?force_sid=r3rtgjbvrjj9ht2dioobajj0vc",
+      "category": "Gebaeck-Kekse-Waffeln"
+    },
+    {
+      "name": "Kuchemeister Koala Milch 75G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Gebaeck-Kekse-Waffeln/Kuchemeister-Koala-Milch-75G.html?force_sid=13i4ioj010j6b852kjp3d5hq1s",
+      "category": "Gebaeck-Kekse-Waffeln"
+    },
+    {
+      "name": "Alnatura Bio Schoko Reis Waffeln Vollmilch Cocos 100 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Gebaeck-Kekse-Waffeln/Alnatura-Bio-Schoko-Reis-Waffeln-Vollmilch-Cocos-100-g.html?force_sid=13i4ioj010j6b852kjp3d5hq1s",
+      "category": "Gebaeck-Kekse-Waffeln"
+    },
+    {
+      "name": "Milka Cookies Sensations innen schokoladig 156 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Gebaeck-Kekse-Waffeln/Milka-Cookies-Sensations-innen-schokoladig-156-g.html?force_sid=13i4ioj010j6b852kjp3d5hq1s",
+      "category": "Gebaeck-Kekse-Waffeln"
+    },
+    {
+      "name": "Bahlsen Ohne Gleichen Edelherb 125 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Gebaeck-Kekse-Waffeln/Bahlsen-Ohne-Gleichen-Edelherb-125-g.html?force_sid=13i4ioj010j6b852kjp3d5hq1s",
+      "category": "Gebaeck-Kekse-Waffeln"
+    },
+    {
+      "name": "Bahlsen Butterblätter 125g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Gebaeck-Kekse-Waffeln/Bahlsen-Butterblaetter-125g.html?force_sid=13i4ioj010j6b852kjp3d5hq1s",
+      "category": "Gebaeck-Kekse-Waffeln"
+    },
+    {
+      "name": "Manner Schnitten Zitrone 400 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Gebaeck-Kekse-Waffeln/Manner-Schnitten-Zitrone-400-g.html?force_sid=13i4ioj010j6b852kjp3d5hq1s",
+      "category": "Gebaeck-Kekse-Waffeln"
+    },
+    {
+      "name": "Minus L Butterkekse mit Schokolade 125 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Gebaeck-Kekse-Waffeln/Minus-L-Butterkekse-mit-Schokolade-125-g.html?force_sid=13i4ioj010j6b852kjp3d5hq1s",
+      "category": "Gebaeck-Kekse-Waffeln"
+    },
+    {
+      "name": "Loacker Gran Pasticceria Noisette 100 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Gebaeck-Kekse-Waffeln/Loacker-Gran-Pasticceria-Noisette-100-g.html?force_sid=13i4ioj010j6b852kjp3d5hq1s",
+      "category": "Gebaeck-Kekse-Waffeln"
+    },
+    {
+      "name": "De Beukelaer Cereola Der Kernige Milchschokolade 150 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Gebaeck-Kekse-Waffeln/De-Beukelaer-Cereola-Der-Kernige-Milchschokolade-150-g.html?force_sid=13i4ioj010j6b852kjp3d5hq1s",
+      "category": "Gebaeck-Kekse-Waffeln"
+    },
+    {
+      "name": "Ovomaltine Crunchy Biscuit Kekse 250 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Gebaeck-Kekse-Waffeln/Ovomaltine-Crunchy-Biscuit-Kekse-250-g.html?force_sid=13i4ioj010j6b852kjp3d5hq1s",
+      "category": "Gebaeck-Kekse-Waffeln"
+    },
+    {
+      "name": "Pico Madeleines mit Kakao 250g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Gebaeck-Kekse-Waffeln/Pico-Madeleines-mit-Kakao-250g.html?force_sid=13i4ioj010j6b852kjp3d5hq1s",
+      "category": "Gebaeck-Kekse-Waffeln"
+    },
+    {
+      "name": "Loacker Gran Pasticceria Coconut 100 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Gebaeck-Kekse-Waffeln/Loacker-Gran-Pasticceria-Coconut-100-g.html?force_sid=13i4ioj010j6b852kjp3d5hq1s",
+      "category": "Gebaeck-Kekse-Waffeln"
+    },
+    {
+      "name": "Bahlsen Ohne Gleichen Vollmilch 125 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Gebaeck-Kekse-Waffeln/Bahlsen-Ohne-Gleichen-Vollmilch-125-g.html?force_sid=13i4ioj010j6b852kjp3d5hq1s",
+      "category": "Gebaeck-Kekse-Waffeln"
+    },
+    {
+      "name": "Bahlsen Chokini 150 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Gebaeck-Kekse-Waffeln/Bahlsen-Chokini-150-g.html?force_sid=13i4ioj010j6b852kjp3d5hq1s",
+      "category": "Gebaeck-Kekse-Waffeln"
+    },
+    {
+      "name": "Sommer Demeter Dinkel Cantuccini 150 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Gebaeck-Kekse-Waffeln/Sommer-Demeter-Dinkel-Cantuccini-150-g.html?force_sid=13i4ioj010j6b852kjp3d5hq1s",
+      "category": "Gebaeck-Kekse-Waffeln"
+    },
+    {
+      "name": "De Beukelaer Decor on Ice Waffelbecher 60 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Gebaeck-Kekse-Waffeln/De-Beukelaer-Decor-on-Ice-Waffelbecher-60-g.html?force_sid=13i4ioj010j6b852kjp3d5hq1s",
+      "category": "Gebaeck-Kekse-Waffeln"
+    },
+    {
+      "name": "Bohlsener Mühle Bio Keks Freunde Schoko 250G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Gebaeck-Kekse-Waffeln/Bohlsener-Muehle-Bio-Keks-Freunde-Schoko-250G.html?force_sid=13i4ioj010j6b852kjp3d5hq1s",
+      "category": "Gebaeck-Kekse-Waffeln"
+    },
+    {
+      "name": "Alnatura Bio Reiswaffeln Meersalz 100G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Gebaeck-Kekse-Waffeln/Alnatura-Bio-Reiswaffeln-Meersalz-100G.html?force_sid=13i4ioj010j6b852kjp3d5hq1s",
+      "category": "Gebaeck-Kekse-Waffeln"
+    },
+    {
+      "name": "Bahlsen Messino Edelherb 125 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Gebaeck-Kekse-Waffeln/Bahlsen-Messino-Edelherb-125-g.html?force_sid=13i4ioj010j6b852kjp3d5hq1s",
+      "category": "Gebaeck-Kekse-Waffeln"
+    },
+    {
+      "name": "Schär Choco Chip Cookie glutenfrei 200g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Gebaeck-Kekse-Waffeln/Schaer-Choco-Chip-Cookie-glutenfrei-200g.html?force_sid=13i4ioj010j6b852kjp3d5hq1s",
+      "category": "Gebaeck-Kekse-Waffeln"
+    },
+    {
+      "name": "Knoppers Black & White 8 Stück 200g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Gebaeck-Kekse-Waffeln/Knoppers-Black-White-8-Stueck-200g.html?force_sid=13i4ioj010j6b852kjp3d5hq1s",
+      "category": "Gebaeck-Kekse-Waffeln"
+    },
+    {
+      "name": "Leibniz Keks'n Cream Choco 228 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Gebaeck-Kekse-Waffeln/Leibniz-Keks-n-Cream-Choco-228-g.html?force_sid=13i4ioj010j6b852kjp3d5hq1s",
+      "category": "Gebaeck-Kekse-Waffeln"
+    },
+    {
+      "name": "Oreo Double 170G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Gebaeck-Kekse-Waffeln/Oreo-Double-170G.html?force_sid=13i4ioj010j6b852kjp3d5hq1s",
+      "category": "Gebaeck-Kekse-Waffeln"
+    },
+    {
+      "name": "Manner Neapolitaner Schnitten Volllkorn 300 g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Gebaeck-Kekse-Waffeln/Manner-Neapolitaner-Schnitten-Volllkorn-300-g.html?force_sid=13i4ioj010j6b852kjp3d5hq1s",
+      "category": "Gebaeck-Kekse-Waffeln"
+    },
+    {
+      "name": "Oreo Double Creme 157G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Gebaeck-Kekse-Waffeln/Oreo-Double-Creme-157G.html?force_sid=13i4ioj010j6b852kjp3d5hq1s",
+      "category": "Gebaeck-Kekse-Waffeln"
+    },
+    {
+      "name": "Bahlsen Hermann Bahlsen Collection 2x 227G ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Gebaeck-Kekse-Waffeln/Bahlsen-Hermann-Bahlsen-Collection-2x-227G.html?force_sid=13i4ioj010j6b852kjp3d5hq1s",
+      "category": "Gebaeck-Kekse-Waffeln"
+    },
+    {
+      "name": "Ferrero Kinder bueno white 6 Stück 117g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Gebaeck-Kekse-Waffeln/Ferrero-Kinder-bueno-white-6-Stueck-117g.html?force_sid=13i4ioj010j6b852kjp3d5hq1s",
+      "category": "Gebaeck-Kekse-Waffeln"
+    },
+    {
+      "name": "Kinder Bueno 6 Stück 129g ",
+      "page": "https://www.edeka24.de/Lebensmittel/Suess-und-Salzig/Gebaeck-Kekse-Waffeln/Kinder-Bueno-6-Stueck-129g.html?force_sid=13i4ioj010j6b852kjp3d5hq1s",
+      "category": "Gebaeck-Kekse-Waffeln"
+    }
+  ]
+}

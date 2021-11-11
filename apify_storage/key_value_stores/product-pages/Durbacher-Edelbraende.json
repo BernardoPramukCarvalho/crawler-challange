@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "name": "Durbacher Edle Haselnuss 38% 500ml ",
+      "page": "https://www.edeka24.de/Aktionen/Durbacher-Edelbraende/Durbacher-Edle-Haselnuss-38-500ml.html?force_sid=ktd1m5ptor0uhteqlf4qcsfl28",
+      "category": "Durbacher-Edelbraende"
+    },
+    {
+      "name": "Durbacher Edle Marille 35% 500ml ",
+      "page": "https://www.edeka24.de/Aktionen/Durbacher-Edelbraende/Durbacher-Edle-Marille-35-500ml.html?force_sid=ktd1m5ptor0uhteqlf4qcsfl28",
+      "category": "Durbacher-Edelbraende"
+    },
+    {
+      "name": "Durbacher Edle Pflaume 43% 500ml ",
+      "page": "https://www.edeka24.de/Aktionen/Durbacher-Edelbraende/Durbacher-Edle-Pflaume-43-500ml.html?force_sid=ktd1m5ptor0uhteqlf4qcsfl28",
+      "category": "Durbacher-Edelbraende"
+    },
+    {
+      "name": "Durbacher Edle Williams Birne 40% 500ml ",
+      "page": "https://www.edeka24.de/Aktionen/Durbacher-Edelbraende/Durbacher-Edle-Williams-Birne-40-500ml.html?force_sid=ktd1m5ptor0uhteqlf4qcsfl28",
+      "category": "Durbacher-Edelbraende"
+    },
+    {
+      "name": "Durbacher Edler Hausschnaps 35% 500ml ",
+      "page": "https://www.edeka24.de/Aktionen/Durbacher-Edelbraende/Durbacher-Edler-Hausschnaps-35-500ml.html?force_sid=ktd1m5ptor0uhteqlf4qcsfl28",
+      "category": "Durbacher-Edelbraende"
+    },
+    {
+      "name": "Durbacher Edler Kirschen Likör 22% 500ml ",
+      "page": "https://www.edeka24.de/Aktionen/Durbacher-Edelbraende/Durbacher-Edler-Kirschen-Likoer-22-500ml.html?force_sid=ktd1m5ptor0uhteqlf4qcsfl28",
+      "category": "Durbacher-Edelbraende"
+    },
+    {
+      "name": "Durbacher Edler Weinberg-Pfirsich Likör 22% 500ml ",
+      "page": "https://www.edeka24.de/Aktionen/Durbacher-Edelbraende/Durbacher-Edler-Weinberg-Pfirsich-Likoer-22-500ml.html?force_sid=ktd1m5ptor0uhteqlf4qcsfl28",
+      "category": "Durbacher-Edelbraende"
+    }
+  ]
+}
